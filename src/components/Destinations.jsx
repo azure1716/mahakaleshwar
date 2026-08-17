@@ -1,5 +1,5 @@
 import ScrollReveal from "./ScrollReveal";
-import imgDeluxe from "../assets/room_deluxe.png"; // fallback backgrounds for destination cards
+import imgDeluxe from "../assets/room_deluxe.webp"; // fallback backgrounds for destination cards
 
 const destinations = [
   {

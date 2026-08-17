@@ -1,5 +1,5 @@
 import { Phone, MessageSquare, ArrowDown, Bell } from "lucide-react";
-import heroBg from "../assets/hero_temple_bg.png";
+import heroBg from "../assets/hero_temple_bg.webp";
 
 const Hero = () => {
   const scrollToRooms = () => {
@@ -43,6 +43,7 @@ const Hero = () => {
         <img
           src={heroBg}
           alt="Shri Mahakaleshwar Temple Ujjain background"
+          loading="eager"
           decoding="async"
           fetchPriority="high"
           className="w-full h-full object-cover object-center opacity-30 pointer-events-none animate-slow-zoom"

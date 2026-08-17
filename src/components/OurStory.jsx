@@ -1,5 +1,5 @@
 import ScrollReveal from "./ScrollReveal";
-import imgStandard from "../assets/room_standard.png"; // reusing asset for visual rich framing
+import imgStandard from "../assets/room_standard.webp"; // reusing asset for visual rich framing
 
 const OurStory = () => {
   const imgSrc = imgStandard;

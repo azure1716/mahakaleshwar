@@ -3,19 +3,19 @@ import { Phone, MessageSquare, X } from "lucide-react";
 import { Link } from "react-router-dom";
 import ScrollReveal from "./ScrollReveal";
 
-import imgStandard from "../assets/room_standard.png";
-import imgPremium from "../assets/room.jpg";
-import imgComfort from "../assets/room.png";
-import imgElegant from "../assets/room1.png";
-import imgDeluxe from "../assets/roomAc.jpg";
-import imgModern from "../assets/roomRoshsan.png";
-import imgTelevision from "../assets/roomT.png";
-import imgFamily from "../assets/roomW.jpg";
-import imgClassicDeluxe from "../assets/room_deluxe.png";
-import imgClassicFamily from "../assets/room_family.png";
-import imgSimpleTwin from "../assets/roomSimple2.jpg";
-import imgOneRoom from "../assets/oneRoom.jpg";
-import imgLightRoom from "../assets/lightRoom.jpg";
+import imgStandard from "../assets/room_standard.webp";
+import imgPremium from "../assets/room.webp";
+import imgComfort from "../assets/room.webp";
+import imgElegant from "../assets/room1.webp";
+import imgDeluxe from "../assets/roomAc.webp";
+import imgModern from "../assets/roomRoshsan.webp";
+import imgTelevision from "../assets/roomT.webp";
+import imgFamily from "../assets/roomW.webp";
+import imgClassicDeluxe from "../assets/room_deluxe.webp";
+import imgClassicFamily from "../assets/room_family.webp";
+import imgSimpleTwin from "../assets/roomSimple2.webp";
+import imgOneRoom from "../assets/oneRoom.webp";
+import imgLightRoom from "../assets/lightRoom.webp";
 
 const roomTypes = [
   {

@@ -61,9 +61,9 @@ const Footer = () => {
 
         {/* Quick Links Column */}
         <div className="md:col-span-3 space-y-4">
-          <h4 className="text-brand-gold-500 font-serif font-semibold uppercase tracking-wider text-sm">
+          <h3 className="text-brand-gold-500 font-serif font-semibold uppercase tracking-wider text-sm">
             Quick Navigation
-          </h4>
+          </h3>
           <ul className="space-y-3 text-xs md:text-sm">
             <li>
               <Link to="/" className="text-brand-cream-100/70 hover:text-brand-gold-400 transition-colors duration-300">
@@ -85,9 +85,9 @@ const Footer = () => {
 
         {/* Contact Info Column */}
         <div className="md:col-span-4 space-y-4">
-          <h4 className="text-brand-gold-500 font-serif font-semibold uppercase tracking-wider text-sm">
+          <h3 className="text-brand-gold-500 font-serif font-semibold uppercase tracking-wider text-sm">
             Get in Touch
-          </h4>
+          </h3>
           <ul className="space-y-4 text-xs md:text-sm">
             <li className="flex items-center gap-3">
               <div className="w-8 h-8 rounded-lg bg-brand-burgundy-850 flex items-center justify-center text-brand-gold-500 border border-white/5">
@@ -121,8 +121,8 @@ const Footer = () => {
               </a>
             </li>
 
-            <li className="flex items-center gap-3 text-brand-cream-100/50">
-              <div className="w-8 h-8 rounded-lg bg-brand-burgundy-850 flex items-center justify-center text-brand-gold-500/60 border border-white/5">
+            <li className="flex items-center gap-3 text-brand-cream-100/80">
+              <div className="w-8 h-8 rounded-lg bg-brand-burgundy-850 flex items-center justify-center text-brand-gold-400 border border-white/5">
                 <Clock size={14} />
               </div>
               <span className="text-xs">Morning Darshan: 4:00 AM – 7:00 AM</span>
@@ -132,10 +132,10 @@ const Footer = () => {
       </div>
 
       {/* Copyright row */}
-      <div className="border-t border-brand-gold-500/10 py-6 text-center text-xs text-brand-cream-100/40">
+      <div className="border-t border-brand-gold-500/10 py-6 text-center text-xs text-brand-cream-100/80">
         <div className="container mx-auto px-4 flex flex-col sm:flex-row items-center justify-between gap-4">
           <p>&copy; {new Date().getFullYear()} Shri Mahakaleshwar Bhakta Niwas. All rights reserved.</p>
-          <p className="font-serif tracking-widest text-[10px] text-brand-gold-500/60">॥ शुभ दर्शनम् ॥</p>
+          <p className="font-serif tracking-widest text-[10px] text-brand-gold-400">॥ शुभ दर्शनम् ॥</p>
         </div>
       </div>
     </footer>

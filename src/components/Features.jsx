@@ -65,9 +65,9 @@ const Features = () => {
                   <item.icon size={22} className="stroke-[1.5]" />
                 </div>
                 <div className="space-y-1">
-                  <h4 className="text-lg font-serif font-bold text-brand-burgundy-800">
+                  <h3 className="text-lg font-serif font-bold text-brand-burgundy-800">
                     {item.title}
-                  </h4>
+                  </h3>
                   <p className="text-xs md:text-sm text-brand-dark-light font-light leading-relaxed">
                     {item.description}
                   </p>
