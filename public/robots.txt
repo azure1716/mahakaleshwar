@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://shrimahakaleshwarbhaktaniwas.in/sitemap.xml
+Sitemap: https://mahakalbhaktanivasujjain.com/sitemap.xml
