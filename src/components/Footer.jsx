@@ -28,12 +28,12 @@ const Footer = () => {
                 Shri Mahakaleshwar Bhakta Niwas
               </span>
               <span className="text-xs font-serif font-light text-brand-gold-500 tracking-widest mt-0.5 leading-none">
-                Bhakta Niwas
+                Bhakta Niwas Ujjain
               </span>
             </div>
           </Link>
           <p className="text-brand-cream-100/60 text-xs md:text-sm font-light leading-relaxed max-w-sm">
-            Official portal for Shri Mahakaleshwar Bhakta Niwas — family dharamshala accommodation in Ujjain near Mahakal temple, real-time darshan timings, and Mahaprasad details.
+            Shri Mahakaleshwar Bhakta Niwas — peaceful accommodation in Ujjain near Shri Mahakaleshwar Temple, offering clean AC & non-AC rooms, 24-hour hot water, and darshan assistance.
           </p>
           <div className="flex items-start gap-3 text-brand-cream-100/70 text-xs md:text-sm">
             <MapPin size={20} className="text-brand-gold-500 shrink-0 mt-0.5" />
@@ -64,7 +64,7 @@ const Footer = () => {
           <h3 className="text-brand-gold-500 font-serif font-semibold uppercase tracking-wider text-sm">
             Quick Navigation
           </h3>
-          <ul className="space-y-3 text-xs md:text-sm">
+          <ul className="space-y-2 text-xs md:text-sm">
             <li>
               <Link to="/" className="text-brand-cream-100/70 hover:text-brand-gold-400 transition-colors duration-300">
                 Home
@@ -72,12 +72,42 @@ const Footer = () => {
             </li>
             <li>
               <Link to="/rooms" className="text-brand-cream-100/70 hover:text-brand-gold-400 transition-colors duration-300">
-                Rooms & Tariff
+                Rooms & Amenities
+              </Link>
+            </li>
+            <li>
+              <Link to="/rooms/price" className="text-brand-cream-100/70 hover:text-brand-gold-400 transition-colors duration-300">
+                Room Prices & Tariff
+              </Link>
+            </li>
+            <li>
+              <Link to="/booking" className="text-brand-cream-100/70 hover:text-brand-gold-400 transition-colors duration-300">
+                Online Booking
+              </Link>
+            </li>
+            <li>
+              <Link to="/location" className="text-brand-cream-100/70 hover:text-brand-gold-400 transition-colors duration-300">
+                Location & Directions
+              </Link>
+            </li>
+            <li>
+              <Link to="/faq" className="text-brand-cream-100/70 hover:text-brand-gold-400 transition-colors duration-300">
+                Pilgrim FAQ
+              </Link>
+            </li>
+            <li>
+              <Link to="/about" className="text-brand-cream-100/70 hover:text-brand-gold-400 transition-colors duration-300">
+                About Us
+              </Link>
+            </li>
+            <li>
+              <Link to="/mahakaleshwar-temple-guide" className="text-brand-cream-100/70 hover:text-brand-gold-400 transition-colors duration-300">
+                Mahakal Darshan Guide
               </Link>
             </li>
             <li>
               <Link to="/contact" className="text-brand-cream-100/70 hover:text-brand-gold-400 transition-colors duration-300">
-                Contact & Directions
+                Contact Reception
               </Link>
             </li>
           </ul>
@@ -143,3 +173,4 @@ const Footer = () => {
 };
 
 export default Footer;
+

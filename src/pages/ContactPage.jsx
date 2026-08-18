@@ -5,13 +5,30 @@ import BookingForm from "../components/BookingForm";
 import ScrollReveal from "../components/ScrollReveal";
 
 const ContactPage = () => {
+  const contactSchema = {
+    "@context": "https://schema.org",
+    "@type": "ContactPage",
+    "name": "Bhakta Niwas Ujjain Contact Number & Booking Enquiry",
+    "description": "Contact Shri Mahakaleshwar Bhakta Niwas reception in Ujjain (+91 96752 78024) for room booking, location guidance, and darshan information.",
+    "url": "https://www.mahakalbhaktanivasujjain.com/contact",
+    "breadcrumb": {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.mahakalbhaktanivasujjain.com/" },
+        { "@type": "ListItem", "position": 2, "name": "Contact", "item": "https://www.mahakalbhaktanivasujjain.com/contact" }
+      ]
+    }
+  };
+
   return (
     <div>
       <SEO
-        title="Ujjain Dharamshala Contact Number | Bhakta Niwas Booking"
-        description="Official Ujjain dharamshala contact number (+91 96752 78024). Call or WhatsApp for room booking near Shri Mahakaleshwar Temple, Ujjain. 24hr desk."
+        title="Bhakta Niwas Ujjain Contact Number | Booking Enquiry"
+        description="Shri Mahakaleshwar Bhakta Niwas Ujjain contact number (+91 96752 78024). Call or WhatsApp for room booking near Shri Mahakaleshwar Temple, Ujjain. 24hr reception desk."
         canonicalPath="/contact"
+        schemaData={contactSchema}
       />
+
       {/* Header Banner */}
       <section className="bg-brand-burgundy-900 border-b border-brand-gold-500/10 py-16 md:py-24 text-center text-white relative overflow-hidden">
         <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-80 h-80 bg-brand-gold-500/5 rounded-full blur-[80px]" />

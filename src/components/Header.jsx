@@ -13,7 +13,6 @@ const Header = () => {
       const targetId = to.split("#")[1];
       if (location.pathname !== "/") {
         navigate("/");
-        // Wait for navigation to complete before scrolling
         setTimeout(() => {
           const el = document.getElementById(targetId);
           if (el) el.scrollIntoView({ behavior: "smooth" });
@@ -27,14 +26,18 @@ const Header = () => {
 
   const navItems = [
     { to: "/rooms", label: "Rooms", isHash: false },
-    { to: "/#destinations", label: "Destinations", isHash: true },
-    { to: "/#our-story", label: "Our Story", isHash: true },
+    { to: "/rooms/price", label: "Prices", isHash: false },
+    { to: "/booking", label: "Booking", isHash: false },
+    { to: "/location", label: "Location", isHash: false },
+    { to: "/faq", label: "FAQ", isHash: false },
+    { to: "/about", label: "About", isHash: false },
+    { to: "/mahakaleshwar-temple-guide", label: "Darshan Guide", isHash: false },
     { to: "/contact", label: "Contact", isHash: false },
   ];
 
   return (
     <header className="sticky top-0 z-50 glass-dark border-b border-brand-gold-500/10">
-      <div className="container mx-auto px-4 md:px-8 py-3 md:py-4 flex items-center justify-between gap-3">
+      <div className="container mx-auto px-4 md:px-6 py-3 md:py-4 flex items-center justify-between gap-3">
         {/* Logo */}
         <Link to="/" className="flex min-w-0 flex-1 items-center gap-2 md:gap-3 group">
           {/* Gold OM Symbol */}
@@ -42,24 +45,23 @@ const Header = () => {
             ॐ
           </div>
           <div className="flex min-w-0 flex-col">
-            <span className="text-[11px] sm:text-sm md:text-xl font-serif font-bold text-white tracking-wide md:tracking-wider leading-tight uppercase md:normal-case break-words">
-             Official Shri Mahakaleshwar Bhakta Niwas
+            <span className="text-xs sm:text-sm md:text-lg font-serif font-bold text-white tracking-wide leading-tight uppercase md:normal-case break-words">
+              Shri Mahakaleshwar Bhakta Niwas
             </span>
-            <span className="text-[8px] sm:text-[9px] md:text-[10px] font-sans font-light text-brand-gold-500 tracking-wider md:tracking-widest mt-1 leading-tight uppercase break-words">
-              Shri Mahakaleshwar Bhakta Niwas Booking
-
+            <span className="text-[8px] sm:text-[9px] md:text-[10px] font-sans font-light text-brand-gold-400 tracking-wider mt-0.5 leading-tight uppercase break-words">
+              Accommodation Near Mahakaleshwar Temple, Ujjain
             </span>
           </div>
         </Link>
 
         {/* Desktop Navigation */}
-        <nav className="hidden md:flex items-center space-x-8">
+        <nav className="hidden lg:flex items-center space-x-5 xl:space-x-6">
           {navItems.map((item) => (
             item.isHash ? (
               <button
                 key={item.to}
                 onClick={() => handleNavClick(item.to)}
-                className="text-xs font-semibold tracking-widest uppercase text-brand-cream-100/80 hover:text-brand-gold-400 transition-all duration-300 cursor-pointer"
+                className="text-[11px] xl:text-xs font-semibold tracking-wider uppercase text-brand-cream-100/80 hover:text-brand-gold-400 transition-all duration-300 cursor-pointer whitespace-nowrap"
               >
                 {item.label}
               </button>
@@ -68,7 +70,7 @@ const Header = () => {
                 key={item.to}
                 to={item.to}
                 className={({ isActive }) =>
-                  `text-xs font-semibold tracking-widest uppercase transition-all duration-300 hover:text-brand-gold-400 ${
+                  `text-[11px] xl:text-xs font-semibold tracking-wider uppercase transition-all duration-300 hover:text-brand-gold-400 whitespace-nowrap ${
                     isActive ? "text-brand-gold-400" : "text-brand-cream-100/80"
                   }`
                 }
@@ -81,16 +83,16 @@ const Header = () => {
             href="https://wa.me/919675278024?text=Hello%2C%20I%20would%20like%20to%20book%20a%20room%20at%20Shri%20Mahakaleshwar%20Bhakta%20Niwas."
             target="_blank"
             rel="noopener noreferrer"
-            className="bg-brand-gold-500 text-brand-burgundy-900 px-6 py-2.5 rounded-sm flex items-center gap-2 text-xs font-bold uppercase tracking-wider hover:bg-brand-gold-400 hover:scale-[1.02] active:scale-95 transition-all duration-300 shadow-md font-sans"
+            className="bg-brand-gold-500 text-brand-burgundy-900 px-4 py-2 rounded-sm flex items-center gap-1.5 text-[11px] font-bold uppercase tracking-wider hover:bg-brand-gold-400 hover:scale-[1.02] active:scale-95 transition-all duration-300 shadow-md font-sans whitespace-nowrap"
           >
-            <MessageSquare size={14} className="fill-brand-burgundy-900" />
+            <MessageSquare size={13} className="fill-brand-burgundy-900" />
             WhatsApp Booking
           </a>
         </nav>
 
-        {/* Mobile Menu Button */}
+        {/* Mobile / Tablet Menu Button */}
         <button
-          className="md:hidden shrink-0 text-brand-gold-500 hover:text-brand-gold-400 transition"
+          className="lg:hidden shrink-0 text-brand-gold-500 hover:text-brand-gold-400 transition p-1"
           onClick={() => setIsOpen(!isOpen)}
           aria-label="Toggle menu"
         >
@@ -100,13 +102,13 @@ const Header = () => {
 
       {/* Mobile Navigation */}
       {isOpen && (
-        <nav className="md:hidden bg-brand-burgundy-900 border-t border-brand-gold-500/10 py-6 px-6 flex flex-col space-y-5">
+        <nav className="lg:hidden bg-brand-burgundy-900 border-t border-brand-gold-500/10 py-5 px-6 flex flex-col space-y-4 max-h-[80vh] overflow-y-auto">
           {navItems.map((item) => (
             item.isHash ? (
               <button
                 key={item.to}
                 onClick={() => handleNavClick(item.to)}
-                className="text-left text-xs font-semibold tracking-widest uppercase text-brand-cream-100/80 hover:text-brand-gold-400 pl-2 cursor-pointer"
+                className="text-left text-xs font-semibold tracking-widest uppercase text-brand-cream-100/80 hover:text-brand-gold-400 py-1 cursor-pointer"
               >
                 {item.label}
               </button>
@@ -116,7 +118,7 @@ const Header = () => {
                 to={item.to}
                 onClick={() => setIsOpen(false)}
                 className={({ isActive }) =>
-                  `text-left text-xs font-semibold tracking-widest uppercase pl-2 ${
+                  `text-left text-xs font-semibold tracking-widest uppercase py-1 ${
                     isActive ? "text-brand-gold-400" : "text-brand-cream-100/80"
                   }`
                 }
@@ -129,7 +131,7 @@ const Header = () => {
             href="https://wa.me/919675278024?text=Hello%2C%20I%20would%20like%20to%20book%20a%20room%20at%20Shri%20Mahakaleshwar%20Bhakta%20Niwas."
             target="_blank"
             rel="noopener noreferrer"
-            className="bg-brand-gold-500 text-brand-burgundy-900 w-full py-3 rounded-sm text-center flex items-center justify-center gap-2 text-xs font-bold uppercase tracking-wider hover:bg-brand-gold-400 transition-all duration-300 font-sans"
+            className="bg-brand-gold-500 text-brand-burgundy-900 w-full py-3 rounded-sm text-center flex items-center justify-center gap-2 text-xs font-bold uppercase tracking-wider hover:bg-brand-gold-400 transition-all duration-300 font-sans mt-2"
           >
             <MessageSquare size={14} className="fill-brand-burgundy-900" />
             WhatsApp Booking
@@ -141,3 +143,4 @@ const Header = () => {
 };
 
 export default Header;
+

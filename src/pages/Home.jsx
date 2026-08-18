@@ -11,12 +11,53 @@ import FAQ from "../components/FAQ";
 import LocationBooking from "../components/LocationBooking";
 
 const Home = () => {
+  const homeSchema = [
+    {
+      "@context": "https://schema.org",
+      "@type": "LodgingBusiness",
+      "name": "Shri Mahakaleshwar Bhakta Niwas",
+      "description": "Clean, peaceful accommodation for families and pilgrims in Ujjain near Shri Mahakaleshwar Jyotirlinga Temple.",
+      "url": "https://www.mahakalbhaktanivasujjain.com/",
+      "telephone": "+91-9675278024",
+      "email": "Mahakalmaharajsanstan@gmail.com",
+      "priceRange": "₹900 - ₹2,800",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "127 Temple Rd, Kot Mohalla, Jaisinghpura",
+        "addressLocality": "Ujjain",
+        "addressRegion": "Madhya Pradesh",
+        "postalCode": "456006",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 23.1827,
+        "longitude": 75.7682
+      },
+      "amenityFeature": [
+        { "@type": "LocationFeatureSpecification", "name": "3 Min Walk to Darshan (200m)", "value": true },
+        { "@type": "LocationFeatureSpecification", "name": "24-Hour Reception", "value": true },
+        { "@type": "LocationFeatureSpecification", "name": "24-Hour Solar Hot Water", "value": true },
+        { "@type": "LocationFeatureSpecification", "name": "Pure Veg Bhojanalaya", "value": true },
+        { "@type": "LocationFeatureSpecification", "name": "Secure Gated Parking", "value": true },
+        { "@type": "LocationFeatureSpecification", "name": "Bhasm Aarti Guidance", "value": true }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "name": "Shri Mahakaleshwar Bhakta Niwas Ujjain",
+      "url": "https://www.mahakalbhaktanivasujjain.com/"
+    }
+  ];
+
   return (
     <div className="home-premium-effects">
       <SEO
-        title="Shri Mahakaleshwar Bhakta Niwas | Dharamshala at Ujjain"
-        description="Book peaceful dharamshala at Ujjain near Mahakal temple. Shri Mahakaleshwar Bhakta Niwas offers clean AC rooms, 24hr hot water & Bhasma Aarti guidance."
+        title="Shri Mahakaleshwar Bhakta Niwas Ujjain | Rooms & Booking"
+        description="Shri Mahakaleshwar Bhakta Niwas offers clean AC & Non-AC accommodation in Ujjain near Mahakal temple (200m). 24hr solar hot water & Bhasma Aarti guidance."
         canonicalPath="/"
+        schemaData={homeSchema}
       />
       <Hero />
       <Stats />
@@ -39,3 +80,4 @@ const Home = () => {
 };
 
 export default Home;
+
