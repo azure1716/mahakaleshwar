@@ -106,6 +106,11 @@ const Footer = () => {
               </Link>
             </li>
             <li>
+              <Link to="/blog" className="text-brand-cream-100/70 hover:text-brand-gold-400 transition-colors duration-300">
+                Pilgrim Blog & Stay Guides
+              </Link>
+            </li>
+            <li>
               <Link to="/contact" className="text-brand-cream-100/70 hover:text-brand-gold-400 transition-colors duration-300">
                 Contact Reception
               </Link>

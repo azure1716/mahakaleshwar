@@ -32,6 +32,7 @@ const Header = () => {
     { to: "/faq", label: "FAQ", isHash: false },
     { to: "/about", label: "About", isHash: false },
     { to: "/mahakaleshwar-temple-guide", label: "Darshan Guide", isHash: false },
+    { to: "/blog", label: "Blog", isHash: false },
     { to: "/contact", label: "Contact", isHash: false },
   ];
 

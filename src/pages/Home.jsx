@@ -6,6 +6,7 @@ import Rooms from "../components/Rooms";
 import Destinations from "../components/Destinations";
 import Features from "../components/Features";
 import Testimonials from "../components/Testimonials";
+import BlogTeaser from "../components/BlogTeaser";
 import BookingForm from "../components/BookingForm";
 import FAQ from "../components/FAQ";
 import LocationBooking from "../components/LocationBooking";
@@ -72,6 +73,7 @@ const Home = () => {
       </div>
       <Features />
       <Testimonials />
+      <BlogTeaser />
       <LocationBooking />
       <BookingForm />
       <FAQ />

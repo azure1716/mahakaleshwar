@@ -8,6 +8,8 @@ import LocationPage from "./pages/LocationPage";
 import FAQPage from "./pages/FAQPage";
 import AboutPage from "./pages/AboutPage";
 import TempleGuidePage from "./pages/TempleGuidePage";
+import BlogListPage from "./pages/BlogListPage";
+import BlogPostPage from "./pages/BlogPostPage";
 import ContactPage from "./pages/ContactPage";
 
 function App() {
@@ -22,6 +24,8 @@ function App() {
         <Route path="faq" element={<FAQPage />} />
         <Route path="about" element={<AboutPage />} />
         <Route path="mahakaleshwar-temple-guide" element={<TempleGuidePage />} />
+        <Route path="blog" element={<BlogListPage />} />
+        <Route path="blog/:slug" element={<BlogPostPage />} />
         <Route path="contact" element={<ContactPage />} />
       </Route>
     </Routes>
