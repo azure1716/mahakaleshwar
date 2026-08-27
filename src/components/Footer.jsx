@@ -128,8 +128,8 @@ const Footer = () => {
               <div className="w-8 h-8 rounded-lg bg-brand-burgundy-850 flex items-center justify-center text-brand-gold-500 border border-white/5">
                 <Phone size={14} />
               </div>
-              <a href="tel:+919675278024" className="text-brand-cream-100/80 hover:text-brand-gold-400 transition-colors duration-300 font-medium">
-                +91 96752 78024
+              <a href="tel:+918969891496" className="text-brand-cream-100/80 hover:text-brand-gold-400 transition-colors duration-300 font-medium">
+                +91 89698 91496
               </a>
             </li>
 
@@ -147,7 +147,7 @@ const Footer = () => {
                 <MessageSquare size={14} />
               </div>
               <a
-                href="https://wa.me/919675278024?text=Hello%2C%20I%20would%20like%20to%20inquire%20about%20a%20room."
+                href="https://wa.me/918969891496?text=Hello%2C%20I%20would%20like%20to%20inquire%20about%20a%20room."
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-brand-cream-100/80 hover:text-brand-gold-400 transition-colors duration-300"

@@ -6,5 +6,5 @@ export const whatsappBookingLink = (data) => {
     `Nights: ${nights}%0A` +
     `Guests: ${guests}%0A` +
     `Room: ${room}`;
-  return `https://wa.me/919675278024?text=${message}`;
+  return `https://wa.me/918969891496?text=${message}`;
 };

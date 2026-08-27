@@ -132,7 +132,7 @@ const BlogPostPage = () => {
                 </div>
                 <div className="flex items-center gap-2">
                   <CheckCircle2 size={16} className="text-brand-gold-500 shrink-0" />
-                  <span>Direct Reception Phone: +91 96752 78024</span>
+                  <span>Direct Reception Phone: +91 89698 91496</span>
                 </div>
               </div>
             </div>
@@ -150,16 +150,16 @@ const BlogPostPage = () => {
               </p>
               <div className="flex flex-col sm:flex-row gap-3 pt-2">
                 <a
-                  href="https://wa.me/919675278024?text=Hello%2C%20I%20read%20your%20blog%20guide%20and%20want%20to%20book%20a%20room."
+                  href="https://wa.me/918969891496?text=Hello%2C%20I%20read%20your%20blog%20guide%20and%20want%20to%20book%20a%20room."
                   target="_blank"
                   rel="noopener noreferrer"
                   className="bg-brand-gold-500 text-brand-burgundy-900 px-6 py-3 rounded-xl text-xs font-bold uppercase tracking-wider hover:bg-brand-gold-400 transition-colors inline-flex items-center justify-center gap-2"
                 >
                   <MessageSquare size={16} />
-                  WhatsApp Booking (+91 96752 78024)
+                  WhatsApp Booking (+91 89698 91496)
                 </a>
                 <a
-                  href="tel:+919675278024"
+                  href="tel:+918969891496"
                   className="border border-brand-gold-500/30 text-white px-6 py-3 rounded-xl text-xs font-bold uppercase tracking-wider hover:bg-white/10 transition-colors inline-flex items-center justify-center gap-2"
                 >
                   <Phone size={16} />

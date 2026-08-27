@@ -81,7 +81,7 @@ const Header = () => {
             )
           ))}
           <a
-            href="https://wa.me/919675278024?text=Hello%2C%20I%20would%20like%20to%20book%20a%20room%20at%20Shri%20Mahakaleshwar%20Bhakta%20Niwas."
+            href="https://wa.me/918969891496?text=Hello%2C%20I%20would%20like%20to%20book%20a%20room%20at%20Shri%20Mahakaleshwar%20Bhakta%20Niwas."
             target="_blank"
             rel="noopener noreferrer"
             className="bg-brand-gold-500 text-brand-burgundy-900 px-4 py-2 rounded-sm flex items-center gap-1.5 text-[11px] font-bold uppercase tracking-wider hover:bg-brand-gold-400 hover:scale-[1.02] active:scale-95 transition-all duration-300 shadow-md font-sans whitespace-nowrap"
@@ -129,7 +129,7 @@ const Header = () => {
             )
           ))}
           <a
-            href="https://wa.me/919675278024?text=Hello%2C%20I%20would%20like%20to%20book%20a%20room%20at%20Shri%20Mahakaleshwar%20Bhakta%20Niwas."
+            href="https://wa.me/918969891496?text=Hello%2C%20I%20would%20like%20to%20book%20a%20room%20at%20Shri%20Mahakaleshwar%20Bhakta%20Niwas."
             target="_blank"
             rel="noopener noreferrer"
             className="bg-brand-gold-500 text-brand-burgundy-900 w-full py-3 rounded-sm text-center flex items-center justify-center gap-2 text-xs font-bold uppercase tracking-wider hover:bg-brand-gold-400 transition-all duration-300 font-sans mt-2"

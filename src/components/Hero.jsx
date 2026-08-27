@@ -102,7 +102,7 @@ const Hero = () => {
         {/* Buttons */}
         <div className="pt-3 md:pt-6 flex flex-col sm:flex-row justify-center items-stretch sm:items-center gap-3 md:gap-4">
           <a
-            href="https://wa.me/919675278024?text=Hello%2C%20I%20would%20like%20to%20book%20a%20room%20at%20Shri%20Mahakaleshwar%20Bhakta%20Niwas."
+            href="https://wa.me/918969891496?text=Hello%2C%20I%20would%20like%20to%20book%20a%20room%20at%20Shri%20Mahakaleshwar%20Bhakta%20Niwas."
             target="_blank"
             rel="noopener noreferrer"
             className="w-full sm:w-auto bg-brand-gold-500 text-brand-burgundy-900 hover:bg-brand-gold-400 hover:scale-[1.02] active:scale-95 px-6 md:px-8 py-3.5 md:py-4 rounded-sm flex items-center justify-center gap-3 text-xs font-bold uppercase tracking-wider md:tracking-widest transition-all duration-300 shadow-lg font-sans"
@@ -111,11 +111,11 @@ const Hero = () => {
             Book on WhatsApp
           </a>
           <a
-            href="tel:+919675278024"
+            href="tel:+918969891496"
             className="w-full sm:w-auto border border-brand-gold-500/30 text-brand-gold-500 hover:text-white hover:border-brand-gold-500 px-6 md:px-8 py-3.5 md:py-4 rounded-sm flex items-center justify-center gap-3 text-xs font-bold uppercase tracking-wider md:tracking-widest transition-all duration-300 font-sans"
           >
             <Phone size={16} />
-            +91 96752 78024
+            +91 89698 91496
           </a>
         </div>
       </div>

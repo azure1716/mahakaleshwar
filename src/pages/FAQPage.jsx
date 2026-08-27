@@ -7,7 +7,7 @@ import { Link } from "react-router-dom";
 const extendedFaqs = [
   {
     q: "How can I book a room at Shri Mahakaleshwar Bhakta Niwas in Ujjain?",
-    a: "Booking is simple and fast. You can send a direct message on WhatsApp or call our reception desk at +91 96752 78024. Share your visit dates and guest count, and we will confirm room availability immediately.",
+    a: "Booking is simple and fast. You can send a direct message on WhatsApp or call our reception desk at +91 89698 91496. Share your visit dates and guest count, and we will confirm room availability immediately.",
   },
   {
     q: "What is the room price at Bhakta Niwas Ujjain?",
@@ -108,7 +108,7 @@ const FAQPage = () => {
 
           <div className="flex flex-col sm:flex-row justify-center gap-4 pt-2">
             <a
-              href="https://wa.me/919675278024?text=Hello%2C%20I%20have%20a%20question%20about%20staying%20at%20Shri%20Mahakaleshwar%20Bhakta%20Niwas."
+              href="https://wa.me/918969891496?text=Hello%2C%20I%20have%20a%20question%20about%20staying%20at%20Shri%20Mahakaleshwar%20Bhakta%20Niwas."
               target="_blank"
               rel="noopener noreferrer"
               className="btn-premium-gold px-8 py-3.5 rounded-xl text-xs font-bold uppercase tracking-widest flex items-center justify-center gap-2"
@@ -117,11 +117,11 @@ const FAQPage = () => {
               Ask on WhatsApp
             </a>
             <a
-              href="tel:+919675278024"
+              href="tel:+918969891496"
               className="border border-brand-gold-500/30 text-brand-burgundy-900 px-8 py-3.5 rounded-xl text-xs font-bold uppercase tracking-widest flex items-center justify-center gap-2 hover:bg-brand-burgundy-900 hover:text-white transition-all"
             >
               <Phone size={16} />
-              Call +91 96752 78024
+              Call +91 89698 91496
             </a>
           </div>
 

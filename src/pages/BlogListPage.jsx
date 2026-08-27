@@ -134,7 +134,7 @@ const BlogListPage = () => {
               Book Room Online
             </Link>
             <a
-              href="https://wa.me/919675278024?text=Hello%2C%20I%20would%20like%20to%20inquire%20about%20a%20room%20booking."
+              href="https://wa.me/918969891496?text=Hello%2C%20I%20would%20like%20to%20inquire%20about%20a%20room%20booking."
               target="_blank"
               rel="noopener noreferrer"
               className="border border-brand-gold-500/30 text-brand-burgundy-900 px-8 py-3.5 rounded-xl text-xs font-bold uppercase tracking-widest flex items-center justify-center gap-2 hover:bg-brand-burgundy-900 hover:text-white transition-all"

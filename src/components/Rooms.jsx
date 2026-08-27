@@ -280,7 +280,7 @@ const RoomCard = ({ room, onClick }) => {
         {/* Buttons */}
         <div className="mt-8 flex gap-3" onClick={(e) => e.stopPropagation()}>
           <a
-            href={`https://wa.me/919675278024?text=Hello%2C%20I%20would%20like%20to%20book%20the%20${encodeURIComponent(room.name)}%20at%20Shri%20Mahakaleshwar%20Bhakta%20Niwas.`}
+            href={`https://wa.me/918969891496?text=Hello%2C%20I%20would%20like%20to%20book%20the%20${encodeURIComponent(room.name)}%20at%20Shri%20Mahakaleshwar%20Bhakta%20Niwas.`}
             target="_blank"
             rel="noopener noreferrer"
             className="flex-grow btn-premium-gold py-3 rounded-xl flex items-center justify-center gap-2 text-xs font-bold uppercase tracking-widest shadow-sm"
@@ -289,7 +289,7 @@ const RoomCard = ({ room, onClick }) => {
             Book on WhatsApp
           </a>
           <a
-            href="tel:+919675278024"
+            href="tel:+918969891496"
             className="border border-brand-gold-500/30 text-brand-gold-600 hover:text-white hover:bg-brand-gold-500 p-3 rounded-xl transition-all duration-300 flex items-center justify-center"
             title="Call Reception"
           >
@@ -391,7 +391,7 @@ const RoomDetailModal = ({ room, onClose }) => {
           {/* Action Buttons */}
           <div className="mt-8 flex gap-3">
             <a
-              href={`https://wa.me/919675278024?text=Hello%2C%20I%20would%20like%20to%20book%20the%20${encodeURIComponent(room.name)}%20at%20Shri%20Mahakaleshwar%20Bhakta%20Niwas.`}
+              href={`https://wa.me/918969891496?text=Hello%2C%20I%20would%20like%20to%20book%20the%20${encodeURIComponent(room.name)}%20at%20Shri%20Mahakaleshwar%20Bhakta%20Niwas.`}
               target="_blank"
               rel="noopener noreferrer"
               className="flex-grow btn-premium-gold py-3.5 rounded-xl flex items-center justify-center gap-2 text-xs font-bold uppercase tracking-widest shadow-sm font-sans"
@@ -400,7 +400,7 @@ const RoomDetailModal = ({ room, onClose }) => {
               Book on WhatsApp
             </a>
             <a
-              href="tel:+919675278024"
+              href="tel:+918969891496"
               className="border border-brand-gold-500/30 text-brand-gold-600 hover:text-white hover:bg-brand-gold-500 p-3.5 rounded-xl transition-all duration-300 flex items-center justify-center"
               title="Call Reception"
             >

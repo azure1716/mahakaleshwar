@@ -33,7 +33,7 @@ const BookingPage = () => {
     "@context": "https://schema.org",
     "@type": "WebPage",
     "name": "Bhakta Niwas Ujjain Online Booking",
-    "description": "Reserve rooms at Shri Mahakaleshwar Bhakta Niwas Ujjain online via WhatsApp or call reception directly (+91 96752 78024).",
+    "description": "Reserve rooms at Shri Mahakaleshwar Bhakta Niwas Ujjain online via WhatsApp or call reception directly (+91 89698 91496).",
     "url": "https://www.mahakalbhaktanivasujjain.com/booking",
     "breadcrumb": {
       "@type": "BreadcrumbList",
@@ -48,7 +48,7 @@ const BookingPage = () => {
     <div>
       <SEO
         title="Bhakta Niwas Ujjain Online Booking | Reserve Room Near Mahakal Temple"
-        description="Book Shri Mahakaleshwar Bhakta Niwas room online. Quick booking on WhatsApp or call +91 96752 78024. Clean AC & Non-AC rooms near Mahakal Temple, Ujjain."
+        description="Book Shri Mahakaleshwar Bhakta Niwas room online. Quick booking on WhatsApp or call +91 89698 91496. Clean AC & Non-AC rooms near Mahakal Temple, Ujjain."
         canonicalPath="/booking"
         schemaData={bookingSchema}
       />
@@ -115,7 +115,7 @@ const BookingPage = () => {
             </div>
             <div className="flex items-center gap-3 shrink-0">
               <a
-                href="https://wa.me/919675278024?text=Hello%2C%20I%20want%20to%20book%20a%20room%20at%20Shri%20Mahakaleshwar%20Bhakta%20Niwas."
+                href="https://wa.me/918969891496?text=Hello%2C%20I%20want%20to%20book%20a%20room%20at%20Shri%20Mahakaleshwar%20Bhakta%20Niwas."
                 target="_blank"
                 rel="noopener noreferrer"
                 className="btn-premium-gold px-5 py-2.5 rounded-xl text-xs font-bold uppercase tracking-wider flex items-center gap-2"
@@ -124,7 +124,7 @@ const BookingPage = () => {
                 WhatsApp Direct
               </a>
               <a
-                href="tel:+919675278024"
+                href="tel:+918969891496"
                 className="border border-brand-gold-500/30 text-brand-burgundy-900 px-5 py-2.5 rounded-xl text-xs font-bold uppercase tracking-wider flex items-center gap-2 hover:bg-brand-burgundy-900 hover:text-white transition-all"
               >
                 <Phone size={14} />

@@ -146,10 +146,10 @@ const LocationPage = () => {
                     Call our reception desk anytime. We will guide your driver or auto right to our entrance.
                   </p>
                   <a
-                    href="tel:+919675278024"
+                    href="tel:+918969891496"
                     className="inline-flex items-center gap-2 text-sm font-bold text-brand-gold-400 hover:text-white mt-2 transition-colors"
                   >
-                    <Phone size={16} /> +91 96752 78024
+                    <Phone size={16} /> +91 89698 91496
                   </a>
                 </div>
               </ScrollReveal>

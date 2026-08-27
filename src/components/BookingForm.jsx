@@ -27,7 +27,7 @@ const BookingForm = () => {
       `Guests: ${encodeURIComponent(guests)}%0A` +
       `Room: ${encodeURIComponent(room)}`;
     
-    window.open(`https://wa.me/919675278024?text=${message}`, "_blank");
+    window.open(`https://wa.me/918969891496?text=${message}`, "_blank");
   };
 
   return (
@@ -58,11 +58,11 @@ const BookingForm = () => {
             {/* Quick Contact Buttons */}
             <ScrollReveal delay={150} className="flex flex-col sm:flex-row gap-4 pt-4">
               <a
-                href="tel:+919675278024"
+                href="tel:+918969891496"
                 className="bg-brand-burgundy-800 border border-brand-gold-500/30 hover:border-brand-gold-400 text-brand-gold-400 hover:text-white px-5 py-3 rounded-xl flex items-center gap-3 text-xs font-bold uppercase tracking-wider transition-all duration-300"
               >
                 <Phone size={16} />
-                +91 96752 78024
+                +91 89698 91496
               </a>
               <div className="bg-brand-burgundy-850 border border-white/5 text-brand-cream-100/60 px-5 py-3 rounded-xl flex items-center gap-3 text-xs font-semibold uppercase tracking-wider">
                 <Clock size={16} className="text-brand-gold-500" />
