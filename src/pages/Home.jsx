@@ -55,8 +55,8 @@ const Home = () => {
   return (
     <div className="home-premium-effects">
       <SEO
-        title="Shri Mahakaleshwar Bhakta Niwas Ujjain | Rooms & Booking"
-        description="Shri Mahakaleshwar Bhakta Niwas offers clean AC & Non-AC accommodation in Ujjain near Mahakal temple (200m). 24hr solar hot water & Bhasma Aarti guidance."
+        title="Shri Mahakaleshwar Bhakta Niwas | Dharamshala at Ujjain near Mahakal Temple"
+        description="Clean, peaceful dharamshala rooms near Shri Mahakaleshwar Temple, Ujjain. 24-hour reception, pure veg bhojanalaya, solar hot water, and Bhasma Aarti guidance."
         canonicalPath="/"
         schemaData={homeSchema}
       />
