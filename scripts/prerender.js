@@ -343,7 +343,7 @@ function runPrerender() {
       targetFile = path.join(DIST_DIR, 'index.html');
     } else {
       const cleanPath = route.path.startsWith('/') ? route.path.slice(1) : route.path;
-      targetFile = path.join(DIST_DIR, cleanPath, 'index.html');
+      targetFile = path.join(DIST_DIR, `${cleanPath}.html`);
     }
 
     const targetDir = path.dirname(targetFile);
