@@ -1,6 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
+import { PHONE_NUMBER_DISPLAY, PHONE_NUMBER_SCHEMA } from '../src/config.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -29,7 +30,7 @@ const routes = [
         "name": "Shri Mahakaleshwar Bhakta Niwas",
         "description": "Clean, peaceful accommodation for families and pilgrims in Ujjain near Shri Mahakaleshwar Jyotirlinga Temple.",
         "url": "https://www.mahakalbhaktanivasujjain.com/",
-        "telephone": "+91-8969891496",
+        "telephone": PHONE_NUMBER_SCHEMA,
         "email": "Mahakalmaharajsanstan@gmail.com",
         "priceRange": "₹900 - ₹2,800",
         "address": {
@@ -106,13 +107,13 @@ const routes = [
   {
     path: '/booking',
     title: 'Bhakta Niwas Ujjain Online Booking | Reserve Room Near Mahakal Temple',
-    description: 'Book Shri Mahakaleshwar Bhakta Niwas room online. Quick booking on WhatsApp or call +91 89698 91496. Clean AC & Non-AC rooms near Mahakal Temple, Ujjain.',
+    description: `Book Shri Mahakaleshwar Bhakta Niwas room online. Quick booking on WhatsApp or call ${PHONE_NUMBER_DISPLAY}. Clean AC & Non-AC rooms near Mahakal Temple, Ujjain.`,
     canonicalPath: '/booking',
     schemaData: {
       "@context": "https://schema.org",
       "@type": "WebPage",
       "name": "Bhakta Niwas Ujjain Online Booking",
-      "description": "Reserve rooms at Shri Mahakaleshwar Bhakta Niwas Ujjain online via WhatsApp or call reception directly (+91 89698 91496).",
+      "description": `Reserve rooms at Shri Mahakaleshwar Bhakta Niwas Ujjain online via WhatsApp or call reception directly (${PHONE_NUMBER_DISPLAY}).`,
       "url": "https://www.mahakalbhaktanivasujjain.com/booking",
       "breadcrumb": {
         "@type": "BreadcrumbList",
@@ -267,13 +268,13 @@ const routes = [
   {
     path: '/contact',
     title: 'Bhakta Niwas Ujjain Contact Number | Booking Enquiry',
-    description: 'Shri Mahakaleshwar Bhakta Niwas Ujjain contact number (+91 89698 91496). Call or WhatsApp for room booking near Shri Mahakaleshwar Temple, Ujjain. 24hr reception desk.',
+    description: `Shri Mahakaleshwar Bhakta Niwas Ujjain contact number (${PHONE_NUMBER_DISPLAY}). Call or WhatsApp for room booking near Shri Mahakaleshwar Temple, Ujjain. 24hr reception desk.`,
     canonicalPath: '/contact',
     schemaData: {
       "@context": "https://schema.org",
       "@type": "ContactPage",
       "name": "Bhakta Niwas Ujjain Contact Number & Booking Enquiry",
-      "description": "Contact Shri Mahakaleshwar Bhakta Niwas reception in Ujjain (+91 89698 91496) for room booking, location guidance, and darshan information.",
+      "description": `Contact Shri Mahakaleshwar Bhakta Niwas reception in Ujjain (${PHONE_NUMBER_DISPLAY}) for room booking, location guidance, and darshan information.`,
       "url": "https://www.mahakalbhaktanivasujjain.com/contact",
       "breadcrumb": {
         "@type": "BreadcrumbList",

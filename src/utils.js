@@ -1,3 +1,7 @@
+import { PHONE_NUMBER_WHATSAPP } from './config';
+
+export * from './config';
+
 export const whatsappBookingLink = (data) => {
   const { name, checkIn, nights, guests, room } = data;
   const message = `Hello, I would like to book a room at Shri Mahakaleshwar Bhakta Niwas Dharamshala, Ujjain.%0A%0A` +
@@ -6,5 +10,5 @@ export const whatsappBookingLink = (data) => {
     `Nights: ${nights}%0A` +
     `Guests: ${guests}%0A` +
     `Room: ${room}`;
-  return `https://wa.me/918969891496?text=${message}`;
+  return `https://wa.me/${PHONE_NUMBER_WHATSAPP}?text=${message}`;
 };

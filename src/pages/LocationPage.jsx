@@ -3,6 +3,7 @@ import ScrollReveal from "../components/ScrollReveal";
 import Destinations from "../components/Destinations";
 import { MapPin, Navigation, Phone, ExternalLink, Car, Train, Plane } from "lucide-react";
 import FAQ from "../components/FAQ";
+import { PHONE_NUMBER_TEL, PHONE_NUMBER_DISPLAY } from "../config";
 
 const routesInfo = [
   {
@@ -146,10 +147,10 @@ const LocationPage = () => {
                     Call our reception desk anytime. We will guide your driver or auto right to our entrance.
                   </p>
                   <a
-                    href="tel:+918969891496"
+                    href={`tel:${PHONE_NUMBER_TEL}`}
                     className="inline-flex items-center gap-2 text-sm font-bold text-brand-gold-400 hover:text-white mt-2 transition-colors"
                   >
-                    <Phone size={16} /> +91 89698 91496
+                    <Phone size={16} /> {PHONE_NUMBER_DISPLAY}
                   </a>
                 </div>
               </ScrollReveal>

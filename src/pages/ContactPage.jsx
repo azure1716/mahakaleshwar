@@ -3,13 +3,14 @@ import { Phone, Mail, MapPin, MessageSquare } from "lucide-react";
 import FAQ from "../components/FAQ";
 import BookingForm from "../components/BookingForm";
 import ScrollReveal from "../components/ScrollReveal";
+import { PHONE_NUMBER_DISPLAY, PHONE_NUMBER_TEL, PHONE_NUMBER_WHATSAPP } from "../config";
 
 const ContactPage = () => {
   const contactSchema = {
     "@context": "https://schema.org",
     "@type": "ContactPage",
     "name": "Bhakta Niwas Ujjain Contact Number & Booking Enquiry",
-    "description": "Contact Shri Mahakaleshwar Bhakta Niwas reception in Ujjain (+91 89698 91496) for room booking, location guidance, and darshan information.",
+    "description": `Contact Shri Mahakaleshwar Bhakta Niwas reception in Ujjain (${PHONE_NUMBER_DISPLAY}) for room booking, location guidance, and darshan information.`,
     "url": "https://www.mahakalbhaktanivasujjain.com/contact",
     "breadcrumb": {
       "@type": "BreadcrumbList",
@@ -24,7 +25,7 @@ const ContactPage = () => {
     <div>
       <SEO
         title="Bhakta Niwas Ujjain Contact Number | Booking Enquiry"
-        description="Shri Mahakaleshwar Bhakta Niwas Ujjain contact number (+91 89698 91496). Call or WhatsApp for room booking near Shri Mahakaleshwar Temple, Ujjain. 24hr reception desk."
+        description={`Shri Mahakaleshwar Bhakta Niwas Ujjain contact number (${PHONE_NUMBER_DISPLAY}). Call or WhatsApp for room booking near Shri Mahakaleshwar Temple, Ujjain. 24hr reception desk.`}
         canonicalPath="/contact"
         schemaData={contactSchema}
       />
@@ -82,10 +83,10 @@ const ContactPage = () => {
                   </p>
 
                   <a
-                    href="tel:+918969891496"
+                    href={`tel:${PHONE_NUMBER_TEL}`}
                     className="text-base font-serif font-bold text-brand-burgundy-800 hover:text-brand-gold-500 block break-words transition-colors"
                   >
-                    +91 89698 91496
+                    {PHONE_NUMBER_DISPLAY}
                   </a>
 
                   <p className="text-xs text-brand-dark-light font-light">
@@ -108,12 +109,12 @@ const ContactPage = () => {
                   </p>
 
                   <a
-                    href="https://wa.me/918969891496?text=Hello%2C%20I%20would%20like%20to%20book%20a%20room%20at%20Shri%20Mahakaleshwar%20Bhakta%20Niwas."
+                    href={`https://wa.me/${PHONE_NUMBER_WHATSAPP}?text=Hello%2C%20I%20would%20like%20to%20book%20a%20room%20at%20Shri%20Mahakaleshwar%20Bhakta%20Niwas.`}
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-base font-serif font-bold text-brand-burgundy-800 hover:text-brand-gold-500 block break-words transition-colors"
                   >
-                    +91 89698 91496
+                    {PHONE_NUMBER_DISPLAY}
                   </a>
 
                   <p className="text-xs text-brand-dark-light font-light">

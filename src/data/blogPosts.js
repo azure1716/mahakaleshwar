@@ -1,4 +1,5 @@
 import roomImg from "../assets/room.webp";
+import { PHONE_NUMBER_DISPLAY } from "../config";
 
 export const blogPosts = [
   {
@@ -74,7 +75,7 @@ export const blogPosts = [
         id: "how-to-book",
         h2: "How to Book Online or by Phone",
         content: "Securing your stay in advance is highly recommended, especially for weekend trips or sacred month visits. We provide multiple hassle-free methods for **official Mahakal Bhakt Niwas online booking** and **official Mahakaleshwar Bhakt Niwas online booking** requests.",
-        extraContent: "To reserve your room directly with our front desk, save the **official Ujjain Mahakal dharamshala room contact number**: **+91 89698 91496**. You can call directly or send a message on WhatsApp for instant availability checks, room photos, and instant booking confirmation. For convenient **official Mahakaleshwar online accommodation booking**, you can also use our direct online booking form on this website. Early booking ensures guaranteed room allotment upon your arrival in Ujjain."
+        extraContent: `To reserve your room directly with our front desk, save the **official Ujjain Mahakal dharamshala room contact number**: **${PHONE_NUMBER_DISPLAY}**. You can call directly or send a message on WhatsApp for instant availability checks, room photos, and instant booking confirmation. For convenient **official Mahakaleshwar online accommodation booking**, you can also use our direct online booking form on this website. Early booking ensures guaranteed room allotment upon your arrival in Ujjain.`
       }
     ]
   }

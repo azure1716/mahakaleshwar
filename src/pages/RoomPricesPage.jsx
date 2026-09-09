@@ -3,6 +3,7 @@ import ScrollReveal from "../components/ScrollReveal";
 import { MessageSquare, Phone, CheckCircle, ShieldCheck } from "lucide-react";
 import FAQ from "../components/FAQ";
 import { Link } from "react-router-dom";
+import { PHONE_NUMBER_WHATSAPP, PHONE_NUMBER_TEL } from "../config";
 
 const roomPrices = [
   {
@@ -199,7 +200,7 @@ const RoomPricesPage = () => {
 
                   <div className="mt-6 pt-4 border-t border-brand-gold-500/10 flex gap-2">
                     <a
-                      href={`https://wa.me/918969891496?text=Hello%2C%20I%20want%20to%20book%20the%20${encodeURIComponent(item.type)}%20at%20${encodeURIComponent(item.price)}/night.`}
+                      href={`https://wa.me/${PHONE_NUMBER_WHATSAPP}?text=Hello%2C%20I%20want%20to%20book%20the%20${encodeURIComponent(item.type)}%20at%20${encodeURIComponent(item.price)}/night.`}
                       target="_blank"
                       rel="noopener noreferrer"
                       className="flex-1 btn-premium-gold py-2.5 rounded-lg flex items-center justify-center gap-2 text-xs font-bold uppercase tracking-wider"
@@ -208,7 +209,7 @@ const RoomPricesPage = () => {
                       Book Now
                     </a>
                     <a
-                      href="tel:+918969891496"
+                      href={`tel:${PHONE_NUMBER_TEL}`}
                       className="p-2.5 border border-brand-gold-500/30 text-brand-gold-600 hover:bg-brand-gold-500 hover:text-white rounded-lg transition-colors flex items-center justify-center"
                       title="Call Reception"
                     >

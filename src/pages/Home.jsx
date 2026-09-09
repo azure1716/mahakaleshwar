@@ -10,6 +10,7 @@ import BlogTeaser from "../components/BlogTeaser";
 import BookingForm from "../components/BookingForm";
 import FAQ from "../components/FAQ";
 import LocationBooking from "../components/LocationBooking";
+import { PHONE_NUMBER_SCHEMA } from "../config";
 
 const Home = () => {
   const homeSchema = [
@@ -19,7 +20,7 @@ const Home = () => {
       "name": "Shri Mahakaleshwar Bhakta Niwas",
       "description": "Clean, peaceful accommodation for families and pilgrims in Ujjain near Shri Mahakaleshwar Jyotirlinga Temple.",
       "url": "https://www.mahakalbhaktanivasujjain.com/",
-      "telephone": "+91-8969891496",
+      "telephone": PHONE_NUMBER_SCHEMA,
       "email": "Mahakalmaharajsanstan@gmail.com",
       "priceRange": "₹900 - ₹2,800",
       "address": {

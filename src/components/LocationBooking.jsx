@@ -1,5 +1,6 @@
 import { useState } from "react";
 import { Phone, MessageSquare } from "lucide-react";
+import { PHONE_NUMBER_WHATSAPP, PHONE_NUMBER_TEL } from "../config";
 
 const locations = [
   {
@@ -18,7 +19,7 @@ const LocationBooking = () => {
   const [location, setLocation] = useState(locations[0].name);
   const selectedLocation = locations.find((item) => item.name === location) || locations[0];
 
-  const whatsAppUrl = `https://wa.me/918969891496?text=${encodeURIComponent(
+  const whatsAppUrl = `https://wa.me/${PHONE_NUMBER_WHATSAPP}?text=${encodeURIComponent(
     `Hello, I would like to book a room at ${selectedLocation.name}. ${selectedLocation.short}`
   )}`;
 
@@ -86,7 +87,7 @@ const LocationBooking = () => {
                   WhatsApp to book
                 </a>
                 <a
-                  href="tel:+918969891496"
+                  href={`tel:${PHONE_NUMBER_TEL}`}
                   className="inline-flex items-center justify-center gap-3 rounded-full bg-gradient-to-r from-[#d5830b] to-[#b24c02] px-6 py-4 text-sm font-bold text-white shadow-[0_20px_40px_rgba(178,76,2,0.28)] transition hover:-translate-y-0.5"
                 >
                   <Phone size={18} />
