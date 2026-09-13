@@ -266,6 +266,39 @@ const routes = [
     }
   },
   {
+    path: '/blog/how-to-reach-ujjain-best-time-visit-mahakaleshwar',
+    title: 'Reach Ujjain & Best Time for Mahakaleshwar Temple Guide',
+    description: 'Complete Ujjain travel guide: how to reach Mahakaleshwar temple by air, train & road, best time to visit, 2-day itinerary & festival stay tips.',
+    canonicalPath: '/blog/how-to-reach-ujjain-best-time-visit-mahakaleshwar',
+    ogType: 'article',
+    ogImage: '/hero_temple_bg.webp',
+    schemaData: {
+      "@context": "https://schema.org",
+      "@type": "BlogPosting",
+      "headline": "How to Reach Ujjain & Best Time to Visit Mahakaleshwar Temple: Travel & Season Guide",
+      "description": "Complete travel guide for pilgrims visiting Shri Mahakaleshwar Temple in Ujjain — air, rail, road travel facts, best seasonal times, festival accommodation advice, and 2-day sightseeing itinerary.",
+      "datePublished": "2026-09-13",
+      "dateModified": "2026-09-13",
+      "author": {
+        "@type": "Organization",
+        "name": "Shri Mahakaleshwar Bhakta Niwas",
+        "url": "https://www.mahakalbhaktanivasujjain.com"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Shri Mahakaleshwar Bhakta Niwas",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://www.mahakalbhaktanivasujjain.com/favicon-48x48.png"
+        }
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.mahakalbhaktanivasujjain.com/blog/how-to-reach-ujjain-best-time-visit-mahakaleshwar"
+      }
+    }
+  },
+  {
     path: '/contact',
     title: 'Bhakta Niwas Ujjain Contact Number | Booking Enquiry',
     description: `Shri Mahakaleshwar Bhakta Niwas Ujjain contact number (${PHONE_NUMBER_DISPLAY}). Call or WhatsApp for room booking near Shri Mahakaleshwar Temple, Ujjain. 24hr reception desk.`,
@@ -356,7 +389,7 @@ function runPrerender() {
     console.log(`[prerender] Successfully pre-rendered static HTML for ${route.path} -> ${path.relative(DIST_DIR, targetFile)}`);
   }
 
-  console.log('[prerender] All 11 routes pre-rendered successfully without browser overhead!');
+  console.log('[prerender] All 12 routes pre-rendered successfully without browser overhead!');
 }
 
 runPrerender();

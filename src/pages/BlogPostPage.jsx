@@ -119,22 +119,17 @@ const BlogPostPage = () => {
                 Key Stay Information & Direct Booking Contacts
               </h3>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-xs text-brand-dark font-medium pt-2">
-                <div className="flex items-center gap-2">
-                  <CheckCircle2 size={16} className="text-brand-gold-500 shrink-0" />
-                  <span>200 Metres (3-min walk) to Temple Gate</span>
-                </div>
-                <div className="flex items-center gap-2">
-                  <CheckCircle2 size={16} className="text-brand-gold-500 shrink-0" />
-                  <span>24-Hour Solar Hot Water for morning baths</span>
-                </div>
-                <div className="flex items-center gap-2">
-                  <CheckCircle2 size={16} className="text-brand-gold-500 shrink-0" />
-                  <span>Standard Double Bed Rooms from ₹900/night</span>
-                </div>
-                <div className="flex items-center gap-2">
-                  <CheckCircle2 size={16} className="text-brand-gold-500 shrink-0" />
-                  <span>Direct Reception Phone: {PHONE_NUMBER_DISPLAY}</span>
-                </div>
+                {(post.highlights || [
+                  "200 Metres (3-min walk) to Temple Gate",
+                  "24-Hour Solar Hot Water for morning baths",
+                  "Clean AC & Non-AC Family Accommodation",
+                  `Direct Reception Phone: ${PHONE_NUMBER_DISPLAY}`
+                ]).map((highlight, index) => (
+                  <div key={index} className="flex items-center gap-2">
+                    <CheckCircle2 size={16} className="text-brand-gold-500 shrink-0" />
+                    <span>{highlight}</span>
+                  </div>
+                ))}
               </div>
             </div>
 
