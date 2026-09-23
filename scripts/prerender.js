@@ -299,6 +299,39 @@ const routes = [
     }
   },
   {
+    path: '/blog/bhasma-aarti-booking-ujjain-guide',
+    title: 'Bhasma Aarti Booking Ujjain: Pass & Dress Code Guide',
+    description: 'Complete Bhasma Aarti booking Ujjain guide: learn online registration, ticket price, dress code & reporting gate. Book your stay 200m from temple today!',
+    canonicalPath: '/blog/bhasma-aarti-booking-ujjain-guide',
+    ogType: 'article',
+    ogImage: '/room.webp',
+    schemaData: {
+      "@context": "https://schema.org",
+      "@type": "BlogPosting",
+      "headline": "Bhasma Aarti Booking Ujjain: Pass & Dress Code Guide",
+      "description": "Complete Bhasma Aarti booking Ujjain guide: learn online registration, ticket price, dress code & reporting gate. Book your stay 200m from temple today!",
+      "datePublished": "2026-09-23",
+      "dateModified": "2026-09-23",
+      "author": {
+        "@type": "Organization",
+        "name": "Shri Mahakaleshwar Bhakta Niwas",
+        "url": "https://www.mahakalbhaktanivasujjain.com"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Shri Mahakaleshwar Bhakta Niwas",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://www.mahakalbhaktanivasujjain.com/favicon-48x48.png"
+        }
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.mahakalbhaktanivasujjain.com/blog/bhasma-aarti-booking-ujjain-guide"
+      }
+    }
+  },
+  {
     path: '/contact',
     title: 'Bhakta Niwas Ujjain Contact Number | Booking Enquiry',
     description: `Shri Mahakaleshwar Bhakta Niwas Ujjain contact number (${PHONE_NUMBER_DISPLAY}). Call or WhatsApp for room booking near Shri Mahakaleshwar Temple, Ujjain. 24hr reception desk.`,

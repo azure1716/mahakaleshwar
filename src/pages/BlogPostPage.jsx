@@ -99,6 +99,12 @@ const BlogPostPage = () => {
                   </h2>
                 )}
 
+                {sec.h3 && (
+                  <h3 className="text-lg sm:text-xl font-serif font-bold text-brand-burgundy-900 pt-2">
+                    {sec.h3}
+                  </h3>
+                )}
+
                 {sec.content && (
                   <p className="text-xs sm:text-sm md:text-base text-brand-dark-light font-light leading-relaxed">
                     {renderFormattedText(sec.content)}

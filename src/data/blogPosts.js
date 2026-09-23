@@ -168,6 +168,138 @@ export const blogPosts = [
         extraContent: "To review room options and transparent tariff details, explore our [Rooms & Tariff](/rooms/price) page. When you are ready to plan your trip, visit our [Online Booking](/booking) page or contact reception directly to reserve your stay."
       }
     ]
+  },
+  {
+    id: 3,
+    slug: "bhasma-aarti-booking-ujjain-guide",
+    title: "Bhasma Aarti Booking Ujjain: Pass & Dress Code Guide",
+    subtitle: "Step-by-step registration guide for Bhasma Aarti at Mahakaleshwar Temple: online booking tips, dress code rules, reporting gates, and staying 200m from the temple.",
+    seoTitle: "Bhasma Aarti Booking Ujjain: Pass & Dress Code Guide",
+    seoDescription: "Complete Bhasma Aarti booking Ujjain guide: learn online registration, ticket price, dress code & reporting gate. Book your stay 200m from temple today!",
+    datePublished: "2026-09-23",
+    dateFormatted: "September 23, 2026",
+    author: "Shri Mahakaleshwar Bhakta Niwas",
+    readTime: "7 min read",
+    image: roomImg,
+    imageAlt: "Bhasma Aarti booking Ujjain guide and accommodation at Shri Mahakaleshwar Bhakta Niwas",
+    excerpt: "Planning to attend the divine Bhasma Aarti at Shri Mahakaleshwar Temple in Ujjain? Learn how to get a Bhasma Aarti pass, online registration steps, mandatory dress code, reporting gate tips, and staying 3 minutes from the temple.",
+    highlights: [
+      "200 Metres (3-min walk) to Bhasma Aarti Entry Gate",
+      "24-Hour Solar Hot Water for 3:00 AM Ritual Baths",
+      "Standard Rooms from ₹900/night | AC Rooms from ₹1,500/night",
+      `Direct Reception Phone: ${PHONE_NUMBER_DISPLAY}`
+    ],
+    schema: {
+      "@context": "https://schema.org",
+      "@type": "BlogPosting",
+      "headline": "Bhasma Aarti Booking Ujjain: Pass & Dress Code Guide",
+      "description": "Complete Bhasma Aarti booking Ujjain guide: learn online registration, ticket price, dress code & reporting gate. Book your stay 200m from temple today!",
+      "datePublished": "2026-09-23",
+      "dateModified": "2026-09-23",
+      "author": {
+        "@type": "Organization",
+        "name": "Shri Mahakaleshwar Bhakta Niwas",
+        "url": "https://www.mahakalbhaktanivasujjain.com"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Shri Mahakaleshwar Bhakta Niwas",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://www.mahakalbhaktanivasujjain.com/favicon-48x48.png"
+        }
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.mahakalbhaktanivasujjain.com/blog/bhasma-aarti-booking-ujjain-guide"
+      }
+    },
+    sections: [
+      {
+        id: "intro",
+        type: "paragraph",
+        content: "Attending the sacred early morning Bhasma Aarti at Shri Mahakaleshwar Temple in Ujjain is one of the most coveted spiritual experiences for Lord Shiva devotees worldwide. Performed daily between 4:00 AM and 6:00 AM, this divine ritual involves awakening the deity with sacred ash. Securing a confirmed **Bhasma Aarti booking Ujjain** pass requires careful planning, adherence to strict dress code guidelines, and early morning reporting. Whether you are traveling with family, senior citizens, or solo, understanding **how to get Bhasma Aarti pass** approvals ensures a seamless, deeply peaceful worship experience. For regional weather and transit advice, read our [Ujjain Travel & Weather Guide](/blog/how-to-reach-ujjain-best-time-visit-mahakaleshwar)."
+      },
+      {
+        id: "what-is-bhasma-aarti",
+        h2: "What Is Bhasma Aarti and Why Book in Advance",
+        content: "Bhasma Aarti is a sacred daily ritual unique to Mahakaleshwar Jyotirlinga. Every morning, holy ash is offered to Lord Shiva to symbolize the cosmic cycle of creation and dissolution. Due to limited hall seating, securing **Mahakal Bhasma Aarti online registration** slots in advance is essential.",
+        extraContent: "Devotees often ask **how many days before to book Bhasma Aarti**. Online booking windows typically open 30 to 60 days in advance on the official temple portal. If online slots fill up, offline counter booking options may be available at the temple administrative office on a first-come basis. Understanding **Bhasma Aarti confirmed vs waiting list** status is vital: only devotees with confirmed permission letters are guaranteed entry into the main Nandi Hall or gallery seating. Please verify the latest rules on the official Mahakaleshwar temple website (shrimahakaleshwar.com) before travel."
+      },
+      {
+        id: "step-by-step-registration",
+        h2: "Step-by-Step Online Registration & Ticket Price",
+        content: "To complete your **Mahakal Bhasma Aarti online registration**, visit the official temple website (shrimahakaleshwar.com). Select the Bhasma Aarti booking section, pick your desired date, enter pilgrim details, and upload valid photo identification.",
+        extraContent: "A common question among pilgrims is: **is Bhasma Aarti booking free**? Standard online permission requests carry no fee or nominal processing charges, so be aware of official **Bhasma Aarti ticket price** guidelines. Each registered pilgrim receives an official **Bhasma Aarti permission letter** containing a QR code, assigned **Mahakaleshwar Bhasma Aarti seat allotment**, and gate details. Regarding **Bhasma Aarti cancellation and refund** policies, cancelled passes cannot be transferred, so recheck all applicant details during submission. Please verify the latest rules on the official Mahakaleshwar temple website (shrimahakaleshwar.com) before travel."
+      },
+      {
+        id: "documents-required",
+        h2: "Documents Required & Official Verification",
+        content: "Original identity verification is strictly enforced at temple checkpoints during early morning entry. Carrying the **Bhasma Aarti Aadhaar ID required** document or approved government photo ID (Passport, Voter ID, Driving License) for every applicant is mandatory.",
+        extraContent: "Match all names, age, and ID numbers exactly as printed on your **Bhasma Aarti permission letter**. Mismatched credentials will lead to entry denial at the security gates. Keep digital copies saved on your mobile device as backup, but printed paper permission letters are strongly recommended for fast verification at the gate."
+      },
+      {
+        id: "dress-code-and-rules",
+        h2: "Dress Code & Rules for Men, Women and Children",
+        content: "Strict traditional attire is mandated for all devotees attending the ritual. Following the official **Bhasma Aarti dress code for men and women** is mandatory to enter the Nandi Hall and Jalabhishek area.",
+        extraContent: "• **Dress Code for Men**: Men must wear an unstitched traditional Dhoti and Solah (towel/shawl). Leather belts, wallets, and stitched trousers are prohibited during Jalabhishek.\n• **Bhasma Aarti Women Rules Mahakal**: Women must wear a traditional Saree or Saree-style Dupatta attire. During the specific ash-smearing phase of the ritual, women are requested to veil their eyes according to ancient tradition.\n• **Can Children Attend Bhasma Aarti**: Yes, children can attend with valid registered passes, provided they adhere to traditional clothing guidelines. Note that strict **Bhasma Aarti photography rules** forbid mobile phones, cameras, and electronic gadgets inside the temple complex."
+      },
+      {
+        id: "reporting-time-and-gate",
+        h2: "Bhasma Aarti Timing 4 AM Ujjain: Reporting Time & Gate Tips",
+        content: "Understanding **Bhasma Aarti timing 4 AM Ujjain** reporting schedules is critical. While the ritual commences at 4:00 AM, the official **Bhasma Aarti reporting time** is between 3:00 AM and 3:15 AM at the designated entry gate.",
+        extraContent: "The assigned **Bhasma Aarti entry gate** (typically Gate No. 4 or VIP Gate) requires passing through multiple security checks and biometric scanners. Arriving late means losing your entry pass privileges. Devotees staying far away across Ujjain often struggle with vehicle availability at 3:00 AM. Staying within short walking distance guarantees a stress-free morning walk to the reporting queue."
+      },
+      {
+        id: "fake-website-warning",
+        h2: "Beware of Fake Booking Websites & Scams",
+        content: "Due to high demand, dishonest operators create fake websites promising guaranteed passes. Always heed the **Bhasma Aarti booking fake website warning** issued by temple authorities.",
+        extraContent: "Never pay unauthorized agents or third-party links claiming to sell VIP passes. The only authentic portal for online registration is the official shrine website. If you need assistance with room reservations or general travel guidance, consult our verified reception desk. Please verify the latest rules on the official Mahakaleshwar temple website (shrimahakaleshwar.com) before travel."
+      },
+      {
+        id: "where-to-stay-for-bhasma-aarti",
+        h2: "Where to Stay Near Mahakal for Bhasma Aarti",
+        content: "When deciding **where to stay near Mahakal for Bhasma Aarti**, proximity is the most important factor. At Shri Mahakaleshwar Bhakta Niwas, located just 200 metres (a 3-minute walk) from the main temple gate at 127 Temple Road, Kot Mohalla, pilgrims enjoy unmatched convenience.",
+        extraContent: "Waking up at 2:30 AM for a 3:00 AM reporting time is easy when you are steps away. We provide 24-hour solar hot water so you can take a fresh morning ritual bath before heading out. Our reception desk operates 24/7 to guide guests on gate locations and dress code rules. Standard Non-AC double bed rooms start from ₹900/night, Deluxe AC double rooms from ₹1,500–₹1,800, and 4-bed family rooms from ₹2,200–₹2,800. For complete stay guidance, read our [Room Booking Guide](/blog/room-near-mahakaleshwar-temple-ujjain-guide) or explore our [Rooms & Tariff](/rooms/price) page."
+      },
+      {
+        id: "faqs",
+        h2: "Frequently Asked Questions",
+        content: "Quick answers to common questions about Bhasma Aarti booking, pass rules, timings, and accommodation near Shri Mahakaleshwar Temple."
+      },
+      {
+        id: "faq-1",
+        h3: "How many days before to book Bhasma Aarti in Ujjain?",
+        content: "Online Bhasma Aarti booking typically opens 30 to 60 days in advance on the official temple portal. Because slots fill up quickly, it is recommended to book as soon as your travel dates are confirmed."
+      },
+      {
+        id: "faq-2",
+        h3: "Is Bhasma Aarti booking free of cost?",
+        content: "Official online permission passes carry no heavy ticket fees (only nominal processing charges if applicable on official site). Beware of unauthorized agents charging high fees. Always verify details on shrimahakaleshwar.com."
+      },
+      {
+        id: "faq-3",
+        h3: "What to wear for Bhasma Aarti at Mahakaleshwar Temple?",
+        content: "Men must wear traditional unstitched Dhoti with Solah/towel. Women must wear traditional Sarees or Saree-style attire. Western clothes, jeans, and leather items are strictly prohibited."
+      },
+      {
+        id: "faq-4",
+        h3: "Can children attend Bhasma Aarti with parents?",
+        content: "Yes, children can attend if they are registered on the permission letter and wear traditional attire matching the dress code rules."
+      },
+      {
+        id: "faq-5",
+        h3: "What is the reporting time for Bhasma Aarti in Ujjain?",
+        content: "Reporting time is typically 3:00 AM to 3:15 AM at the designated entry gate for the 4:00 AM aarti. Staying 200m away at Shri Mahakaleshwar Bhakta Niwas ensures easy 3-minute walking access."
+      },
+      {
+        id: "faq-6",
+        h3: "Where to stay near Mahakal for Bhasma Aarti?",
+        content: "Shri Mahakaleshwar Bhakta Niwas is located 200 metres (3-minute walk) from the temple entry gate, offering 24-hour hot water, clean rooms from ₹900/night, and 24/7 reception guidance."
+      }
+    ]
   }
 ];
+
+
 
