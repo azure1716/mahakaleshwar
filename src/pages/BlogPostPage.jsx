@@ -7,13 +7,23 @@ import { PHONE_NUMBER_DISPLAY, PHONE_NUMBER_WHATSAPP, PHONE_NUMBER_TEL } from ".
 
 const renderFormattedText = (text) => {
   if (!text) return null;
-  const parts = text.split(/(\*\*.*?\*\*)/g);
+  const parts = text.split(/(\*\*.*?\*\*|\[[^\]]+\]\(\/[^)\s]*\))/g);
   return parts.map((part, i) => {
     if (part.startsWith("**") && part.endsWith("**")) {
       return (
         <strong key={i} className="font-semibold text-brand-burgundy-900">
           {part.slice(2, -2)}
         </strong>
+      );
+    }
+    const linkMatch = part.match(/^\[([^\]]+)\]\((\/[^)\s]*)\)$/);
+    if (linkMatch) {
+      const label = linkMatch[1];
+      const path = linkMatch[2];
+      return (
+        <Link key={i} to={path} className="font-semibold text-brand-gold-600 underline underline-offset-2 hover:text-brand-burgundy-800">
+          {label}
+        </Link>
       );
     }
     return part;

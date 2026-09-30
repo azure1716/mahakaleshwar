@@ -305,31 +305,186 @@ const routes = [
     canonicalPath: '/blog/bhasma-aarti-booking-ujjain-guide',
     ogType: 'article',
     ogImage: '/room.webp',
-    schemaData: {
-      "@context": "https://schema.org",
-      "@type": "BlogPosting",
-      "headline": "Bhasma Aarti Booking Ujjain: Pass & Dress Code Guide",
-      "description": "Complete Bhasma Aarti booking Ujjain guide: learn online registration, ticket price, dress code & reporting gate. Book your stay 200m from temple today!",
-      "datePublished": "2026-09-23",
-      "dateModified": "2026-09-23",
-      "author": {
-        "@type": "Organization",
-        "name": "Shri Mahakaleshwar Bhakta Niwas",
-        "url": "https://www.mahakalbhaktanivasujjain.com"
+    schemaData: [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "headline": "Bhasma Aarti Booking Ujjain: Pass & Dress Code Guide",
+        "description": "Complete Bhasma Aarti booking Ujjain guide: learn online registration, ticket price, dress code & reporting gate. Book your stay 200m from temple today!",
+        "datePublished": "2026-09-23",
+        "dateModified": "2026-09-30",
+        "author": {
+          "@type": "Organization",
+          "name": "Shri Mahakaleshwar Bhakta Niwas",
+          "url": "https://www.mahakalbhaktanivasujjain.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Shri Mahakaleshwar Bhakta Niwas",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.mahakalbhaktanivasujjain.com/favicon-48x48.png"
+          }
+        },
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://www.mahakalbhaktanivasujjain.com/blog/bhasma-aarti-booking-ujjain-guide"
+        },
+        "image": "https://www.mahakalbhaktanivasujjain.com/og-mahakal-bhasma-aarti.webp",
+        "inLanguage": "en-IN",
+        "keywords": "bhasma aarti booking ujjain, how to get bhasma aarti pass, mahakal bhasma aarti online registration, bhasma aarti dress code for men and women, bhasma aarti timing 4 am ujjain, where to stay near mahakal for bhasma aarti, bhasma aarti tatkal booking, bhasma aarti booking kab khulti hai, bhasma aarti pass kaise milega, bhasma aarti ke liye kya pehne, bhasma aarti group booking, bhasma aarti booking full what to do, bhasma aarti for senior citizens, bhasma aarti booking 2026, bhasma aarti ticket kahan se milega, bhasma aarti agent charges, bhasma aarti jal abhishek rules, mahakal bhasma aarti official website"
       },
-      "publisher": {
-        "@type": "Organization",
-        "name": "Shri Mahakaleshwar Bhakta Niwas",
-        "logo": {
-          "@type": "ImageObject",
-          "url": "https://www.mahakalbhaktanivasujjain.com/favicon-48x48.png"
-        }
-      },
-      "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "https://www.mahakalbhaktanivasujjain.com/blog/bhasma-aarti-booking-ujjain-guide"
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.mahakalbhaktanivasujjain.com/" },
+          { "@type": "ListItem", "position": 2, "name": "Blog", "item": "https://www.mahakalbhaktanivasujjain.com/blog" },
+          { "@type": "ListItem", "position": 3, "name": "Bhasma Aarti Booking Ujjain: Pass & Dress Code Guide", "item": "https://www.mahakalbhaktanivasujjain.com/blog/bhasma-aarti-booking-ujjain-guide" }
+        ]
       }
-    }
+    ]
+  },
+  {
+    path: '/blog/mahakal-darshan-timing-shighra-darshan-ticket-guide',
+    title: 'Mahakal Darshan Timing & Shighra Darshan Ticket Guide 2026',
+    description: 'Mahakal darshan timing, aarti time table, Shighra darshan ticket, Mahakal Lok timing and senior citizen tips. Stay 200m away at Bhakta Niwas Ujjain.',
+    canonicalPath: '/blog/mahakal-darshan-timing-shighra-darshan-ticket-guide',
+    ogType: 'article',
+    ogImage: '/og-mahakal-darshan-timing.webp',
+    schemaData: [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "headline": "Mahakal Darshan Timing, Aarti Schedule & Shighra Darshan Ticket Guide for Families",
+        "description": "Mahakal darshan timing, aarti time table, Shighra darshan ticket, Mahakal Lok timing and senior citizen tips. Stay 200m away at Bhakta Niwas Ujjain.",
+        "datePublished": "2026-09-30",
+        "dateModified": "2026-09-30",
+        "author": {
+          "@type": "Organization",
+          "name": "Shri Mahakaleshwar Bhakta Niwas",
+          "url": "https://www.mahakalbhaktanivasujjain.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Shri Mahakaleshwar Bhakta Niwas",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.mahakalbhaktanivasujjain.com/favicon-48x48.png"
+          }
+        },
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://www.mahakalbhaktanivasujjain.com/blog/mahakal-darshan-timing-shighra-darshan-ticket-guide"
+        },
+        "image": "https://www.mahakalbhaktanivasujjain.com/og-mahakal-darshan-timing.webp",
+        "inLanguage": "en-IN",
+        "keywords": "Mahakal darshan timing, Mahakaleshwar mandir kitne baje khulta hai, Mahakal aarti time table, Shighra darshan ticket Mahakal Ujjain, Mahakal VIP darshan ticket price, Mahakal mandir chalit darshan, Mahakal Lok timing and entry fee, Mahakal darshan for senior citizens, Mahakal mandir wheelchair facility, Mahakal darshan kitna time lagta hai, Mahakal mandir locker facility"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.mahakalbhaktanivasujjain.com/" },
+          { "@type": "ListItem", "position": 2, "name": "Blog", "item": "https://www.mahakalbhaktanivasujjain.com/blog" },
+          { "@type": "ListItem", "position": 3, "name": "Mahakal Darshan Timing, Aarti Schedule & Shighra Darshan Ticket Guide for Families", "item": "https://www.mahakalbhaktanivasujjain.com/blog/mahakal-darshan-timing-shighra-darshan-ticket-guide" }
+        ]
+      }
+    ]
+  },
+  {
+    path: '/blog/ujjain-darshan-places-list-distance-timing-auto-fare',
+    title: 'Ujjain Darshan Places List with Distance, Timing & Auto Fare',
+    description: 'Ujjain darshan places list with distance from Mahakal mandir, timings and auto fare tips. Plan Ujjain me ghumne ki jagah in one day. Stay 200m from temple.',
+    canonicalPath: '/blog/ujjain-darshan-places-list-distance-timing-auto-fare',
+    ogType: 'article',
+    ogImage: '/og-ujjain-darshan-places.webp',
+    schemaData: [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "headline": "Ujjain Darshan Places List: Mahakal Mandir Ke Aas Paas Ghumne Ki Jagah with Distance & Auto Fare",
+        "description": "Ujjain darshan places list with distance from Mahakal mandir, timings and auto fare tips. Plan Ujjain me ghumne ki jagah in one day. Stay 200m from temple.",
+        "datePublished": "2026-09-30",
+        "dateModified": "2026-09-30",
+        "author": {
+          "@type": "Organization",
+          "name": "Shri Mahakaleshwar Bhakta Niwas",
+          "url": "https://www.mahakalbhaktanivasujjain.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Shri Mahakaleshwar Bhakta Niwas",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.mahakalbhaktanivasujjain.com/favicon-48x48.png"
+          }
+        },
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://www.mahakalbhaktanivasujjain.com/blog/ujjain-darshan-places-list-distance-timing-auto-fare"
+        },
+        "image": "https://www.mahakalbhaktanivasujjain.com/og-ujjain-darshan-places.webp",
+        "inLanguage": "en-IN",
+        "keywords": "Ujjain darshan places list, Ujjain me ghumne ki jagah, Mahakal mandir ke aas paas ghumne ki jagah, Ujjain local sightseeing by auto, Ujjain darshan auto kiraya, Ujjain darshan in one day, Mangalnath temple Ujjain timing, Kal Bhairav mandir Ujjain prasad, Bade Ganesh ji ka mandir Ujjain, Chintaman Ganesh temple Ujjain, Gadkalika mandir Ujjain, Ujjain ke mandir list"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.mahakalbhaktanivasujjain.com/" },
+          { "@type": "ListItem", "position": 2, "name": "Blog", "item": "https://www.mahakalbhaktanivasujjain.com/blog" },
+          { "@type": "ListItem", "position": 3, "name": "Ujjain Darshan Places List: Mahakal Mandir Ke Aas Paas Ghumne Ki Jagah with Distance & Auto Fare", "item": "https://www.mahakalbhaktanivasujjain.com/blog/ujjain-darshan-places-list-distance-timing-auto-fare" }
+        ]
+      }
+    ]
+  },
+  {
+    path: '/blog/ujjain-to-omkareshwar-distance-taxi-fare-same-day-trip',
+    title: 'Ujjain to Omkareshwar Distance, Taxi Fare & Trip Plan',
+    description: 'Ujjain to Omkareshwar distance, taxi fare, bus timing and one day trip plan. Start early from Bhakta Niwas, 200m from Mahakal temple, Ujjain.',
+    canonicalPath: '/blog/ujjain-to-omkareshwar-distance-taxi-fare-same-day-trip',
+    ogType: 'article',
+    ogImage: '/og-ujjain-omkareshwar-trip.webp',
+    schemaData: [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "headline": "Ujjain to Omkareshwar: Distance, Taxi Fare, Bus Options & Same-Day Trip Plan",
+        "description": "Ujjain to Omkareshwar distance, taxi fare, bus timing and one day trip plan. Start early from Bhakta Niwas, 200m from Mahakal temple, Ujjain.",
+        "datePublished": "2026-09-30",
+        "dateModified": "2026-09-30",
+        "author": {
+          "@type": "Organization",
+          "name": "Shri Mahakaleshwar Bhakta Niwas",
+          "url": "https://www.mahakalbhaktanivasujjain.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Shri Mahakaleshwar Bhakta Niwas",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.mahakalbhaktanivasujjain.com/favicon-48x48.png"
+          }
+        },
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://www.mahakalbhaktanivasujjain.com/blog/ujjain-to-omkareshwar-distance-taxi-fare-same-day-trip"
+        },
+        "image": "https://www.mahakalbhaktanivasujjain.com/og-ujjain-omkareshwar-trip.webp",
+        "inLanguage": "en-IN",
+        "keywords": "Ujjain to Omkareshwar distance, Ujjain to Omkareshwar taxi fare, Ujjain se Omkareshwar kaise jaye, Ujjain to Omkareshwar bus timing, Ujjain to Omkareshwar same day trip, Ujjain Omkareshwar one day tour, Omkareshwar Jyotirlinga darshan timing, Ujjain to Omkareshwar via Indore, Omkareshwar parikrama, Mamleshwar temple Omkareshwar, Mahakaleshwar Omkareshwar yatra, Ujjain to Omkareshwar time by road"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.mahakalbhaktanivasujjain.com/" },
+          { "@type": "ListItem", "position": 2, "name": "Blog", "item": "https://www.mahakalbhaktanivasujjain.com/blog" },
+          { "@type": "ListItem", "position": 3, "name": "Ujjain to Omkareshwar: Distance, Taxi Fare, Bus Options & Same-Day Trip Plan", "item": "https://www.mahakalbhaktanivasujjain.com/blog/ujjain-to-omkareshwar-distance-taxi-fare-same-day-trip" }
+        ]
+      }
+    ]
   },
   {
     path: '/contact',
