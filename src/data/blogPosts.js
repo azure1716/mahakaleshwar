@@ -60,19 +60,19 @@ export const blogPosts = [
       {
         id: "intro",
         type: "paragraph",
-        content: "Visiting the holy city of Ujjain for darshan at Shri Mahakaleshwar Jyotirlinga is a deeply spiritual experience for millions of devotees each year. When planning your sacred journey, selecting the right stay near the temple complex makes all the difference. Whether you are traveling with family, senior citizens, or in a pilgrim group, booking a room within short walking distance ensures you can focus on worship without stressing over early morning transport or traffic congestion. This comprehensive guide covers room categories, pricing, proximity to the grand Mahakal Lok Corridor, Bhasma Aarti reporting tips, and step-by-step phone and online reservation steps."
+        content: "Visiting the holy city of Ujjain for [darshan at Shri Mahakaleshwar Jyotirlinga](/blog/mahakal-darshan-timing-shighra-darshan-ticket-guide) is a deeply spiritual experience for millions of devotees each year. When planning your sacred journey, selecting the right stay near the temple complex makes all the difference. Whether you are traveling with family, senior citizens, or in a [pilgrim group](/blog/mahakal-temple-parking-group-bus-stay-guide-ujjain), booking a room within short walking distance ensures you can focus on worship without stressing over early morning transport or traffic congestion. This comprehensive guide covers [room categories, pricing](/rooms/price), proximity to the grand Mahakal Lok Corridor, [Bhasma Aarti reporting tips](/blog/bhasma-aarti-booking-ujjain-guide), and step-by-step phone and [online reservation steps](/booking)."
       },
       {
         id: "room-types-and-tariff",
         h2: "Room Types & Tariff",
         content: "Finding clean, comfortable, and affordable lodging is top priority for arriving pilgrims. At Shri Mahakaleshwar Bhakta Niwas, we offer a range of well-maintained AC and Non-AC accommodations tailored to different family sizes and budgets. For couples or small families, the **Mahakal Bhakt Niwas double bed room** is the most popular choice, offering cozy bedding, attached modern bathrooms, and 24-hour hot water.",
-        extraContent: "When reviewing **guest house near Mahakal temple room tariff** options across Ujjain, transparency matters. If you are comparing **Shri Mahakaleshwar Bhakta Niwas Ujjain price** lists or general **Shree Mahakal lodging Ujjain price** tiers, standard Non-AC double bed rooms start from ₹900 per night, while Deluxe AC double bed rooms range from ₹1,500 to ₹1,800 per night. Larger 4-bed family rooms are available at ₹2,200 to ₹2,800 per night, making high quality accommodation accessible for all devotees."
+        extraContent: "When reviewing [**guest house near Mahakal temple room tariff**](/rooms/price) options across Ujjain, transparency matters. If you are comparing [**Shri Mahakaleshwar Bhakta Niwas Ujjain price**](/rooms/price) lists or general **Shree Mahakal lodging Ujjain price** tiers, standard Non-AC double bed rooms start from ₹900 per night, while Deluxe AC double bed rooms range from ₹1,500 to ₹1,800 per night. Larger 4-bed family rooms are available at ₹2,200 to ₹2,800 per night, making high quality accommodation accessible for all devotees."
       },
       {
         id: "location-and-corridor",
         h2: "How Close to the Temple and Mahakal Lok Corridor",
         content: "One of the key advantages of staying at Shri Mahakaleshwar Bhakta Niwas is our unbeatable location. Situated just 200 metres from the temple entrance at 127 Temple Road (Kot Mohalla, Jaisinghpura), devotees can walk to the gates in under 3 minutes. Searching for **Mahakaleshwar accommodation near corridor** access points leads many pilgrims straight to our doors.",
-        extraContent: "With the grand inauguration of Shri Mahakal Lok, millions visit Ujjain to admire the grand murals, fountains, and illuminated Shiva pillars. Having **Mahakal Lok rooms near temple** gates means you can explore the illuminated corridor late into the evening and easily walk back to your room. For pilgrims seeking **Mahakal Lok near room booking**, being located within 200 metres allows effortless visits during both morning and evening darshan hours."
+        extraContent: "With the grand inauguration of Shri Mahakal Lok, millions visit Ujjain to admire the grand murals, fountains, and illuminated Shiva pillars. Having **Mahakal Lok rooms near temple** gates means you can explore the illuminated corridor late into the evening and easily walk back to your room. For pilgrims seeking [**Mahakal Lok near room booking**](/booking), being located within 200 metres allows effortless visits during both morning and evening darshan hours."
       },
       {
         id: "budget-friendly-stay",
@@ -83,14 +83,18 @@ export const blogPosts = [
       {
         id: "bhasma-aarti-planning",
         h2: "Planning Around Bhasma Aarti Darshan",
-        content: "The divine Bhasma Aarti — performed daily between 4:00 AM and 6:00 AM using sacred ash — is the most coveted ritual for devotees visiting Ujjain. Coordinating **Bhasma Aarti and room booking Ujjain** itineraries requires careful timing. Devotees holding Bhasma Aarti passes are required to report at the temple entry gates as early as 3:15 AM to 3:30 AM in traditional attire (Dhoti-Kurta for men, Saree or Salwar for women).",
-        extraContent: "Staying 3 kilometers away in outer Ujjain makes reaching the temple gate at 3:15 AM stressful due to limited auto-rickshaw availability at night. By staying at Shri Mahakaleshwar Bhakta Niwas, you are only a 3-minute walk from the entry gate, allowing you to wake up peacefully, complete your morning bath with 24-hour hot water, and walk directly to the queue. Our front desk reception team is also available 24/7 to guide staying guests on reporting gate locations, dress code guidelines, and morning queue procedures."
+        content: "The divine [Bhasma Aarti](/blog/bhasma-aarti-booking-ujjain-guide) — performed daily between 4:00 AM and 6:00 AM using sacred ash — is the most coveted ritual for devotees visiting Ujjain. Coordinating [**Bhasma Aarti and room booking Ujjain**](/blog/bhasma-aarti-booking-ujjain-guide) itineraries requires careful timing. Devotees holding Bhasma Aarti passes are required to report at the temple entry gates as early as 3:15 AM to 3:30 AM in traditional attire (Dhoti-Kurta for men, Saree or Salwar for women).",
+        extraContent: "Staying 3 kilometers away in outer Ujjain makes reaching the temple gate at 3:15 AM stressful due to limited auto-rickshaw availability at night. By staying at Shri Mahakaleshwar Bhakta Niwas, you are only a 3-minute walk from the entry gate, allowing you to wake up peacefully, complete your morning bath with 24-hour hot water, and walk directly to the queue. Our front desk reception team is also available 24/7 to guide staying guests on reporting gate locations, dress code guidelines, and morning queue procedures. For pilgrims traveling from other cities, review our [How to Reach Ujjain guide](/blog/how-to-reach-ujjain-best-time-visit-mahakaleshwar) for arrival routes and season planning."
       },
       {
         id: "how-to-book",
         h2: "How to Book Online or by Phone",
-        content: "Securing your stay in advance is highly recommended, especially for weekend trips or sacred month visits. We provide multiple hassle-free methods for **official Mahakal Bhakt Niwas online booking** and **official Mahakaleshwar Bhakt Niwas online booking** requests.",
-        extraContent: `To reserve your room directly with our front desk, save the **official Ujjain Mahakal dharamshala room contact number**: **${PHONE_NUMBER_DISPLAY}**. You can call directly or send a message on WhatsApp for instant availability checks, room photos, and instant booking confirmation. For convenient **official Mahakaleshwar online accommodation booking**, you can also use our direct online booking form on this website. Early booking ensures guaranteed room allotment upon your arrival in Ujjain.`
+        content: "Securing your stay in advance is highly recommended, especially for weekend trips or sacred month visits. We provide multiple hassle-free methods for [**official Mahakal Bhakt Niwas online booking**](/booking) and **official Mahakaleshwar Bhakt Niwas online booking** requests.",
+        extraContent: `To reserve your room directly with our front desk, save the **official Ujjain Mahakal dharamshala room contact number**: **${PHONE_NUMBER_DISPLAY}**. You can call directly or send a message on WhatsApp for instant availability checks, room photos, and instant booking confirmation. For convenient [**official Mahakaleshwar online accommodation booking**](/booking), you can also use our direct online booking form on this website. Early booking ensures guaranteed room allotment upon your arrival in Ujjain. You can also explore our [Ujjain Darshan Places guide](/blog/ujjain-darshan-places-list-distance-timing-auto-fare) to plan your local sightseeing itinerary alongside your stay.`,
+        cta: {
+          text: "Check Room Availability",
+          link: "/booking"
+        }
       }
     ]
   },
@@ -143,7 +147,7 @@ export const blogPosts = [
       {
         id: "intro",
         type: "paragraph",
-        content: "Planning a first-time trip to Ujjain for sacred darshan requires knowing **how to reach Mahakaleshwar temple Ujjain** smoothly and selecting the **best time to visit Ujjain Mahakaleshwar temple** based on weather and festival seasons. As one of the twelve revered Jyotirlingas, Ujjain welcomes millions of devotees from across India and around the world. Whether traveling by air, train, or road, understanding travel routes, weather conditions, and peak festival footfalls ensures your pilgrimage remains restful, spiritual, and well-organized."
+        content: "Planning a first-time trip to Ujjain for [sacred darshan](/blog/mahakal-darshan-timing-shighra-darshan-ticket-guide) requires knowing **how to reach Mahakaleshwar temple Ujjain** smoothly and selecting the **best time to visit Ujjain Mahakaleshwar temple** based on weather and festival seasons. As one of the twelve revered Jyotirlingas, Ujjain welcomes millions of devotees from across India and around the world. Whether traveling by air, train, or road, understanding travel routes, weather conditions, and peak festival footfalls ensures your pilgrimage remains restful, spiritual, and well-organized."
       },
       {
         id: "how-to-reach",
@@ -163,7 +167,7 @@ export const blogPosts = [
       {
         id: "how-to-reach-road",
         h3: "By Road",
-        content: "Ujjain enjoys excellent road connectivity via state highways from neighboring cities including Indore, Bhopal, Omkareshwar, and Dewas. Regular interstate and private bus services connect Ujjain with major towns across Madhya Pradesh and neighboring states."
+        content: "Ujjain enjoys excellent road connectivity via state highways from neighboring cities including Indore, Bhopal, [Omkareshwar](/blog/ujjain-to-omkareshwar-distance-taxi-fare-same-day-trip), and Dewas. Regular interstate and private bus services connect Ujjain with major towns across Madhya Pradesh and neighboring states."
       },
       {
         id: "best-time-to-visit",
@@ -188,13 +192,13 @@ export const blogPosts = [
       {
         id: "planning-festivals",
         h2: "Planning Around Mahashivratri and Shravan Maas",
-        content: "Shravan Maas (July–August) and Mahashivratri (February–March) represent the highest-footfall periods in Ujjain. During these sacred times, millions of Lord Shiva devotees assemble for special darshan, processions, and holy baths in River Shipra.",
-        extraContent: "When consulting a practical **Ujjain Mahashivratri stay guide** or reserving **Shravan Maas Ujjain accommodation**, advance planning is crucial. Room inventory across the city fills up rapidly weeks in advance, accompanied by temporary city-wide price surges and heavy traffic diversions. Arrive earlier than usual for temple entry queues to account for extended security checks and high crowd volumes. For specific daily ritual details or Bhasma Aarti timing guidelines, consult our dedicated [Mahakaleshwar Temple Darshan Guide](/mahakaleshwar-temple-guide) page before your travel."
+        content: "Shravan Maas (July–August) and Mahashivratri (February–March) represent the highest-footfall periods in Ujjain. During these sacred times, millions of Lord Shiva devotees assemble for special darshan, [processions](/blog/mahakal-sawari-timing-route-shravan-procession-guide), and holy baths in River Shipra.",
+        extraContent: "When consulting a practical **Ujjain Mahashivratri stay guide** or reserving [**Shravan Maas Ujjain accommodation**](/blog/room-near-mahakaleshwar-temple-ujjain-guide), advance planning is crucial. Room inventory across the city fills up rapidly weeks in advance, accompanied by temporary city-wide price surges and heavy traffic diversions. Arrive earlier than usual for temple entry queues to account for extended security checks and high crowd volumes. For specific daily ritual details or [Bhasma Aarti timing guidelines](/blog/bhasma-aarti-booking-ujjain-guide), consult our dedicated [Mahakaleshwar Temple Darshan Guide](/mahakaleshwar-temple-guide) page before your travel."
       },
       {
         id: "2-day-itinerary",
         h2: "A Simple 2-Day Ujjain Trip Itinerary",
-        content: "A well-planned **Ujjain trip itinerary 2 days** allows pilgrims to comfortably visit the holy shrine and top **places to visit near Mahakaleshwar temple** without feeling rushed."
+        content: "A well-planned **Ujjain trip itinerary 2 days** allows pilgrims to comfortably visit the holy shrine and top [**places to visit near Mahakaleshwar temple**](/blog/ujjain-darshan-places-list-distance-timing-auto-fare) without feeling rushed."
       },
       {
         id: "itinerary-day-1",
@@ -210,7 +214,16 @@ export const blogPosts = [
         id: "closing",
         h2: "Stay Close to the Temple for Easy Morning Darshan",
         content: "Staying within short walking distance of the temple entrance makes early morning darshan stress-free and eliminates transit delays. At Shri Mahakaleshwar Bhakta Niwas, located just 200 metres (3-minute walk) from the main gates, pilgrims enjoy peaceful AC and Non-AC family rooms, 24-hour solar hot water for morning ritual baths, and 24/7 reception support.",
-        extraContent: "To review room options and transparent tariff details, explore our [Rooms & Tariff](/rooms/price) page. When you are ready to plan your trip, visit our [Online Booking](/booking) page or contact reception directly to reserve your stay."
+        extraContent: "To review room options and transparent tariff details, explore our [Rooms & Tariff](/rooms/price) page. When you are ready to plan your trip, visit our [Online Booking](/booking) page or contact reception directly to reserve your stay. For a complete guide to room tariffs and amenities, see our [Room Booking Guide](/blog/room-near-mahakaleshwar-temple-ujjain-guide)."
+      },
+      {
+        id: "plan-your-stay-cta",
+        h2: "Plan Your Stay in Ujjain",
+        content: "Whether you are traveling for Mahashivratri, Shravan Maas, or a peaceful weekend pilgrimage, Shri Mahakaleshwar Bhakta Niwas offers clean AC and Non-AC family rooms just 200 metres from the temple gate. Reserve early for guaranteed allotment.",
+        cta: {
+          text: "Book Your Stay",
+          link: "/booking"
+        }
       }
     ]
   },
@@ -294,12 +307,12 @@ export const blogPosts = [
       {
         id: "tatkal-and-booking-full",
         h2: "Bhasma Aarti Tatkal Booking and What to Do If Booking Is Full",
-        content: "Pilgrims sometimes find the main booking window full and wonder about **Bhasma Aarti tatkal booking** options. A limited last-minute quota has been commonly reported to open around one day before the date, subject to the temple's current rules and availability, so treat this as a possibility rather than a guarantee. For **Bhasma Aarti booking kab khulti hai**, the slot opening time can change by season or festival period, so the safest approach is to check the official temple portal (shrimahakaleshwar.mp.gov.in) the evening before your target date. If **Bhasma Aarti booking full** and no tatkal slot is available, consider trying nearby dates, checking again closer to the date (slots occasionally free up due to cancellations), or planning the general darshan queue and the Sandhya and Shayan aartis in the evening as a meaningful alternative. See our [Mahakal Darshan Timing guide](/blog/mahakal-darshan-timing-shighra-darshan-ticket-guide) for details on all aarti sessions and darshan options."
+        content: "Pilgrims sometimes find the main booking window full and wonder about **Bhasma Aarti tatkal booking** options. A limited last-minute quota has been commonly reported to open around one day before the date, subject to the temple's current rules and availability, so treat this as a possibility rather than a guarantee. For **Bhasma Aarti booking kab khulti hai**, the slot opening time can change by season or festival period, so the safest approach is to check the official temple portal (shrimahakaleshwar.mp.gov.in) the evening before your target date. If **Bhasma Aarti booking full** and no tatkal slot is available, consider trying nearby dates, checking again closer to the date (slots occasionally free up due to cancellations), or planning the general darshan queue and the Sandhya and Shayan aartis in the evening as a meaningful alternative. See our [Mahakal Darshan Timing guide](/blog/mahakal-darshan-timing-shighra-darshan-ticket-guide) for details on all aarti sessions and darshan options, or consider booking temple rituals via our [Mahakaleshwar Pooja Booking guide](/blog/mahakaleshwar-pooja-booking-rudrabhishek-kaal-sarp-dosh-guide)."
       },
       {
         id: "group-booking-and-senior-citizens",
         h2: "Group Booking and Bhasma Aarti for Senior Citizens",
-        content: "For those planning to attend as a group, **Bhasma Aarti group booking** follows the same online process on the official portal. A commonly reported limit is about four applicants per booking, though this is subject to change and should be confirmed on the portal before submitting. Every applicant in the group needs individual registration and must carry matching photo identification at the gate. **Bhasma Aarti group booking** of more than the allowed limit is not permitted in a single transaction, so large groups may need to submit separate applications. For **Bhasma Aarti for senior citizens**, devotees should be aware that attendance involves very early reporting (around 3:00 AM), multiple security checks, and some standing and walking in queues. A stay within short walking distance, such as at our dharamshala 200 metres from the gate, makes the early morning walk easier. Do not expect any dedicated fast-track facility for senior citizens without confirming with the temple help desk on arrival, as such arrangements depend entirely on the temple administration and can change. Please ask the temple staff on the day for any current assistance options. For a room to rest between darshan visits, explore our [online booking](/booking) page."
+        content: "For those planning to attend as a group, **Bhasma Aarti group booking** follows the same online process on the official portal. A commonly reported limit is about four applicants per booking, though this is subject to change and should be confirmed on the portal before submitting. Every applicant in the group needs individual registration and must carry matching photo identification at the gate. **Bhasma Aarti group booking** of more than the allowed limit is not permitted in a single transaction, so large groups may need to submit separate applications. For **Bhasma Aarti for senior citizens**, devotees should be aware that attendance involves very early reporting (around 3:00 AM), multiple security checks, and some standing and walking in queues. A stay within short walking distance, such as at our dharamshala 200 metres from the gate, makes the early morning walk easier. Do not expect any dedicated fast-track facility for senior citizens without confirming with the temple help desk on arrival, as such arrangements depend entirely on the temple administration and can change. Please ask the temple staff on the day for any current assistance options. For groups traveling together by bus or private vehicle, see our [Mahakal Temple Parking & Group Stay Guide](/blog/mahakal-temple-parking-group-bus-stay-guide-ujjain) for vehicle parking and room coordination. For a room to rest between darshan visits, explore our [online booking](/booking) page."
       },
       {
         id: "documents-required",
@@ -344,6 +357,15 @@ export const blogPosts = [
         h2: "Where to Stay Near Mahakal for Bhasma Aarti",
         content: "When deciding **where to stay near Mahakal for Bhasma Aarti**, proximity is the most important factor. At Shri Mahakaleshwar Bhakta Niwas, located just 200 metres (a 3-minute walk) from the main temple gate at 127 Temple Road, Kot Mohalla, pilgrims enjoy unmatched convenience. For pilgrims asking **Bhasma Aarti pass kaise milega**, remember that the pass comes only from the official temple portal; once you have it, having a room 200 metres from the gate is the best logistical advantage you can give yourself.",
         extraContent: "Waking up at 2:30 AM for a 3:00 AM reporting time is easy when you are steps away. We provide 24-hour solar hot water so you can take a fresh morning ritual bath before heading out. Our reception desk operates 24/7 to guide guests on gate locations and dress code rules. Standard Non-AC double bed rooms start from ₹900/night, Deluxe AC double rooms from ₹1,500 to ₹1,800, and 4-bed family rooms from ₹2,200 to ₹2,800. For complete stay guidance, read our [Room Booking Guide](/blog/room-near-mahakaleshwar-temple-ujjain-guide) or explore our [Rooms & Tariff](/rooms/price) page."
+      },
+      {
+        id: "bhasma-aarti-stay-booking",
+        h2: "Plan Your Early Morning Stay for Bhasma Aarti",
+        content: "Staying 200 metres from the entry gate eliminates 3:00 AM transit worries and lets you report comfortably for Bhasma Aarti. Our reception desk provides 24-hour solar hot water and morning queue guidance.",
+        cta: {
+          text: "Reserve Your Stay",
+          link: "/booking"
+        }
       },
       {
         id: "faqs",
@@ -470,17 +492,17 @@ export const blogPosts = [
       {
         id: "darshan-timing",
         h2: "Mahakal Darshan Timing: Daily Opening and Closing Hours",
-        content: "**Mahakal darshan timing** is approximately from 4:00 AM to 11:00 PM on most days, though the exact schedule can change on festival days, Mondays, and during the Shravan month, so confirm on the day of your visit. The temple opens early to accommodate the Bhasma Aarti before sunrise and remains open through the day for general darshan. **Mahakaleshwar mandir kitne baje khulta hai** is one of the most common questions pilgrims ask: the approximate opening time is 4:00 AM, but the sanctum access window for different aarti sessions and queues varies, so arriving shortly after the gates open gives you the best atmosphere for early morning worship."
+        content: "**Mahakal darshan timing** is approximately from 4:00 AM to 11:00 PM on most days, though the exact schedule can change on festival days, Mondays, and during the Shravan month (when special processions take place; see our [Mahakal Sawari guide](/blog/mahakal-sawari-timing-route-shravan-procession-guide)), so confirm on the day of your visit. The temple opens early to accommodate the Bhasma Aarti before sunrise and remains open through the day for general darshan. **Mahakaleshwar mandir kitne baje khulta hai** is one of the most common questions pilgrims ask: the approximate opening time is 4:00 AM, but the sanctum access window for different aarti sessions and queues varies, so arriving shortly after the gates open gives you the best atmosphere for early morning worship."
       },
       {
         id: "aarti-time-table",
         h2: "Mahakal Aarti Time Table: Bhasma, Bhog, Sandhya and Shayan",
-        content: "The **Mahakal aarti time table** consists of five daily aartis that mark the rhythm of the temple day. The Bhasma Aarti is the most celebrated and takes place in the early morning before sunrise; it requires a separate pass obtained via online registration on the official temple portal. The Bhog or Naivedya aarti follows in the late morning. The Sandhya aarti around sunset is a beautiful time for general darshan, as the temple is illuminated and the atmosphere is especially devotional. The Shayan aarti in the late evening marks the closing of the day. The temple revises exact timings by season, festival, and auspicious occasions, so treat all timings as approximate and check with temple staff or the official portal before planning your day."
+        content: "The **Mahakal aarti time table** consists of five daily aartis that mark the rhythm of the temple day. The Bhasma Aarti is the most celebrated and takes place in the early morning before sunrise; it requires a separate pass obtained via online registration on the official temple portal. The Bhog or Naivedya aarti follows in the late morning; for insights into temple prasad and pure vegetarian eating, consult our [Food Near Mahakaleshwar Temple guide](/blog/food-near-mahakaleshwar-temple-ujjain-prasad-bhandar-guide). The Sandhya aarti around sunset is a beautiful time for general darshan, as the temple is illuminated and the atmosphere is especially devotional. The Shayan aarti in the late evening marks the closing of the day. The temple revises exact timings by season, festival, and auspicious occasions, so treat all timings as approximate and check with temple staff or the official portal before planning your day."
       },
       {
         id: "shighra-darshan",
         h2: "Shighra Darshan Ticket and VIP Darshan: Price and Where to Buy",
-        content: "For devotees who want to reduce queue time, the **Shighra darshan ticket Mahakal Ujjain** offers a faster entry lane compared to the free general queue. This paid fast-access pass is commonly reported at around ₹250 per person, though fees and exact rules can change by season and festival period, so confirm at the official temple counter or the official portal before your visit. The **Mahakal VIP darshan ticket price** and availability are also subject to change; both the Shighra pass and any VIP access should be purchased only from official temple counters or the official portal. Never buy from touts or third-party agents outside the gates, as they cannot issue valid passes and often charge inflated amounts."
+        content: "For devotees who want to reduce queue time, the **Shighra darshan ticket Mahakal Ujjain** offers a faster entry lane compared to the free general queue. This paid fast-access pass is commonly reported at around ₹250 per person, though fees and exact rules can change by season and festival period, so confirm at the official temple counter or the official portal before your visit. The **Mahakal VIP darshan ticket price** and availability are also subject to change; both the Shighra pass and any VIP access should be purchased only from official temple counters or the official portal. Never buy from touts or third-party agents outside the gates, as they cannot issue valid passes and often charge inflated amounts. If you also intend to perform personal religious rituals like Rudrabhishek, review our [Mahakaleshwar Pooja Booking guide](/blog/mahakaleshwar-pooja-booking-rudrabhishek-kaal-sarp-dosh-guide)."
       },
       {
         id: "chalit-darshan",
@@ -506,7 +528,16 @@ export const blogPosts = [
         id: "stay-close",
         h2: "Stay 200 Metres Away for Stress-Free Darshan",
         content: "Shri Mahakaleshwar Bhakta Niwas is an independent pilgrim dharamshala located just 200 metres (a 3-minute walk) from the Mahakaleshwar Temple gate at 127 Temple Road, Kot Mohalla, Jaisinghpura, Ujjain. Staying this close means you can time your darshan visit to any aarti session without worrying about transport, traffic, or early morning auto availability. For Bhasma Aarti, a 3:00 AM reporting requirement becomes stress-free when your room is steps from the gate. For the Sandhya aarti around sunset, you can walk over in minutes and return just as easily. Families, senior citizens, and solo pilgrims all benefit from this proximity, especially when queues are long and returning for a rest mid-day is needed.",
-        extraContent: "Standard Non-AC double bed rooms start from ₹900 per night. Deluxe AC double rooms are available from ₹1,500 to ₹1,800. Family rooms (4-bed) are from ₹2,200 to ₹2,800. We provide 24-hour solar hot water, 24/7 reception, a sattvic pure vegetarian atmosphere, and secure parking. Our reception can also advise on the current darshan timing and queue situation to help you plan your visit. To check room options and tariff, explore our [Rooms & Tariff](/rooms/price) page. To confirm availability and reserve your stay, visit our [Online Booking](/booking) page."
+        extraContent: "Standard Non-AC double bed rooms start from ₹900 per night. Deluxe AC double rooms are available from ₹1,500 to ₹1,800. Family rooms (4-bed) are from ₹2,200 to ₹2,800. We provide 24-hour solar hot water, 24/7 reception, a sattvic pure vegetarian atmosphere, and secure parking. Our reception can also advise on the current darshan timing and queue situation to help you plan your visit. For complete room choices and rates, read our [Room Booking Guide](/blog/room-near-mahakaleshwar-temple-ujjain-guide) or explore our [Rooms & Tariff](/rooms/price) page. To confirm availability and reserve your stay, visit our [Online Booking](/booking) page."
+      },
+      {
+        id: "darshan-stay-booking",
+        h2: "Convenient Accommodation for Stress-Free Darshan",
+        content: "A short 3-minute walk from Shri Mahakaleshwar Bhakta Niwas allows you to return to your room between morning and evening darshan sessions, freshen up with 24-hour hot water, and avoid city transport delays.",
+        cta: {
+          text: "Book Your Room",
+          link: "/booking"
+        }
       },
       {
         id: "faqs",
@@ -613,7 +644,7 @@ export const blogPosts = [
       {
         id: "walkable-places",
         h2: "Mahakal Mandir Ke Aas Paas Ghumne Ki Jagah: Places You Can Walk To",
-        content: "The area immediately around the Mahakaleshwar Temple is dense with sacred sites. **Mahakal mandir ke aas paas ghumne ki jagah** that you can reach on foot include the temple itself, the Shri Mahakal Lok corridor, the ancient Ganesh shrine nearby, Harsiddhi Mata Temple, and Ram Ghat. Walking between these saves auto fare and lets you absorb the atmosphere at your own pace."
+        content: "The area immediately around the Mahakaleshwar Temple is dense with sacred sites. **Mahakal mandir ke aas paas ghumne ki jagah** that you can reach on foot include the temple itself, the Shri Mahakal Lok corridor, the ancient Ganesh shrine nearby, Harsiddhi Mata Temple, and Ram Ghat. Walking between these saves auto fare and lets you absorb the atmosphere at your own pace. Devotees walking through the temple area can also sample local food and sweets; check our [Food Near Mahakaleshwar Temple guide](/blog/food-near-mahakaleshwar-temple-ujjain-prasad-bhandar-guide) for traditional breakfast and prasad recommendations."
       },
       {
         id: "walkable-mahakal",
@@ -638,7 +669,7 @@ export const blogPosts = [
       {
         id: "auto-taxi-places",
         h2: "Ujjain Ke Mandir List: Places That Need an Auto or Taxi",
-        content: "Beyond the walkable cluster, the **Ujjain ke mandir list** extends across the city to temples that require an auto or taxi. These include Mangalnath, Kal Bhairav, Sandipani Ashram, Chintaman Ganesh, and Gadkalika. Hiring a full-day auto for these is the most practical approach for families and groups."
+        content: "Beyond the walkable cluster, the **Ujjain ke mandir list** extends across the city to temples that require an auto or taxi. These include Mangalnath, Kal Bhairav, Sandipani Ashram, Chintaman Ganesh, and Gadkalika. Hiring a full-day auto for these is the most practical approach for families and groups. If you wish to explore historical sites outside the temple circuit, such as Kaliyadeh Palace or the observatory, see our [Ujjain Tourist Places Beyond Temples guide](/blog/ujjain-tourist-places-beyond-temples-kaliyadeh-vedh-shala-iskcon). For extended pilgrimages, a same-day excursion to the second Jyotirlinga is detailed in our [Ujjain to Omkareshwar guide](/blog/ujjain-to-omkareshwar-distance-taxi-fare-same-day-trip)."
       },
       {
         id: "auto-mangalnath",
@@ -686,7 +717,16 @@ export const blogPosts = [
         id: "stay-close",
         h2: "Why Stay 200 Metres From Mahakal Mandir",
         content: "Shri Mahakaleshwar Bhakta Niwas is an independent pilgrim dharamshala at 127 Temple Road, Kot Mohalla, Jaisinghpura, Ujjain, just 200 metres (3-minute walk) from the Mahakaleshwar Temple gate. Staying this close means you can return to your room between darshan visits, freshen up with 24-hour solar hot water, and step out again for the evening aarti without any transport cost.",
-        extraContent: "Standard Non-AC double rooms start from ₹900 per night. Deluxe AC double rooms are available from ₹1,500 to ₹1,800. Family rooms (4-bed) from ₹2,200 to ₹2,800. We have 24/7 reception, sattvic pure vegetarian atmosphere, and secure parking. To see our location relative to the temple and city, visit our [Location page](/location). To explore room options, visit the [Rooms page](/rooms). When ready to book, use our [Online Booking](/booking) page."
+        extraContent: "Standard Non-AC double rooms start from ₹900 per night. Deluxe AC double rooms are available from ₹1,500 to ₹1,800. Family rooms (4-bed) from ₹2,200 to ₹2,800. We have 24/7 reception, sattvic pure vegetarian atmosphere, and secure parking. To see our location relative to the temple and city, visit our [Location page](/location). To explore room options and tariffs, check our [Rooms & Tariff](/rooms/price) page or read our [Room Booking Guide](/blog/room-near-mahakaleshwar-temple-ujjain-guide). When ready to book, use our [Online Booking](/booking) page."
+      },
+      {
+        id: "sightseeing-stay-booking",
+        h2: "Your Comfortable Base for Ujjain Sightseeing",
+        content: "Located just 200 metres from Mahakaleshwar Temple, Shri Mahakaleshwar Bhakta Niwas serves as an ideal base for exploring both walkable and auto-reach temples with 24/7 reception and secure parking.",
+        cta: {
+          text: "Reserve Your Room",
+          link: "/booking"
+        }
       },
       {
         id: "faqs",
@@ -826,14 +866,23 @@ export const blogPosts = [
       {
         id: "yatra-base",
         h2: "Mahakaleshwar Omkareshwar Yatra: Use Ujjain as Your Base",
-        content: "Using Ujjain as the base for your **Mahakaleshwar Omkareshwar yatra** makes logistical sense. Ujjain has better accommodation options at various price points, and departing from Ujjain in the morning gives you the full day at Omkareshwar. Returning to Ujjain in the evening also allows you to attend the Sandhya or Shayan aarti at Mahakaleshwar on the return day.",
+        content: "Using Ujjain as the base for your **Mahakaleshwar Omkareshwar yatra** makes logistical sense. Ujjain has better accommodation options at various price points (see our [Room Booking Guide](/blog/room-near-mahakaleshwar-temple-ujjain-guide)), and departing from Ujjain in the morning gives you the full day at Omkareshwar. Returning to Ujjain in the evening also allows you to attend the Sandhya or Shayan aarti at Mahakaleshwar on the return day.",
         extraContent: "For everything to see and do in Ujjain beyond the main temple, see our [Ujjain darshan places guide](/blog/ujjain-darshan-places-list-distance-timing-auto-fare). For planning your darshan timing at Mahakaleshwar before or after the Omkareshwar trip, see our [Mahakal Darshan Timing guide](/blog/mahakal-darshan-timing-shighra-darshan-ticket-guide)."
       },
       {
         id: "stay-close",
         h2: "Start Your Omkareshwar Trip From 200 Metres Away",
         content: "Shri Mahakaleshwar Bhakta Niwas is an independent pilgrim dharamshala at 127 Temple Road, Kot Mohalla, Jaisinghpura, Ujjain, just 200 metres (3-minute walk) from the Mahakaleshwar Temple gate. Our reception operates 24/7, which is useful for early departures when you need to check out or store luggage at 5:00 AM or 6:00 AM before heading to Omkareshwar.",
-        extraContent: "Standard Non-AC double rooms from ₹900 per night. Deluxe AC double rooms from ₹1,500 to ₹1,800. Family rooms (4-bed) from ₹2,200 to ₹2,800. 24-hour solar hot water, secure parking, sattvic pure vegetarian atmosphere. To reserve your stay, visit our [Online Booking](/booking) page or call our reception directly. For any queries, reach us through our [Contact page](/contact)."
+        extraContent: "Standard Non-AC double rooms from ₹900 per night. Deluxe AC double rooms from ₹1,500 to ₹1,800. Family rooms (4-bed) from ₹2,200 to ₹2,800. 24-hour solar hot water, secure parking, sattvic pure vegetarian atmosphere. To explore room categories and prices, visit our [Rooms & Tariff](/rooms/price) page. To reserve your stay, visit our [Online Booking](/booking) page or call our reception directly. For any queries, reach us through our [Contact page](/contact)."
+      },
+      {
+        id: "omkareshwar-yatra-stay-booking",
+        h2: "Plan Your Two-Jyotirlinga Stay Base in Ujjain",
+        content: "Enjoy hassle-free early morning departures and late evening arrivals for your Omkareshwar excursion by staying 200 metres from Mahakaleshwar Temple with 24/7 front desk support and luggage storage.",
+        cta: {
+          text: "Reserve Your Stay",
+          link: "/booking"
+        }
       },
       {
         id: "faqs",
@@ -973,13 +1022,22 @@ export const blogPosts = [
         id: "crowd-viewing-tips",
         h2: "Mahakal Sawari Crowd Tips and Best Viewing Point",
         content: "**Mahakal Sawari crowd tips** from regular pilgrims are consistent: arrive early at your chosen viewing spot, because the route lanes fill up quickly once the procession time approaches. The stretch near the temple gates and Mahakal Chauraha is commonly the most packed section of the route, as the procession starts there and everyone wants to see the departure. If you are with family members, young children, or senior citizens, a position along the early part of the route near the temple, secured well before the procession starts, is often more manageable than trying to reach Ram Ghat later through the crowds.",
-        extraContent: "For the **Mahakal Sawari best viewing point** in terms of open space and visibility, Ram Ghat is frequently mentioned by experienced pilgrims as offering a more open setting compared to the narrow old-city lanes. However, reaching Ram Ghat while the procession is mid-route requires knowing the city well enough to take a parallel path. If you are visiting for the first time, staying near the temple and choosing a spot along the early route section is the more practical approach."
+        extraContent: "For the **Mahakal Sawari best viewing point** in terms of open space and visibility, Ram Ghat is frequently mentioned by experienced pilgrims as offering a more open setting compared to the narrow old-city lanes. However, reaching Ram Ghat while the procession is mid-route requires knowing the city well enough to take a parallel path. If you are visiting for the first time, staying near the temple and choosing a spot along the early route section is the more practical approach. If you are driving into Ujjain or arriving with a group during Sawari season, vehicle movement and parking near the temple are tightly controlled; review our [Mahakal Temple Parking & Group Stay Guide](/blog/mahakal-temple-parking-group-bus-stay-guide-ujjain) to plan parking."
       },
       {
         id: "stay-close",
         h2: "Stay 200 Metres From the Procession's Starting Point",
         content: "Shri Mahakaleshwar Bhakta Niwas is an independent pilgrim dharamshala at 127 Temple Road, Kot Mohalla, Jaisinghpura, Ujjain, just 200 metres (3-minute walk) from the Mahakaleshwar Temple gate - which is also where the Mahakal Sawari procession departs from. Staying this close means you can walk to your viewing spot along the early route without the stress of finding transport on a high-footfall Sawari Monday.",
-        extraContent: "Standard Non-AC double rooms from Rs.900 per night. Deluxe AC double rooms from Rs.1,500 to Rs.1,800. Family rooms (4-bed) from Rs.2,200 to Rs.2,800. 24-hour solar hot water, 24/7 reception, sattvic pure vegetarian atmosphere, secure parking. To reserve your stay, visit our [Rooms and Tariff](/rooms/price) page or go to our [Online Booking](/booking) page."
+        extraContent: "Standard Non-AC double rooms from Rs.900 per night. Deluxe AC double rooms from Rs.1,500 to Rs.1,800. Family rooms (4-bed) from Rs.2,200 to Rs.2,800. 24-hour solar hot water, 24/7 reception, sattvic pure vegetarian atmosphere, secure parking. To explore room categories and prices, see our [Room Booking Guide](/blog/room-near-mahakaleshwar-temple-ujjain-guide) or visit our [Rooms and Tariff](/rooms/price) page, and go to our [Online Booking](/booking) page to reserve."
+      },
+      {
+        id: "sawari-stay-booking",
+        h2: "Stay Steps Away From the Mahakal Sawari Route",
+        content: "Avoid city-wide road closures and transport congestion on high-footfall Sawari Mondays by staying 200 metres from the procession departure gate at Shri Mahakaleshwar Bhakta Niwas.",
+        cta: {
+          text: "Book Your Stay",
+          link: "/booking"
+        }
       },
       {
         id: "faqs",
@@ -1076,7 +1134,7 @@ export const blogPosts = [
       {
         id: "intro",
         type: "paragraph",
-        content: "After hours in a darshan queue at Mahakaleshwar Temple, the first question on most pilgrims' minds is **where to eat near Mahakal temple**. Ujjain is a pilgrim city with a long tradition of sattvic vegetarian cooking, and finding **pure veg food near Mahakal mandir** is not difficult once you know what to look for. This guide covers everything from prasad counters inside the temple complex to bhandar-style thalis, Ujjain's beloved breakfast tradition, street food in the market lanes, and practical tips to eat safely and comfortably during your pilgrimage."
+        content: "After hours in a darshan queue at Mahakaleshwar Temple (for full schedule details, refer to our [Mahakal Darshan Timing guide](/blog/mahakal-darshan-timing-shighra-darshan-ticket-guide)), the first question on most pilgrims' minds is **where to eat near Mahakal temple**. Ujjain is a pilgrim city with a long tradition of sattvic vegetarian cooking, and finding **pure veg food near Mahakal mandir** is not difficult once you know what to look for. This guide covers everything from prasad counters inside the temple complex to bhandar-style thalis, Ujjain's beloved breakfast tradition, street food in the market lanes, and practical tips to eat safely and comfortably during your pilgrimage."
       },
       {
         id: "prasad-and-laddu",
@@ -1119,7 +1177,16 @@ export const blogPosts = [
         id: "stay-close",
         h2: "Pure Vegetarian Atmosphere, 200 Metres From the Temple",
         content: "Shri Mahakaleshwar Bhakta Niwas is an independent pilgrim dharamshala at 127 Temple Road, Kot Mohalla, Jaisinghpura, Ujjain, 200 metres (3-minute walk) from the Mahakaleshwar Temple gate. We maintain a sattvic pure vegetarian atmosphere throughout the property. Our 24/7 reception team is happy to advise arriving guests on nearby prasad counters, morning breakfast spots, and the current status of any festival langar or bhandar operating in the area.",
-        extraContent: "Standard Non-AC double rooms from Rs.900 per night. Deluxe AC double rooms from Rs.1,500 to Rs.1,800. Family rooms (4-bed) from Rs.2,200 to Rs.2,800. 24-hour solar hot water and secure parking. For a full list of nearby places to visit in Ujjain, see our [Ujjain darshan places guide](/blog/ujjain-darshan-places-list-distance-timing-auto-fare). To reserve your stay, visit our [Online Booking](/booking) page."
+        extraContent: "Standard Non-AC double rooms from Rs.900 per night. Deluxe AC double rooms from Rs.1,500 to Rs.1,800. Family rooms (4-bed) from Rs.2,200 to Rs.2,800. 24-hour solar hot water and secure parking. For room rates and categories, visit our [Rooms & Tariff](/rooms/price) page or see our [Room Booking Guide](/blog/room-near-mahakaleshwar-temple-ujjain-guide). For a full list of nearby places to visit in Ujjain, see our [Ujjain darshan places guide](/blog/ujjain-darshan-places-list-distance-timing-auto-fare). To reserve your stay, visit our [Online Booking](/booking) page."
+      },
+      {
+        id: "food-guide-stay-booking",
+        h2: "Sattvic Stay & Peaceful Dining Near Mahakal Temple",
+        content: "Enjoy clean AC and Non-AC family accommodation with a sattvic vegetarian ambiance, just a 3-minute walk from temple prasad counters and morning poha-jalebi stalls.",
+        cta: {
+          text: "Book Your Room",
+          link: "/booking"
+        }
       },
       {
         id: "faqs",
@@ -1216,7 +1283,7 @@ export const blogPosts = [
       {
         id: "intro",
         type: "paragraph",
-        content: "For many devotees, a visit to Mahakaleshwar Temple goes beyond general darshan: they wish to perform a specific puja, request a Vedic ritual, or fulfil a religious vow. Understanding **Mahakal mandir pooja booking** before you arrive avoids confusion, wasted time, and the risk of paying inflated amounts to unverified agents. **Mahakaleshwar pooja kaise karaye** is a question that has a clear answer when approached through the right channel, and this guide explains exactly how the process works and what to watch out for."
+        content: "For many devotees, a visit to Mahakaleshwar Temple goes beyond general darshan (for daily opening hours and queue options, refer to our [Mahakal Darshan Timing guide](/blog/mahakal-darshan-timing-shighra-darshan-ticket-guide)): they wish to perform a specific puja, request a Vedic ritual, or fulfil a religious vow. Understanding **Mahakal mandir pooja booking** before you arrive avoids confusion, wasted time, and the risk of paying inflated amounts to unverified agents. **Mahakaleshwar pooja kaise karaye** is a question that has a clear answer when approached through the right channel, and this guide explains exactly how the process works and what to watch out for."
       },
       {
         id: "what-poojas-available",
@@ -1256,7 +1323,16 @@ export const blogPosts = [
         id: "stay-close",
         h2: "A Quiet Place to Rest Before or After Your Puja",
         content: "Puja and Rudrabhishek rituals at Mahakaleshwar Temple often require an early morning slot or a specific time window assigned by the temple. Having a room 200 metres from the temple gate, as at Shri Mahakaleshwar Bhakta Niwas, means you can be in place on time without transportation stress and return to rest comfortably afterward. Our 24/7 reception is also available to help guests with general guidance about reaching the temple office.",
-        extraContent: "Standard Non-AC double rooms from Rs.900 per night. Deluxe AC double rooms from Rs.1,500 to Rs.1,800. Family rooms (4-bed) from Rs.2,200 to Rs.2,800. 24-hour solar hot water, secure parking, sattvic pure vegetarian atmosphere. To see room options, visit our [Rooms and Tariff](/rooms/price) page. To reserve your stay, visit our [Online Booking](/booking) page."
+        extraContent: "Standard Non-AC double rooms from Rs.900 per night. Deluxe AC double rooms from Rs.1,500 to Rs.1,800. Family rooms (4-bed) from Rs.2,200 to Rs.2,800. 24-hour solar hot water, secure parking, sattvic pure vegetarian atmosphere. To explore room categories and prices, see our [Room Booking Guide](/blog/room-near-mahakaleshwar-temple-ujjain-guide) or visit our [Rooms and Tariff](/rooms/price) page. To reserve your stay, visit our [Online Booking](/booking) page."
+      },
+      {
+        id: "puja-stay-booking",
+        h2: "Convenient Rest Near the Temple for Your Rituals",
+        content: "Take an early morning bath with 24-hour solar hot water and walk to your Rudrabhishek or puja slot in 3 minutes from Shri Mahakaleshwar Bhakta Niwas, returning comfortably afterward to rest.",
+        cta: {
+          text: "Check Room Availability",
+          link: "/booking"
+        }
       },
       {
         id: "faqs",
@@ -1395,13 +1471,22 @@ export const blogPosts = [
         id: "beyond-mahakal",
         h2: "Planning Ujjain Sightseeing Beyond Mahakal",
         content: "**Ujjain heritage sightseeing** works best as a half-day addition to a Mahakal darshan trip rather than a separate standalone day. **Ujjain non religious places to visit** can be grouped naturally: the riverside sites (Kaliyadeh Palace, Bhartrihari Caves, and Ram Ghat area) make one loose circuit, while the observatory and ISKCON temple in the Nanakheda area form another. **Ujjain sightseeing beyond Mahakal** is rewarding precisely because these sites are not crowded by the same numbers as the main temple, so a morning or afternoon at one or two of them gives you a genuinely peaceful experience.",
-        extraContent: "For the complete list of religious and temple sites in Ujjain with distances and auto fare guidance, see our [Ujjain darshan places guide](/blog/ujjain-darshan-places-list-distance-timing-auto-fare). For travel planning including the 2-day Ujjain itinerary, see our [Ujjain travel and season guide](/blog/how-to-reach-ujjain-best-time-visit-mahakaleshwar)."
+        extraContent: "For the complete list of religious and temple sites in Ujjain with distances and auto fare guidance, see our [Ujjain darshan places guide](/blog/ujjain-darshan-places-list-distance-timing-auto-fare). For travel planning including the 2-day Ujjain itinerary, see our [Ujjain travel and season guide](/blog/how-to-reach-ujjain-best-time-visit-mahakaleshwar). If you have extra time for an outstation spiritual excursion, consider our [Ujjain to Omkareshwar guide](/blog/ujjain-to-omkareshwar-distance-taxi-fare-same-day-trip). For dining and local culinary traditions between excursions, consult our [Food Near Mahakaleshwar Temple guide](/blog/food-near-mahakaleshwar-temple-ujjain-prasad-bhandar-guide)."
       },
       {
         id: "stay-close",
         h2: "Explore Ujjain From 200 Metres Away",
         content: "Shri Mahakaleshwar Bhakta Niwas is an independent pilgrim dharamshala at 127 Temple Road, Kot Mohalla, Jaisinghpura, Ujjain, just 200 metres (3-minute walk) from the Mahakaleshwar Temple gate. Our location makes it easy to cover the temple circuit in the morning and then explore heritage sites in the afternoon, with a comfortable room to return to at the end of the day.",
-        extraContent: "Standard Non-AC double rooms from Rs.900 per night. Deluxe AC double rooms from Rs.1,500 to Rs.1,800. Family rooms (4-bed) from Rs.2,200 to Rs.2,800. 24-hour solar hot water, secure parking, sattvic pure vegetarian atmosphere. For directions and map, see our [Location page](/location). To reserve your stay, visit our [Online Booking](/booking) page."
+        extraContent: "Standard Non-AC double rooms from Rs.900 per night. Deluxe AC double rooms from Rs.1,500 to Rs.1,800. Family rooms (4-bed) from Rs.2,200 to Rs.2,800. 24-hour solar hot water, secure parking, sattvic pure vegetarian atmosphere. For directions and map, see our [Location page](/location). To review tariffs and room categories, explore our [Rooms & Tariff](/rooms/price) page or read our [Room Booking Guide](/blog/room-near-mahakaleshwar-temple-ujjain-guide). To reserve your stay, visit our [Online Booking](/booking) page."
+      },
+      {
+        id: "heritage-stay-booking",
+        h2: "Relaxing Base for Heritage & City Exploration",
+        content: "Return from your visits to Kaliyadeh Palace, Vedh Shala, or Bhartrihari Caves to a peaceful room just 200 metres from Mahakal Lok, complete with 24/7 reception and secure parking.",
+        cta: {
+          text: "Reserve Your Stay",
+          link: "/booking"
+        }
       },
       {
         id: "faqs",
@@ -1518,7 +1603,7 @@ export const blogPosts = [
       {
         id: "parking-fees-and-walking",
         h2: "Mahakal Temple Parking Fees and Walking Distance",
-        content: "**Mahakal temple parking fees** at official lots are commonly reported as modest and are either posted at the entry of each lot or shown in the Park Smart app. Do not pay any amount above the posted or app-confirmed fee; if an attendant asks for a cash amount without showing you an official fee board, ask to see the posted rate before paying. Many of the official parking areas require a walk to reach the temple gate, with some lots commonly reported to be about a 10-to-15-minute walk from the temple entrance. Factor this walking time into your arrival schedule, especially on a Sawari day or if you have a Bhasma Aarti reporting time to meet."
+        content: "**Mahakal temple parking fees** at official lots are commonly reported as modest and are either posted at the entry of each lot or shown in the Park Smart app. Do not pay any amount above the posted or app-confirmed fee; if an attendant asks for a cash amount without showing you an official fee board, ask to see the posted rate before paying. Many of the official parking areas require a walk to reach the temple gate, with some lots commonly reported to be about a 10-to-15-minute walk from the temple entrance. Factor this walking time into your arrival schedule, especially on a [Sawari day](/blog/mahakal-sawari-timing-route-shravan-procession-guide) or if you have a [Bhasma Aarti reporting time](/blog/bhasma-aarti-booking-ujjain-guide) to meet."
       },
       {
         id: "avoid-touts",
@@ -1533,7 +1618,7 @@ export const blogPosts = [
       {
         id: "group-darshan",
         h2: "Mahakal Darshan for Large Groups",
-        content: "**Mahakal darshan for large groups** requires some coordination that individual pilgrims do not need to think about. Arriving with a clear time buffer before the aarti session you plan to attend gives the group time to park, walk to the gate, pass through security checks as a unit, and settle into the queue before it reaches peak density. Nominating one person in the group as the contact and coordinator for all interactions with temple staff - at the security check, at the queue arrangement point, and at the sanctum entry - makes the process smoother. Do not assume any special group darshan facility or fast-track entry without confirming it directly with the temple administration on arrival, as no such arrangement should be assumed without explicit confirmation."
+        content: "**Mahakal darshan for large groups** requires some coordination that individual pilgrims do not need to think about. Arriving with a clear time buffer before the aarti session you plan to attend gives the group time to park, walk to the gate, pass through security checks as a unit, and settle into the queue before it reaches peak density. Nominating one person in the group as the contact and coordinator for all interactions with temple staff - at the security check, at the queue arrangement point, and at the sanctum entry - makes the process smoother; consult our [Mahakal Darshan Timing guide](/blog/mahakal-darshan-timing-shighra-darshan-ticket-guide) for daily schedule details. Do not assume any special group darshan facility or fast-track entry without confirming it directly with the temple administration on arrival, as no such arrangement should be assumed without explicit confirmation."
       },
       {
         id: "group-stay",
@@ -1550,7 +1635,16 @@ export const blogPosts = [
         id: "stay-close",
         h2: "Group-Friendly Stay 200 Metres From the Temple",
         content: "Shri Mahakaleshwar Bhakta Niwas is an independent pilgrim dharamshala at 127 Temple Road, Kot Mohalla, Jaisinghpura, Ujjain, 200 metres (3-minute walk) from the Mahakaleshwar Temple gate. We offer standard Non-AC double rooms, Deluxe AC double rooms, and 4-bed family rooms that can be combined for group parties. 24/7 reception, 24-hour solar hot water, sattvic pure vegetarian atmosphere, and secure parking on site.",
-        extraContent: "Standard Non-AC double rooms from Rs.900 per night. Deluxe AC double rooms from Rs.1,500 to Rs.1,800. Family rooms (4-bed) from Rs.2,200 to Rs.2,800. For room options, see our [Rooms page](/rooms). To reserve, visit our [Online Booking](/booking) page. For group enquiries, contact our reception directly through our [Contact page](/contact)."
+        extraContent: "Standard Non-AC double rooms from Rs.900 per night. Deluxe AC double rooms from Rs.1,500 to Rs.1,800. Family rooms (4-bed) from Rs.2,200 to Rs.2,800. For room options, see our [Rooms page](/rooms) or view our [Rooms & Tariff](/rooms/price) page. Read our [Room Booking Guide](/blog/room-near-mahakaleshwar-temple-ujjain-guide) for individual and family options. To reserve, visit our [Online Booking](/booking) page. For group enquiries, contact our reception directly through our [Contact page](/contact)."
+      },
+      {
+        id: "group-stay-booking",
+        h2: "Reserve Your Group Yatra Accommodation",
+        content: "Organizing multiple rooms for pilgrim yatras or family parties is simple at Shri Mahakaleshwar Bhakta Niwas, offering 4-bed family rooms, on-site parking, and direct proximity to the temple gates.",
+        cta: {
+          text: "Plan Your Stay",
+          link: "/booking"
+        }
       },
       {
         id: "faqs",

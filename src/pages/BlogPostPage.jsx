@@ -1,29 +1,50 @@
+import { useEffect } from "react";
 import { useParams, Link, Navigate } from "react-router-dom";
 import SEO from "../components/SEO";
-import ScrollReveal from "../components/ScrollReveal";
 import { blogPosts } from "../data/blogPosts";
 import { Calendar, Clock, ArrowLeft, MessageSquare, Phone, MapPin, CheckCircle2, ShieldCheck } from "lucide-react";
 import { PHONE_NUMBER_DISPLAY, PHONE_NUMBER_WHATSAPP, PHONE_NUMBER_TEL } from "../config";
 
 const renderFormattedText = (text) => {
   if (!text) return null;
-  const parts = text.split(/(\*\*.*?\*\*|\[[^\]]+\]\(\/[^)\s]*\))/g);
+  const parts = text.split(/(\*\*\[[^\]]+\]\(\/[^)\s]*\)\*\*|\[[^\]]+\]\(\/[^)\s]*\)|\*\*.*?\*\*)/g);
   return parts.map((part, i) => {
-    if (part.startsWith("**") && part.endsWith("**")) {
+    const boldOuterLinkMatch = part.match(/^\*\*\[([^\]]+)\]\((\/[^)\s]*)\)\*\*$/);
+    if (boldOuterLinkMatch) {
       return (
         <strong key={i} className="font-semibold text-brand-burgundy-900">
-          {part.slice(2, -2)}
+          <Link
+            to={boldOuterLinkMatch[2]}
+            className="text-brand-gold-600 underline underline-offset-2 hover:text-brand-burgundy-800"
+          >
+            {boldOuterLinkMatch[1]}
+          </Link>
         </strong>
       );
     }
     const linkMatch = part.match(/^\[([^\]]+)\]\((\/[^)\s]*)\)$/);
     if (linkMatch) {
-      const label = linkMatch[1];
+      let label = linkMatch[1];
       const path = linkMatch[2];
+      const isBold = label.startsWith("**") && label.endsWith("**");
+      if (isBold) {
+        label = label.slice(2, -2);
+      }
       return (
-        <Link key={i} to={path} className="font-semibold text-brand-gold-600 underline underline-offset-2 hover:text-brand-burgundy-800">
+        <Link
+          key={i}
+          to={path}
+          className={`font-semibold ${isBold ? "font-bold text-brand-burgundy-900" : ""} text-brand-gold-600 underline underline-offset-2 hover:text-brand-burgundy-800`}
+        >
           {label}
         </Link>
+      );
+    }
+    if (part.startsWith("**") && part.endsWith("**")) {
+      return (
+        <strong key={i} className="font-semibold text-brand-burgundy-900">
+          {part.slice(2, -2)}
+        </strong>
       );
     }
     return part;
@@ -32,6 +53,11 @@ const renderFormattedText = (text) => {
 
 const BlogPostPage = () => {
   const { slug } = useParams();
+
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, [slug]);
+
   const post = blogPosts.find((p) => p.slug === slug);
 
   if (!post) {
@@ -125,6 +151,17 @@ const BlogPostPage = () => {
                   <p className="text-xs sm:text-sm md:text-base text-brand-dark-light font-light leading-relaxed">
                     {renderFormattedText(sec.extraContent)}
                   </p>
+                )}
+
+                {sec.cta && (
+                  <div className="pt-2">
+                    <Link
+                      to={sec.cta.link || "/booking"}
+                      className="btn-premium-gold px-6 py-3 rounded-xl text-xs font-bold uppercase tracking-wider inline-flex items-center justify-center gap-2 shadow-sm"
+                    >
+                      {sec.cta.text}
+                    </Link>
+                  </div>
                 )}
               </div>
             ))}
