@@ -487,6 +487,241 @@ const routes = [
     ]
   },
   {
+    path: '/blog/mahakal-sawari-timing-route-shravan-procession-guide',
+    title: 'Mahakal Sawari Timing, Route and Shravan Guide',
+    description: 'Mahakal Sawari timing, route and Shahi Sawari guide. Plan your Shravan visit and darshan timing. Stay 200m from Mahakal mandir, Ujjain.',
+    canonicalPath: '/blog/mahakal-sawari-timing-route-shravan-procession-guide',
+    ogType: 'article',
+    ogImage: '/og-mahakal-sawari-guide.webp',
+    schemaData: [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "headline": "Mahakal Sawari: Timing, Route and Guide to the Shravan-Bhadrapada Procession",
+        "description": "Mahakal Sawari timing, route and Shahi Sawari guide. Plan your Shravan visit and darshan timing. Stay 200m from Mahakal mandir, Ujjain.",
+        "datePublished": "2026-10-07",
+        "dateModified": "2026-10-07",
+        "author": {
+          "@type": "Organization",
+          "name": "Shri Mahakaleshwar Bhakta Niwas",
+          "url": "https://www.mahakalbhaktanivasujjain.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Shri Mahakaleshwar Bhakta Niwas",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.mahakalbhaktanivasujjain.com/favicon-48x48.png"
+          }
+        },
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://www.mahakalbhaktanivasujjain.com/blog/mahakal-sawari-timing-route-shravan-procession-guide"
+        },
+        "image": "https://www.mahakalbhaktanivasujjain.com/og-mahakal-sawari-guide.webp",
+        "inLanguage": "en-IN",
+        "keywords": "Mahakal Sawari timing, Mahakal Sawari route, Mahakal Sawari kab nikalti hai, Shahi Sawari Mahakal date, Mahakal Sawari Shravan Somwar, Mahakal Palki yatra Ujjain, Mahakal Sawari crowd tips, Mahakal Sawari best viewing point, Mahakal Sawari Ram Ghat abhishek, Mahakal Sawari Bhadrapada, Mahakal Sawari darshan timing change"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.mahakalbhaktanivasujjain.com/" },
+          { "@type": "ListItem", "position": 2, "name": "Blog", "item": "https://www.mahakalbhaktanivasujjain.com/blog" },
+          { "@type": "ListItem", "position": 3, "name": "Mahakal Sawari: Timing, Route and Guide to the Shravan-Bhadrapada Procession", "item": "https://www.mahakalbhaktanivasujjain.com/blog/mahakal-sawari-timing-route-shravan-procession-guide" }
+        ]
+      }
+    ]
+  },
+  {
+    path: '/blog/food-near-mahakaleshwar-temple-ujjain-prasad-bhandar-guide',
+    title: 'Food Near Mahakaleshwar Temple: Prasad & Bhandar Guide',
+    description: 'Food near Mahakaleshwar temple: prasad, pure veg bhandar meals, and Ujjain\'s famous poha jalebi. Practical eating tips for pilgrims near Mahakal mandir.',
+    canonicalPath: '/blog/food-near-mahakaleshwar-temple-ujjain-prasad-bhandar-guide',
+    ogType: 'article',
+    ogImage: '/og-food-near-mahakal-temple.webp',
+    schemaData: [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "headline": "Food Near Mahakaleshwar Temple: Prasad, Bhandar and Pure Veg Eating Guide",
+        "description": "Food near Mahakaleshwar temple: prasad, pure veg bhandar meals, and Ujjain's famous poha jalebi. Practical eating tips for pilgrims near Mahakal mandir.",
+        "datePublished": "2026-10-07",
+        "dateModified": "2026-10-07",
+        "author": {
+          "@type": "Organization",
+          "name": "Shri Mahakaleshwar Bhakta Niwas",
+          "url": "https://www.mahakalbhaktanivasujjain.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Shri Mahakaleshwar Bhakta Niwas",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.mahakalbhaktanivasujjain.com/favicon-48x48.png"
+          }
+        },
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://www.mahakalbhaktanivasujjain.com/blog/food-near-mahakaleshwar-temple-ujjain-prasad-bhandar-guide"
+        },
+        "image": "https://www.mahakalbhaktanivasujjain.com/og-food-near-mahakal-temple.webp",
+        "inLanguage": "en-IN",
+        "keywords": "pure veg food near Mahakal mandir, Mahakal mandir prasad laddu, Ujjain famous poha jalebi, bhandar near Mahakaleshwar temple, sattvic bhojan near Mahakal mandir, where to eat near Mahakal temple, Ujjain street food near temple, prasad shop near Mahakal mandir, Ujjain famous mithai shop, breakfast near Mahakaleshwar temple, langar bhandar Ujjain temple"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.mahakalbhaktanivasujjain.com/" },
+          { "@type": "ListItem", "position": 2, "name": "Blog", "item": "https://www.mahakalbhaktanivasujjain.com/blog" },
+          { "@type": "ListItem", "position": 3, "name": "Food Near Mahakaleshwar Temple: Prasad, Bhandar and Pure Veg Eating Guide", "item": "https://www.mahakalbhaktanivasujjain.com/blog/food-near-mahakaleshwar-temple-ujjain-prasad-bhandar-guide" }
+        ]
+      }
+    ]
+  },
+  {
+    path: '/blog/mahakaleshwar-pooja-booking-rudrabhishek-kaal-sarp-dosh-guide',
+    title: 'Mahakaleshwar Pooja Booking: Rudrabhishek & Puja Guide',
+    description: 'Mahakaleshwar pooja booking guide: Rudrabhishek, Jalabhishek, Kaal Sarp Dosh puja. How booking works and how to avoid unverified agents. Stay 200m away.',
+    canonicalPath: '/blog/mahakaleshwar-pooja-booking-rudrabhishek-kaal-sarp-dosh-guide',
+    ogType: 'article',
+    ogImage: '/og-mahakaleshwar-pooja-booking.webp',
+    schemaData: [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "headline": "Mahakaleshwar Pooja Booking: Rudrabhishek, Kaal Sarp Dosh and Other Puja Guide",
+        "description": "Mahakaleshwar pooja booking guide: Rudrabhishek, Jalabhishek, Kaal Sarp Dosh puja. How booking works and how to avoid unverified agents. Stay 200m away.",
+        "datePublished": "2026-10-07",
+        "dateModified": "2026-10-07",
+        "author": {
+          "@type": "Organization",
+          "name": "Shri Mahakaleshwar Bhakta Niwas",
+          "url": "https://www.mahakalbhaktanivasujjain.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Shri Mahakaleshwar Bhakta Niwas",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.mahakalbhaktanivasujjain.com/favicon-48x48.png"
+          }
+        },
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://www.mahakalbhaktanivasujjain.com/blog/mahakaleshwar-pooja-booking-rudrabhishek-kaal-sarp-dosh-guide"
+        },
+        "image": "https://www.mahakalbhaktanivasujjain.com/og-mahakaleshwar-pooja-booking.webp",
+        "inLanguage": "en-IN",
+        "keywords": "Mahakal mandir pooja booking, Rudrabhishek booking Mahakaleshwar, Kaal Sarp Dosh puja Ujjain, Mahakaleshwar pooja kaise karaye, Jalabhishek booking Mahakal, Mahakal mandir pandit booking, Rudrabhishek cost Mahakaleshwar, Pitra Dosh puja Ujjain Mahakal, Mahakal matha tekna niyam, online pooja booking Mahakaleshwar temple, Mahakal mandir puja counter timing, Navgrah Shanti puja Ujjain"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.mahakalbhaktanivasujjain.com/" },
+          { "@type": "ListItem", "position": 2, "name": "Blog", "item": "https://www.mahakalbhaktanivasujjain.com/blog" },
+          { "@type": "ListItem", "position": 3, "name": "Mahakaleshwar Pooja Booking: Rudrabhishek, Kaal Sarp Dosh and Other Puja Guide", "item": "https://www.mahakalbhaktanivasujjain.com/blog/mahakaleshwar-pooja-booking-rudrabhishek-kaal-sarp-dosh-guide" }
+        ]
+      }
+    ]
+  },
+  {
+    path: '/blog/ujjain-tourist-places-beyond-temples-kaliyadeh-vedh-shala-iskcon',
+    title: 'Ujjain Tourist Places Beyond Temples: A Family Guide',
+    description: 'Ujjain tourist places beyond temples: Kaliyadeh Palace, Vedh Shala observatory, Bhartrihari Caves, ISKCON temple. A family day out near Mahakal mandir.',
+    canonicalPath: '/blog/ujjain-tourist-places-beyond-temples-kaliyadeh-vedh-shala-iskcon',
+    ogType: 'article',
+    ogImage: '/og-ujjain-beyond-temples.webp',
+    schemaData: [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "headline": "Ujjain Tourist Places Beyond Temples: Kaliyadeh Palace, Vedh Shala and ISKCON",
+        "description": "Ujjain tourist places beyond temples: Kaliyadeh Palace, Vedh Shala observatory, Bhartrihari Caves, ISKCON temple. A family day out near Mahakal mandir.",
+        "datePublished": "2026-10-07",
+        "dateModified": "2026-10-07",
+        "author": {
+          "@type": "Organization",
+          "name": "Shri Mahakaleshwar Bhakta Niwas",
+          "url": "https://www.mahakalbhaktanivasujjain.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Shri Mahakaleshwar Bhakta Niwas",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.mahakalbhaktanivasujjain.com/favicon-48x48.png"
+          }
+        },
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://www.mahakalbhaktanivasujjain.com/blog/ujjain-tourist-places-beyond-temples-kaliyadeh-vedh-shala-iskcon"
+        },
+        "image": "https://www.mahakalbhaktanivasujjain.com/og-ujjain-beyond-temples.webp",
+        "inLanguage": "en-IN",
+        "keywords": "places to visit in Ujjain besides temples, Kaliyadeh Palace Ujjain history, Vedh Shala Jantar Mantar Ujjain timing, Bhartrihari caves Ujjain, ISKCON temple Ujjain Nanakheda, Ujjain tourist places for family, Ujjain heritage sightseeing, Ujjain museum Triveni, things to do in Ujjain with kids, Ujjain non religious places to visit, Ujjain sightseeing beyond Mahakal"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.mahakalbhaktanivasujjain.com/" },
+          { "@type": "ListItem", "position": 2, "name": "Blog", "item": "https://www.mahakalbhaktanivasujjain.com/blog" },
+          { "@type": "ListItem", "position": 3, "name": "Ujjain Tourist Places Beyond Temples: Kaliyadeh Palace, Vedh Shala and ISKCON", "item": "https://www.mahakalbhaktanivasujjain.com/blog/ujjain-tourist-places-beyond-temples-kaliyadeh-vedh-shala-iskcon" }
+        ]
+      }
+    ]
+  },
+  {
+    path: '/blog/mahakal-temple-parking-group-bus-stay-guide-ujjain',
+    title: 'Mahakal Temple Parking and Group Yatra Stay Guide',
+    description: 'Mahakal temple parking guide: official parking lots, Ujjain Park Smart app, bus parking, and group yatra stay tips near Mahakaleshwar temple, Ujjain.',
+    canonicalPath: '/blog/mahakal-temple-parking-group-bus-stay-guide-ujjain',
+    ogType: 'article',
+    ogImage: '/og-mahakal-temple-parking-group.webp',
+    schemaData: [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "headline": "Mahakal Temple Parking and Group Yatra Stay Guide for Ujjain",
+        "description": "Mahakal temple parking guide: official parking lots, Ujjain Park Smart app, bus parking, and group yatra stay tips near Mahakaleshwar temple, Ujjain.",
+        "datePublished": "2026-10-07",
+        "dateModified": "2026-10-07",
+        "author": {
+          "@type": "Organization",
+          "name": "Shri Mahakaleshwar Bhakta Niwas",
+          "url": "https://www.mahakalbhaktanivasujjain.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Shri Mahakaleshwar Bhakta Niwas",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.mahakalbhaktanivasujjain.com/favicon-48x48.png"
+          }
+        },
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://www.mahakalbhaktanivasujjain.com/blog/mahakal-temple-parking-group-bus-stay-guide-ujjain"
+        },
+        "image": "https://www.mahakalbhaktanivasujjain.com/og-mahakal-temple-parking-group.webp",
+        "inLanguage": "en-IN",
+        "keywords": "Mahakal temple parking, Ujjain Park Smart app, parking near Mahakaleshwar temple, bus parking near Mahakal mandir, Mahakal temple parking fees, where to park car near Mahakal mandir, Ujjain group yatra stay, group booking near Mahakaleshwar temple, pilgrim group accommodation Ujjain, Mahakal darshan for large groups, Ujjain tour operator group stay, bus parking Ujjain Mahakal temple"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.mahakalbhaktanivasujjain.com/" },
+          { "@type": "ListItem", "position": 2, "name": "Blog", "item": "https://www.mahakalbhaktanivasujjain.com/blog" },
+          { "@type": "ListItem", "position": 3, "name": "Mahakal Temple Parking and Group Yatra Stay Guide for Ujjain", "item": "https://www.mahakalbhaktanivasujjain.com/blog/mahakal-temple-parking-group-bus-stay-guide-ujjain" }
+        ]
+      }
+    ]
+  },
+  {
     path: '/contact',
     title: 'Bhakta Niwas Ujjain Contact Number | Booking Enquiry',
     description: `Shri Mahakaleshwar Bhakta Niwas Ujjain contact number (${PHONE_NUMBER_DISPLAY}). Call or WhatsApp for room booking near Shri Mahakaleshwar Temple, Ujjain. 24hr reception desk.`,
