@@ -722,6 +722,564 @@ const routes = [
     ]
   },
   {
+    path: '/blog/mahakaleshwar-jyotirlinga-history-story-guide',
+    title: 'Mahakaleshwar Jyotirlinga Katha & History Guide',
+    description: 'Explore Mahakaleshwar Jyotirlinga katha, ancient history, swayambhu south facing shivling story, and temple lore. Stay 200m from Mahakal mandir Ujjain.',
+    canonicalPath: '/blog/mahakaleshwar-jyotirlinga-history-story-guide',
+    ogType: 'article',
+    ogImage: '/og-mahakaleshwar-jyotirlinga-history.webp',
+    schemaData: [
+      {
+            "@context": "https://schema.org",
+            "@type": "BlogPosting",
+            "headline": "Mahakaleshwar Jyotirlinga History, Katha and Temple Guide",
+            "description": "Explore Mahakaleshwar Jyotirlinga katha, ancient history, swayambhu south facing shivling story, and temple lore. Stay 200m from Mahakal mandir Ujjain.",
+            "datePublished": "2026-10-12",
+            "dateModified": "2026-10-12",
+            "author": {
+                  "@type": "Organization",
+                  "name": "Shri Mahakaleshwar Bhakta Niwas",
+                  "url": "https://www.mahakalbhaktanivasujjain.com"
+            },
+            "publisher": {
+                  "@type": "Organization",
+                  "name": "Shri Mahakaleshwar Bhakta Niwas",
+                  "logo": {
+                        "@type": "ImageObject",
+                        "url": "https://www.mahakalbhaktanivasujjain.com/favicon-48x48.png"
+                  }
+            },
+            "mainEntityOfPage": {
+                  "@type": "WebPage",
+                  "@id": "https://www.mahakalbhaktanivasujjain.com/blog/mahakaleshwar-jyotirlinga-history-story-guide"
+            },
+            "image": "https://www.mahakalbhaktanivasujjain.com/og-mahakaleshwar-jyotirlinga-history.webp",
+            "inLanguage": "en-IN",
+            "keywords": "Mahakaleshwar Jyotirlinga katha, Mahakal mandir history in Hindi, 12 Jyotirlinga list India, why Mahakal is called Kaal ke Kaal, Mahakaleshwar temple mythology story, Mahakal shivling swayambhu, Mahakal mandir ki sthapna, Ujjain Jyotirlinga importance, Mahakaleshwar temple architecture history, Mahakal south facing shivling significance, Mahakaleshwar Ujjain ancient temple facts"
+      },
+      {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                  {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.mahakalbhaktanivasujjain.com/"
+                  },
+                  {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Blog",
+                        "item": "https://www.mahakalbhaktanivasujjain.com/blog"
+                  },
+                  {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Mahakaleshwar Jyotirlinga History, Katha and Temple Guide",
+                        "item": "https://www.mahakalbhaktanivasujjain.com/blog/mahakaleshwar-jyotirlinga-history-story-guide"
+                  }
+            ]
+      }
+    ]
+  },
+  {
+    path: '/blog/harsiddhi-mata-temple-ujjain-timing-history-guide',
+    title: 'Harsiddhi Mata Mandir Ujjain: Timing & History',
+    description: 'Harsiddhi Mata mandir Ujjain timing, Shaktipeeth history, deepmala deep stambha lighting, and aarti schedule. Walking guide 200m from Mahakal temple.',
+    canonicalPath: '/blog/harsiddhi-mata-temple-ujjain-timing-history-guide',
+    ogType: 'article',
+    ogImage: '/og-harsiddhi-mata-temple-ujjain.webp',
+    schemaData: [
+      {
+            "@context": "https://schema.org",
+            "@type": "BlogPosting",
+            "headline": "Harsiddhi Mata Temple Ujjain: Timing, History and Shaktipeeth Guide",
+            "description": "Harsiddhi Mata mandir Ujjain timing, Shaktipeeth history, deepmala deep stambha lighting, and aarti schedule. Walking guide 200m from Mahakal temple.",
+            "datePublished": "2026-10-12",
+            "dateModified": "2026-10-12",
+            "author": {
+                  "@type": "Organization",
+                  "name": "Shri Mahakaleshwar Bhakta Niwas",
+                  "url": "https://www.mahakalbhaktanivasujjain.com"
+            },
+            "publisher": {
+                  "@type": "Organization",
+                  "name": "Shri Mahakaleshwar Bhakta Niwas",
+                  "logo": {
+                        "@type": "ImageObject",
+                        "url": "https://www.mahakalbhaktanivasujjain.com/favicon-48x48.png"
+                  }
+            },
+            "mainEntityOfPage": {
+                  "@type": "WebPage",
+                  "@id": "https://www.mahakalbhaktanivasujjain.com/blog/harsiddhi-mata-temple-ujjain-timing-history-guide"
+            },
+            "image": "https://www.mahakalbhaktanivasujjain.com/og-harsiddhi-mata-temple-ujjain.webp",
+            "inLanguage": "en-IN",
+            "keywords": "Harsiddhi Mata mandir Ujjain timing, Harsiddhi Shaktipeeth history, Harsiddhi mata mandir deepmala significance, Harsiddhi temple distance from Mahakal mandir, Harsiddhi mata mandir aarti time, 51 Shaktipeeth Ujjain Harsiddhi, Harsiddhi mata mandir darshan timing, Harsiddhi mata mandir Navratri crowd, Ujjain Shaktipeeth temple guide, Harsiddhi temple deep stambha lighting, Harsiddhi mata mandir Ujjain mythology"
+      },
+      {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                  {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.mahakalbhaktanivasujjain.com/"
+                  },
+                  {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Blog",
+                        "item": "https://www.mahakalbhaktanivasujjain.com/blog"
+                  },
+                  {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Harsiddhi Mata Temple Ujjain: Timing, History and Shaktipeeth Guide",
+                        "item": "https://www.mahakalbhaktanivasujjain.com/blog/harsiddhi-mata-temple-ujjain-timing-history-guide"
+                  }
+            ]
+      }
+    ]
+  },
+  {
+    path: '/blog/ram-ghat-shipra-river-aarti-kshipra-snan-guide',
+    title: 'Ram Ghat Shipra River Evening Aarti & Snan Guide',
+    description: 'Shipra river evening aarti Ujjain timing, sacred Kshipra snan significance, Ram Ghat rituals, and boat rides. Plan your visit 200m from Mahakal mandir.',
+    canonicalPath: '/blog/ram-ghat-shipra-river-aarti-kshipra-snan-guide',
+    ogType: 'article',
+    ogImage: '/og-ram-ghat-shipra-river-aarti.webp',
+    schemaData: [
+      {
+            "@context": "https://schema.org",
+            "@type": "BlogPosting",
+            "headline": "Ram Ghat Shipra River Evening Aarti and Kshipra Snan Guide",
+            "description": "Shipra river evening aarti Ujjain timing, sacred Kshipra snan significance, Ram Ghat rituals, and boat rides. Plan your visit 200m from Mahakal mandir.",
+            "datePublished": "2026-10-12",
+            "dateModified": "2026-10-12",
+            "author": {
+                  "@type": "Organization",
+                  "name": "Shri Mahakaleshwar Bhakta Niwas",
+                  "url": "https://www.mahakalbhaktanivasujjain.com"
+            },
+            "publisher": {
+                  "@type": "Organization",
+                  "name": "Shri Mahakaleshwar Bhakta Niwas",
+                  "logo": {
+                        "@type": "ImageObject",
+                        "url": "https://www.mahakalbhaktanivasujjain.com/favicon-48x48.png"
+                  }
+            },
+            "mainEntityOfPage": {
+                  "@type": "WebPage",
+                  "@id": "https://www.mahakalbhaktanivasujjain.com/blog/ram-ghat-shipra-river-aarti-kshipra-snan-guide"
+            },
+            "image": "https://www.mahakalbhaktanivasujjain.com/og-ram-ghat-shipra-river-aarti.webp",
+            "inLanguage": "en-IN",
+            "keywords": "Ram Ghat Ujjain aarti timing, Shipra river evening aarti Ujjain, Kshipra snan Ujjain significance, Ram Ghat Mahakal mandir distance, Shipra ghat aarti kitne baje hoti hai, Ram Ghat Ujjain pind daan, Kshipra nadi Ujjain importance, Ram Ghat Ujjain photography timing, evening aarti near Mahakal temple Ujjain, Ram Ghat Ujjain boat ride charges, Shipra river deepdan Ujjain"
+      },
+      {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                  {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.mahakalbhaktanivasujjain.com/"
+                  },
+                  {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Blog",
+                        "item": "https://www.mahakalbhaktanivasujjain.com/blog"
+                  },
+                  {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Ram Ghat Shipra River Evening Aarti and Kshipra Snan Guide",
+                        "item": "https://www.mahakalbhaktanivasujjain.com/blog/ram-ghat-shipra-river-aarti-kshipra-snan-guide"
+                  }
+            ]
+      }
+    ]
+  },
+  {
+    path: '/blog/ujjain-railway-station-bus-stand-mahakal-mandir-transport-guide',
+    title: 'Ujjain Station to Mahakal Mandir Transport Guide',
+    description: 'Ujjain railway station to Mahakal mandir auto fare, e-rickshaw rates, bus stands, and prepaid transport tips. Easy arrival guide for Mahakal pilgrims.',
+    canonicalPath: '/blog/ujjain-railway-station-bus-stand-mahakal-mandir-transport-guide',
+    ogType: 'article',
+    ogImage: '/og-ujjain-station-bus-transport.webp',
+    schemaData: [
+      {
+            "@context": "https://schema.org",
+            "@type": "BlogPosting",
+            "headline": "Ujjain Railway Station and Bus Stand to Mahakal Mandir: Transport Guide",
+            "description": "Ujjain railway station to Mahakal mandir auto fare, e-rickshaw rates, bus stands, and prepaid transport tips. Easy arrival guide for Mahakal pilgrims.",
+            "datePublished": "2026-10-12",
+            "dateModified": "2026-10-12",
+            "author": {
+                  "@type": "Organization",
+                  "name": "Shri Mahakaleshwar Bhakta Niwas",
+                  "url": "https://www.mahakalbhaktanivasujjain.com"
+            },
+            "publisher": {
+                  "@type": "Organization",
+                  "name": "Shri Mahakaleshwar Bhakta Niwas",
+                  "logo": {
+                        "@type": "ImageObject",
+                        "url": "https://www.mahakalbhaktanivasujjain.com/favicon-48x48.png"
+                  }
+            },
+            "mainEntityOfPage": {
+                  "@type": "WebPage",
+                  "@id": "https://www.mahakalbhaktanivasujjain.com/blog/ujjain-railway-station-bus-stand-mahakal-mandir-transport-guide"
+            },
+            "image": "https://www.mahakalbhaktanivasujjain.com/og-ujjain-station-bus-transport.webp",
+            "inLanguage": "en-IN",
+            "keywords": "Ujjain railway station to Mahakal mandir auto fare, Ujjain Junction to Mahakaleshwar temple distance km, Ujjain bus stand to Mahakal mandir distance, prepaid auto booth Ujjain railway station, e-rickshaw fare Ujjain station to Mahakal temple, Vikram Nagar bus stand to Mahakal mandir, Dewas Gate bus stand Ujjain to temple, Ujjain railway station cloakroom facility, Ujjain local transport guide for pilgrims, Ujjain prepaid taxi booth railway station, Ujjain station to Mahakal Lok walking route"
+      },
+      {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                  {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.mahakalbhaktanivasujjain.com/"
+                  },
+                  {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Blog",
+                        "item": "https://www.mahakalbhaktanivasujjain.com/blog"
+                  },
+                  {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Ujjain Railway Station and Bus Stand to Mahakal Mandir: Transport Guide",
+                        "item": "https://www.mahakalbhaktanivasujjain.com/blog/ujjain-railway-station-bus-stand-mahakal-mandir-transport-guide"
+                  }
+            ]
+      }
+    ]
+  },
+  {
+    path: '/blog/simhastha-kumbh-mela-ujjain-2028-planning-guide',
+    title: 'Simhastha Kumbh Mela Ujjain 2028 Planning Guide',
+    description: 'Simhastha Kumbh Mela Ujjain 2028 date updates, expected shahi snan, accommodation booking tips, and route planning. Stay 200m from Mahakaleshwar temple.',
+    canonicalPath: '/blog/simhastha-kumbh-mela-ujjain-2028-planning-guide',
+    ogType: 'article',
+    ogImage: '/og-simhastha-kumbh-mela-2028.webp',
+    schemaData: [
+      {
+            "@context": "https://schema.org",
+            "@type": "BlogPosting",
+            "headline": "Simhastha Kumbh Mela Ujjain 2028: Early Planning and Stay Guide",
+            "description": "Simhastha Kumbh Mela Ujjain 2028 date updates, expected shahi snan, accommodation booking tips, and route planning. Stay 200m from Mahakaleshwar temple.",
+            "datePublished": "2026-10-12",
+            "dateModified": "2026-10-12",
+            "author": {
+                  "@type": "Organization",
+                  "name": "Shri Mahakaleshwar Bhakta Niwas",
+                  "url": "https://www.mahakalbhaktanivasujjain.com"
+            },
+            "publisher": {
+                  "@type": "Organization",
+                  "name": "Shri Mahakaleshwar Bhakta Niwas",
+                  "logo": {
+                        "@type": "ImageObject",
+                        "url": "https://www.mahakalbhaktanivasujjain.com/favicon-48x48.png"
+                  }
+            },
+            "mainEntityOfPage": {
+                  "@type": "WebPage",
+                  "@id": "https://www.mahakalbhaktanivasujjain.com/blog/simhastha-kumbh-mela-ujjain-2028-planning-guide"
+            },
+            "image": "https://www.mahakalbhaktanivasujjain.com/og-simhastha-kumbh-mela-2028.webp",
+            "inLanguage": "en-IN",
+            "keywords": "Simhastha Kumbh Mela Ujjain 2028 date, Simhastha mela Ujjain guide, Kumbh mela Ujjain accommodation booking, Simhastha shahi snan dates Ujjain, Simhastha 2028 stay near Mahakal mandir, Kumbh mela Ujjain crowd management, Simhastha Ujjain parking and route plan, Kumbh mela Ujjain history significance, Simhastha mela Shipra snan dates, Ujjain Simhastha tent city booking, Simhastha Mahakaleshwar darshan pass"
+      },
+      {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                  {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.mahakalbhaktanivasujjain.com/"
+                  },
+                  {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Blog",
+                        "item": "https://www.mahakalbhaktanivasujjain.com/blog"
+                  },
+                  {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Simhastha Kumbh Mela Ujjain 2028: Early Planning and Stay Guide",
+                        "item": "https://www.mahakalbhaktanivasujjain.com/blog/simhastha-kumbh-mela-ujjain-2028-planning-guide"
+                  }
+            ]
+      }
+    ]
+  },
+  {
+    path: '/blog/ujjain-shopping-guide-sarafa-bazaar-puja-samagri-market',
+    title: 'Ujjain Shopping Guide: Sarafa Bazaar & Puja Items',
+    description: 'Ujjain shopping guide: puja samagri market near Mahakal mandir, authentic rudraksha shops, Sarafa Bazaar timings, and souvenirs. Stay 200m from temple.',
+    canonicalPath: '/blog/ujjain-shopping-guide-sarafa-bazaar-puja-samagri-market',
+    ogType: 'article',
+    ogImage: '/og-ujjain-shopping-sarafa-bazaar.webp',
+    schemaData: [
+      {
+            "@context": "https://schema.org",
+            "@type": "BlogPosting",
+            "headline": "Ujjain Shopping Guide: Sarafa Bazaar, Puja Samagri and Rudraksha Market",
+            "description": "Ujjain shopping guide: puja samagri market near Mahakal mandir, authentic rudraksha shops, Sarafa Bazaar timings, and souvenirs. Stay 200m from temple.",
+            "datePublished": "2026-10-12",
+            "dateModified": "2026-10-12",
+            "author": {
+                  "@type": "Organization",
+                  "name": "Shri Mahakaleshwar Bhakta Niwas",
+                  "url": "https://www.mahakalbhaktanivasujjain.com"
+            },
+            "publisher": {
+                  "@type": "Organization",
+                  "name": "Shri Mahakaleshwar Bhakta Niwas",
+                  "logo": {
+                        "@type": "ImageObject",
+                        "url": "https://www.mahakalbhaktanivasujjain.com/favicon-48x48.png"
+                  }
+            },
+            "mainEntityOfPage": {
+                  "@type": "WebPage",
+                  "@id": "https://www.mahakalbhaktanivasujjain.com/blog/ujjain-shopping-guide-sarafa-bazaar-puja-samagri-market"
+            },
+            "image": "https://www.mahakalbhaktanivasujjain.com/og-ujjain-shopping-sarafa-bazaar.webp",
+            "inLanguage": "en-IN",
+            "keywords": "Sarafa Bazaar Ujjain timing, puja samagri market near Mahakal mandir, rudraksha shop Ujjain price, Ujjain souvenir shopping near temple, Patni Bazaar Ujjain shopping, Freeganj market Ujjain, Mahakal mandir prasad packet online, Ujjain religious items shopping guide, Sarafa Bazaar Ujjain night market food, Mahakal photo frame and shivling buy Ujjain, original rudraksha testing in Ujjain"
+      },
+      {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                  {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.mahakalbhaktanivasujjain.com/"
+                  },
+                  {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Blog",
+                        "item": "https://www.mahakalbhaktanivasujjain.com/blog"
+                  },
+                  {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Ujjain Shopping Guide: Sarafa Bazaar, Puja Samagri and Rudraksha Market",
+                        "item": "https://www.mahakalbhaktanivasujjain.com/blog/ujjain-shopping-guide-sarafa-bazaar-puja-samagri-market"
+                  }
+            ]
+      }
+    ]
+  },
+  {
+    path: '/blog/mahashivratri-mahakaleshwar-temple-mela-crowd-guide',
+    title: 'Mahashivratri Mahakal Mandir Mela & Crowd Guide',
+    description: 'Mahashivratri Mahakal mandir guide: night darshan timings, Shiv Navratri, queue management tips, and room booking. Stay 200m from Mahakaleshwar temple.',
+    canonicalPath: '/blog/mahashivratri-mahakaleshwar-temple-mela-crowd-guide',
+    ogType: 'article',
+    ogImage: '/og-mahashivratri-mahakaleshwar-mela.webp',
+    schemaData: [
+      {
+            "@context": "https://schema.org",
+            "@type": "BlogPosting",
+            "headline": "Mahashivratri at Mahakaleshwar Temple: Mela Guide and Crowd Tips",
+            "description": "Mahashivratri Mahakal mandir guide: night darshan timings, Shiv Navratri, queue management tips, and room booking. Stay 200m from Mahakaleshwar temple.",
+            "datePublished": "2026-10-12",
+            "dateModified": "2026-10-12",
+            "author": {
+                  "@type": "Organization",
+                  "name": "Shri Mahakaleshwar Bhakta Niwas",
+                  "url": "https://www.mahakalbhaktanivasujjain.com"
+            },
+            "publisher": {
+                  "@type": "Organization",
+                  "name": "Shri Mahakaleshwar Bhakta Niwas",
+                  "logo": {
+                        "@type": "ImageObject",
+                        "url": "https://www.mahakalbhaktanivasujjain.com/favicon-48x48.png"
+                  }
+            },
+            "mainEntityOfPage": {
+                  "@type": "WebPage",
+                  "@id": "https://www.mahakalbhaktanivasujjain.com/blog/mahashivratri-mahakaleshwar-temple-mela-crowd-guide"
+            },
+            "image": "https://www.mahakalbhaktanivasujjain.com/og-mahashivratri-mahakaleshwar-mela.webp",
+            "inLanguage": "en-IN",
+            "keywords": "Mahashivratri Mahakal mandir guide, Mahashivratri Ujjain mela date, Mahashivratri darshan queue Mahakal mandir, Mahashivratri Ujjain crowd tips, Mahakal mandir Mahashivratri night darshan timing, Mahashivratri Ujjain traffic diversion route, book room Mahashivratri Ujjain, Mahashivratri Mahakal jalabhishek timing, Mahashivratri Mela Ujjain stay booking, Mahashivratri Sehra darshan Mahakal Ujjain, Shiv Navratri festival Ujjain Mahakal"
+      },
+      {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                  {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.mahakalbhaktanivasujjain.com/"
+                  },
+                  {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Blog",
+                        "item": "https://www.mahakalbhaktanivasujjain.com/blog"
+                  },
+                  {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Mahashivratri at Mahakaleshwar Temple: Mela Guide and Crowd Tips",
+                        "item": "https://www.mahakalbhaktanivasujjain.com/blog/mahashivratri-mahakaleshwar-temple-mela-crowd-guide"
+                  }
+            ]
+      }
+    ]
+  },
+  {
+    path: '/blog/mangalnath-temple-ujjain-manglik-dosh-puja-booking-guide',
+    title: 'Mangalnath Temple Ujjain: Manglik Dosh Puja Guide',
+    description: 'Mangalnath mandir manglik dosh puja booking guide: Bhatpuja costs, pandit booking, darshan timings, and Mars temple history in Ujjain. Plan your visit.',
+    canonicalPath: '/blog/mangalnath-temple-ujjain-manglik-dosh-puja-booking-guide',
+    ogType: 'article',
+    ogImage: '/og-mangalnath-temple-manglik-puja.webp',
+    schemaData: [
+      {
+            "@context": "https://schema.org",
+            "@type": "BlogPosting",
+            "headline": "Mangalnath Temple Ujjain: Manglik Dosh Puja Booking Guide",
+            "description": "Mangalnath mandir manglik dosh puja booking guide: Bhatpuja costs, pandit booking, darshan timings, and Mars temple history in Ujjain. Plan your visit.",
+            "datePublished": "2026-10-12",
+            "dateModified": "2026-10-12",
+            "author": {
+                  "@type": "Organization",
+                  "name": "Shri Mahakaleshwar Bhakta Niwas",
+                  "url": "https://www.mahakalbhaktanivasujjain.com"
+            },
+            "publisher": {
+                  "@type": "Organization",
+                  "name": "Shri Mahakaleshwar Bhakta Niwas",
+                  "logo": {
+                        "@type": "ImageObject",
+                        "url": "https://www.mahakalbhaktanivasujjain.com/favicon-48x48.png"
+                  }
+            },
+            "mainEntityOfPage": {
+                  "@type": "WebPage",
+                  "@id": "https://www.mahakalbhaktanivasujjain.com/blog/mangalnath-temple-ujjain-manglik-dosh-puja-booking-guide"
+            },
+            "image": "https://www.mahakalbhaktanivasujjain.com/og-mangalnath-temple-manglik-puja.webp",
+            "inLanguage": "en-IN",
+            "keywords": "Mangalnath mandir manglik dosh puja booking, Mangalnath temple pandit booking Ujjain, manglik dosh nivaran puja cost Ujjain, Mangal dev mandir Ujjain story, kundli milan Mangal dosh Ujjain temple, Mangalnath mandir Ujjain darshan timing, Mangal graha shanti puja Ujjain, Mangalnath temple distance from Mahakal mandir, Mangalnath mandir online puja booking, Bhatpuja Mangalnath temple Ujjain, Mangalnath temple Tuesday crowd tips"
+      },
+      {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                  {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.mahakalbhaktanivasujjain.com/"
+                  },
+                  {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Blog",
+                        "item": "https://www.mahakalbhaktanivasujjain.com/blog"
+                  },
+                  {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Mangalnath Temple Ujjain: Manglik Dosh Puja Booking Guide",
+                        "item": "https://www.mahakalbhaktanivasujjain.com/blog/mangalnath-temple-ujjain-manglik-dosh-puja-booking-guide"
+                  }
+            ]
+      }
+    ]
+  },
+  {
+    path: '/blog/ujjain-weather-packing-guide-pilgrims-by-season',
+    title: 'Ujjain Weather & Packing Guide for Pilgrims',
+    description: 'Learn what to pack for Ujjain pilgrimage trip across summer, monsoon, and winter. Clothing checklist for early Bhasma Aarti and Mahakal temple darshan.',
+    canonicalPath: '/blog/ujjain-weather-packing-guide-pilgrims-by-season',
+    ogType: 'article',
+    ogImage: '/og-ujjain-weather-packing-guide.webp',
+    schemaData: [
+      {
+            "@context": "https://schema.org",
+            "@type": "BlogPosting",
+            "headline": "Weather and Packing Guide for Ujjain Pilgrimage by Season",
+            "description": "Learn what to pack for Ujjain pilgrimage trip across summer, monsoon, and winter. Clothing checklist for early Bhasma Aarti and Mahakal temple darshan.",
+            "datePublished": "2026-10-12",
+            "dateModified": "2026-10-12",
+            "author": {
+                  "@type": "Organization",
+                  "name": "Shri Mahakaleshwar Bhakta Niwas",
+                  "url": "https://www.mahakalbhaktanivasujjain.com"
+            },
+            "publisher": {
+                  "@type": "Organization",
+                  "name": "Shri Mahakaleshwar Bhakta Niwas",
+                  "logo": {
+                        "@type": "ImageObject",
+                        "url": "https://www.mahakalbhaktanivasujjain.com/favicon-48x48.png"
+                  }
+            },
+            "mainEntityOfPage": {
+                  "@type": "WebPage",
+                  "@id": "https://www.mahakalbhaktanivasujjain.com/blog/ujjain-weather-packing-guide-pilgrims-by-season"
+            },
+            "image": "https://www.mahakalbhaktanivasujjain.com/og-ujjain-weather-packing-guide.webp",
+            "inLanguage": "en-IN",
+            "keywords": "what to pack for Ujjain pilgrimage trip, winter clothes for Mahakal Bhasma Aarti, monsoon travel tips Ujjain Mahakal, summer visit Ujjain precautions, Ujjain weather by month for pilgrims, seasonal packing checklist for Mahakal temple visit, Ujjain packing list for pilgrims, cold weather Bhasma Aarti preparation, rainy season Ujjain temple visit tips, traditional dress code packing for Mahakal, footwear rules Ujjain temple packing"
+      },
+      {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                  {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.mahakalbhaktanivasujjain.com/"
+                  },
+                  {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Blog",
+                        "item": "https://www.mahakalbhaktanivasujjain.com/blog"
+                  },
+                  {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Weather and Packing Guide for Ujjain Pilgrimage by Season",
+                        "item": "https://www.mahakalbhaktanivasujjain.com/blog/ujjain-weather-packing-guide-pilgrims-by-season"
+                  }
+            ]
+      }
+    ]
+  },
+  {
     path: '/contact',
     title: 'Bhakta Niwas Ujjain Contact Number | Booking Enquiry',
     description: `Shri Mahakaleshwar Bhakta Niwas Ujjain contact number (${PHONE_NUMBER_DISPLAY}). Call or WhatsApp for room booking near Shri Mahakaleshwar Temple, Ujjain. 24hr reception desk.`,
