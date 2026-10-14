@@ -1353,24 +1353,35 @@ function runPrerender() {
   for (const route of routes) {
     const preRenderedHtml = prerenderRoute(baseHtml, route);
 
-    let targetFile;
     if (route.path === '/') {
-      targetFile = path.join(DIST_DIR, 'index.html');
+      const targetFile = path.join(DIST_DIR, 'index.html');
+      fs.writeFileSync(targetFile, preRenderedHtml, 'utf8');
+      console.log(`[prerender] Successfully pre-rendered static HTML for / -> index.html`);
     } else {
       const cleanPath = route.path.startsWith('/') ? route.path.slice(1) : route.path;
-      targetFile = path.join(DIST_DIR, `${cleanPath}.html`);
-    }
 
-    const targetDir = path.dirname(targetFile);
-    if (!fs.existsSync(targetDir)) {
-      fs.mkdirSync(targetDir, { recursive: true });
-    }
+      // 1. Write cleanPath.html (e.g., dist/rooms.html)
+      const htmlFile = path.join(DIST_DIR, `${cleanPath}.html`);
+      const htmlDir = path.dirname(htmlFile);
+      if (!fs.existsSync(htmlDir)) {
+        fs.mkdirSync(htmlDir, { recursive: true });
+      }
+      fs.writeFileSync(htmlFile, preRenderedHtml, 'utf8');
 
-    fs.writeFileSync(targetFile, preRenderedHtml, 'utf8');
-    console.log(`[prerender] Successfully pre-rendered static HTML for ${route.path} -> ${path.relative(DIST_DIR, targetFile)}`);
+      // 2. Also write cleanPath/index.html (e.g., dist/rooms/index.html)
+      // This prevents web servers from causing trailing slash redirects or 404s
+      const indexFile = path.join(DIST_DIR, cleanPath, 'index.html');
+      const indexDir = path.dirname(indexFile);
+      if (!fs.existsSync(indexDir)) {
+        fs.mkdirSync(indexDir, { recursive: true });
+      }
+      fs.writeFileSync(indexFile, preRenderedHtml, 'utf8');
+
+      console.log(`[prerender] Successfully pre-rendered static HTML for ${route.path} -> ${path.relative(DIST_DIR, htmlFile)} & ${path.relative(DIST_DIR, indexFile)}`);
+    }
   }
 
-  console.log('[prerender] All 12 routes pre-rendered successfully without browser overhead!');
+  console.log(`[prerender] All ${routes.length} routes pre-rendered successfully without browser overhead!`);
 }
 
 runPrerender();
