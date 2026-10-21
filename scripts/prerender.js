@@ -2210,6 +2210,936 @@ const routes = [
     ]
   },
   {
+    path: "/blog/mahakal-lok-corridor-statues-timing-photography-guide",
+    title: "Mahakal Lok Corridor Ujjain: Statues, Timing & Entry",
+    description: "Complete Mahakal Lok corridor Ujjain guide: timings, light show, Shiva statues, entry gate rules, and visitor tips. Stay 200m from Mahakal temple.",
+    canonicalPath: "/blog/mahakal-lok-corridor-statues-timing-photography-guide",
+    ogType: 'article',
+    ogImage: "/og-mahakal-lok-corridor-statues-timing-guide.webp",
+    schemaData: [
+          {
+                "@context": "https://schema.org",
+                "@type": "BlogPosting",
+                "headline": "Mahakal Lok Corridor Ujjain: Statues, Timing, Entry and Photography Guide",
+                "description": "Complete Mahakal Lok corridor Ujjain guide: timings, light show, Shiva statues, entry gate rules, and visitor tips. Stay 200m from Mahakal temple.",
+                "datePublished": "2026-10-21",
+                "dateModified": "2026-10-21",
+                "author": {
+                      "@type": "Organization",
+                      "name": "Shri Mahakaleshwar Bhakta Niwas",
+                      "url": "https://www.mahakalbhaktanivasujjain.com"
+                },
+                "publisher": {
+                      "@type": "Organization",
+                      "name": "Shri Mahakaleshwar Bhakta Niwas",
+                      "logo": {
+                            "@type": "ImageObject",
+                            "url": "https://www.mahakalbhaktanivasujjain.com/favicon-48x48.png"
+                      }
+                },
+                "mainEntityOfPage": {
+                      "@type": "WebPage",
+                      "@id": "https://www.mahakalbhaktanivasujjain.com/blog/mahakal-lok-corridor-statues-timing-photography-guide"
+                },
+                "image": "https://www.mahakalbhaktanivasujjain.com/og-mahakal-lok-corridor-statues-timing-guide.webp",
+                "inLanguage": "en-IN",
+                "keywords": "Mahakal Lok corridor guide Ujjain, Mahakal Lok opening time and closing time, Mahakal Lok corridor entry ticket price, Mahakal Lok light and sound show timing, best time to visit Mahakal Lok corridor, how to enter Mahakal Lok from temple gate, is photography allowed in Mahakal Lok corridor, can senior citizens use e rickshaw in Mahakal Lok, Mahakal Lok corridor kitne baje khulta hai, Mahakal Lok me entry fee lagti hai kya, Mahakal Lok ghumne me kitna time lagta hai, Mahakal Lok corridor kaise jaye, Mahakal Lok me kya kya dekhne layak hai, Mahakal Lok distance from Mahakal mandir gate, hotels near Mahakal Lok corridor entrance, stay near Mahakal Lok gate Ujjain, Mahakal Lok illuminated Shiva statues guide"
+          },
+          {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                      {
+                            "@type": "ListItem",
+                            "position": 1,
+                            "name": "Home",
+                            "item": "https://www.mahakalbhaktanivasujjain.com/"
+                      },
+                      {
+                            "@type": "ListItem",
+                            "position": 2,
+                            "name": "Blog",
+                            "item": "https://www.mahakalbhaktanivasujjain.com/blog"
+                      },
+                      {
+                            "@type": "ListItem",
+                            "position": 3,
+                            "name": "Mahakal Lok Corridor Ujjain: Statues, Timing, Entry and Photography Guide",
+                            "item": "https://www.mahakalbhaktanivasujjain.com/blog/mahakal-lok-corridor-statues-timing-photography-guide"
+                      }
+                ]
+          }
+    ]
+  },
+  {
+    path: "/blog/mahakal-temple-darshan-dress-code-prohibited-items-guide",
+    title: "Mahakal Temple Darshan Dress Code & Prohibited Items",
+    description: "General darshan dress code at Mahakaleshwar temple Ujjain: allowed clothing, prohibited items, locker rules, and easy stay 200m near Mahakal mandir.",
+    canonicalPath: "/blog/mahakal-temple-darshan-dress-code-prohibited-items-guide",
+    ogType: 'article',
+    ogImage: "/og-mahakal-temple-darshan-dress-code-guide.webp",
+    schemaData: [
+          {
+                "@context": "https://schema.org",
+                "@type": "BlogPosting",
+                "headline": "Mahakal Temple Darshan Dress Code: Prohibited Items and Entry Rules Guide",
+                "description": "General darshan dress code at Mahakaleshwar temple Ujjain: allowed clothing, prohibited items, locker rules, and easy stay 200m near Mahakal mandir.",
+                "datePublished": "2026-10-21",
+                "dateModified": "2026-10-21",
+                "author": {
+                      "@type": "Organization",
+                      "name": "Shri Mahakaleshwar Bhakta Niwas",
+                      "url": "https://www.mahakalbhaktanivasujjain.com"
+                },
+                "publisher": {
+                      "@type": "Organization",
+                      "name": "Shri Mahakaleshwar Bhakta Niwas",
+                      "logo": {
+                            "@type": "ImageObject",
+                            "url": "https://www.mahakalbhaktanivasujjain.com/favicon-48x48.png"
+                      }
+                },
+                "mainEntityOfPage": {
+                      "@type": "WebPage",
+                      "@id": "https://www.mahakalbhaktanivasujjain.com/blog/mahakal-temple-darshan-dress-code-prohibited-items-guide"
+                },
+                "image": "https://www.mahakalbhaktanivasujjain.com/og-mahakal-temple-darshan-dress-code-guide.webp",
+                "inLanguage": "en-IN",
+                "keywords": "Mahakal general darshan dress code rules, clothes allowed in Mahakal temple general line, can we wear jeans in Mahakal general darshan, items banned inside Mahakal temple Ujjain, is leather belt allowed in Mahakal mandir, what to wear for Mahakal darshan women, where to keep bags and mobile at Mahakal, Mahakal mandir me kya pehan kar jaye, Mahakal darshan ke liye dress code kya hai, Mahakal mandir me mobile le ja sakte hai, Mahakal mandir me prohibited items list, Mahakal cloakroom charges and locker rules, Mahakal temple locker distance from entry gate, cloakroom near Mahakaleshwar temple gate, locker facility charges near Mahakal Ujjain, guidelines for clothing Mahakal darshan queue"
+          },
+          {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                      {
+                            "@type": "ListItem",
+                            "position": 1,
+                            "name": "Home",
+                            "item": "https://www.mahakalbhaktanivasujjain.com/"
+                      },
+                      {
+                            "@type": "ListItem",
+                            "position": 2,
+                            "name": "Blog",
+                            "item": "https://www.mahakalbhaktanivasujjain.com/blog"
+                      },
+                      {
+                            "@type": "ListItem",
+                            "position": 3,
+                            "name": "Mahakal Temple Darshan Dress Code: Prohibited Items and Entry Rules Guide",
+                            "item": "https://www.mahakalbhaktanivasujjain.com/blog/mahakal-temple-darshan-dress-code-prohibited-items-guide"
+                      }
+                ]
+          }
+    ]
+  },
+  {
+    path: "/blog/shravan-somwar-mahakaleshwar-crowd-jalabhishek-guide",
+    title: "Shravan Somwar Mahakaleshwar: Jalabhishek & Crowd",
+    description: "Plan your Shravan Somwar visit to Mahakaleshwar temple Ujjain: Monday Jalabhishek rules, Kanwar Yatra crowd tips, and booking 200m near Mahakal gate.",
+    canonicalPath: "/blog/shravan-somwar-mahakaleshwar-crowd-jalabhishek-guide",
+    ogType: 'article',
+    ogImage: "/og-shravan-somwar-mahakaleshwar-crowd-guide.webp",
+    schemaData: [
+          {
+                "@context": "https://schema.org",
+                "@type": "BlogPosting",
+                "headline": "Shravan Somwar at Mahakaleshwar: Jalabhishek and Kanwar Crowd Guide",
+                "description": "Plan your Shravan Somwar visit to Mahakaleshwar temple Ujjain: Monday Jalabhishek rules, Kanwar Yatra crowd tips, and booking 200m near Mahakal gate.",
+                "datePublished": "2026-10-21",
+                "dateModified": "2026-10-21",
+                "author": {
+                      "@type": "Organization",
+                      "name": "Shri Mahakaleshwar Bhakta Niwas",
+                      "url": "https://www.mahakalbhaktanivasujjain.com"
+                },
+                "publisher": {
+                      "@type": "Organization",
+                      "name": "Shri Mahakaleshwar Bhakta Niwas",
+                      "logo": {
+                            "@type": "ImageObject",
+                            "url": "https://www.mahakalbhaktanivasujjain.com/favicon-48x48.png"
+                      }
+                },
+                "mainEntityOfPage": {
+                      "@type": "WebPage",
+                      "@id": "https://www.mahakalbhaktanivasujjain.com/blog/shravan-somwar-mahakaleshwar-crowd-jalabhishek-guide"
+                },
+                "image": "https://www.mahakalbhaktanivasujjain.com/og-shravan-somwar-mahakaleshwar-crowd-guide.webp",
+                "inLanguage": "en-IN",
+                "keywords": "Shravan Somwar at Mahakaleshwar guide, Mahakal Shravan Somwar Jalabhishek rules, Kanwar Yatra arrival at Mahakal temple Ujjain, Shravan Monday general queue wait time Mahakal, best Monday to visit Mahakaleshwar in Sawan, how to do Jalabhishek on Shravan Somwar Mahakal, is VIP pass available on Shravan Somwar Mahakal, Sawan Somwar Mahakal darshan crowd management, Sawan Somwar me Mahakal darshan kaise kare, Shravan Somwar Mahakal line kitni lambi hoti hai, Sawan me Mahakal jal chadhane ke niyam, Shravan Somwar Mahakal mandir opening hours, room booking Shravan Somwar near Mahakal, hotels near Mahakal gate during Sawan month, dharamshala near Mahakal temple Shravan rush, Shravan Somwar darshan pass booking Ujjain"
+          },
+          {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                      {
+                            "@type": "ListItem",
+                            "position": 1,
+                            "name": "Home",
+                            "item": "https://www.mahakalbhaktanivasujjain.com/"
+                      },
+                      {
+                            "@type": "ListItem",
+                            "position": 2,
+                            "name": "Blog",
+                            "item": "https://www.mahakalbhaktanivasujjain.com/blog"
+                      },
+                      {
+                            "@type": "ListItem",
+                            "position": 3,
+                            "name": "Shravan Somwar at Mahakaleshwar: Jalabhishek and Kanwar Crowd Guide",
+                            "item": "https://www.mahakalbhaktanivasujjain.com/blog/shravan-somwar-mahakaleshwar-crowd-jalabhishek-guide"
+                      }
+                ]
+          }
+    ]
+  },
+  {
+    path: "/blog/panchkroshi-yatra-ujjain-route-stops-parikrama-guide",
+    title: "Panchkroshi Yatra Ujjain: Parikrama Route & Stops",
+    description: "Complete guide to Panchkroshi Yatra in Ujjain: 118 km parikrama route, five sacred Shiva stops, dharamshalas, and stay 200m from Mahakaleshwar temple.",
+    canonicalPath: "/blog/panchkroshi-yatra-ujjain-route-stops-parikrama-guide",
+    ogType: 'article',
+    ogImage: "/og-panchkroshi-yatra-ujjain-route-guide.webp",
+    schemaData: [
+          {
+                "@context": "https://schema.org",
+                "@type": "BlogPosting",
+                "headline": "Panchkroshi Yatra Ujjain: Sacred Parikrama Route and Stops Guide",
+                "description": "Complete guide to Panchkroshi Yatra in Ujjain: 118 km parikrama route, five sacred Shiva stops, dharamshalas, and stay 200m from Mahakaleshwar temple.",
+                "datePublished": "2026-10-21",
+                "dateModified": "2026-10-21",
+                "author": {
+                      "@type": "Organization",
+                      "name": "Shri Mahakaleshwar Bhakta Niwas",
+                      "url": "https://www.mahakalbhaktanivasujjain.com"
+                },
+                "publisher": {
+                      "@type": "Organization",
+                      "name": "Shri Mahakaleshwar Bhakta Niwas",
+                      "logo": {
+                            "@type": "ImageObject",
+                            "url": "https://www.mahakalbhaktanivasujjain.com/favicon-48x48.png"
+                      }
+                },
+                "mainEntityOfPage": {
+                      "@type": "WebPage",
+                      "@id": "https://www.mahakalbhaktanivasujjain.com/blog/panchkroshi-yatra-ujjain-route-stops-parikrama-guide"
+                },
+                "image": "https://www.mahakalbhaktanivasujjain.com/og-panchkroshi-yatra-ujjain-route-guide.webp",
+                "inLanguage": "en-IN",
+                "keywords": "Panchkroshi Yatra Ujjain complete route guide, Panchkroshi parikrama distance in kilometers, five stops of Panchkroshi Yatra Ujjain, Panchkroshi Yatra dates and month Ujjain, how many days for Panchkroshi Yatra Ujjain, where does Panchkroshi Yatra start in Ujjain, food and dharamshala on Panchkroshi route, night halts during Panchkroshi Yatra Ujjain, Panchkroshi Yatra kaise kare Ujjain, Panchkroshi parikrama me kitne kilometer chalna padta hai, Panchkroshi yatra ke niyam aur vidhi, Panchkroshi yatra me kahan rukte hai, Panchkroshi parikrama start point distance from Mahakal, stay in Ujjain before starting Panchkroshi Yatra, Panchkroshi Yatra registration and seva samiti, Patni bazaar Nagchandreshwar Panchkroshi sankalpa"
+          },
+          {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                      {
+                            "@type": "ListItem",
+                            "position": 1,
+                            "name": "Home",
+                            "item": "https://www.mahakalbhaktanivasujjain.com/"
+                      },
+                      {
+                            "@type": "ListItem",
+                            "position": 2,
+                            "name": "Blog",
+                            "item": "https://www.mahakalbhaktanivasujjain.com/blog"
+                      },
+                      {
+                            "@type": "ListItem",
+                            "position": 3,
+                            "name": "Panchkroshi Yatra Ujjain: Sacred Parikrama Route and Stops Guide",
+                            "item": "https://www.mahakalbhaktanivasujjain.com/blog/panchkroshi-yatra-ujjain-route-stops-parikrama-guide"
+                      }
+                ]
+          }
+    ]
+  },
+  {
+    path: "/blog/navagraha-shani-temple-ujjain-graha-shanti-guide",
+    title: "Navagraha & Shani Temples Ujjain: Graha Shanti Guide",
+    description: "Explore Navagraha and Shani temples in Ujjain: Triveni Sangam Shani mandir, dosha nivaran remedies, puja timing, and stay 200m from Mahakal temple.",
+    canonicalPath: "/blog/navagraha-shani-temple-ujjain-graha-shanti-guide",
+    ogType: 'article',
+    ogImage: "/og-navagraha-shani-temple-ujjain-guide.webp",
+    schemaData: [
+          {
+                "@context": "https://schema.org",
+                "@type": "BlogPosting",
+                "headline": "Navagraha and Shani Temples in Ujjain: Graha Shanti and Puja Guide",
+                "description": "Explore Navagraha and Shani temples in Ujjain: Triveni Sangam Shani mandir, dosha nivaran remedies, puja timing, and stay 200m from Mahakal temple.",
+                "datePublished": "2026-10-21",
+                "dateModified": "2026-10-21",
+                "author": {
+                      "@type": "Organization",
+                      "name": "Shri Mahakaleshwar Bhakta Niwas",
+                      "url": "https://www.mahakalbhaktanivasujjain.com"
+                },
+                "publisher": {
+                      "@type": "Organization",
+                      "name": "Shri Mahakaleshwar Bhakta Niwas",
+                      "logo": {
+                            "@type": "ImageObject",
+                            "url": "https://www.mahakalbhaktanivasujjain.com/favicon-48x48.png"
+                      }
+                },
+                "mainEntityOfPage": {
+                      "@type": "WebPage",
+                      "@id": "https://www.mahakalbhaktanivasujjain.com/blog/navagraha-shani-temple-ujjain-graha-shanti-guide"
+                },
+                "image": "https://www.mahakalbhaktanivasujjain.com/og-navagraha-shani-temple-ujjain-guide.webp",
+                "inLanguage": "en-IN",
+                "keywords": "Navagraha temple Ujjain Triveni Sangam guide, Shani mandir Triveni Ujjain timing and darshan, tel abhishek ritual at Shani mandir Ujjain, Navagraha temple Ujjain Saturday crowd tips, nine planets temples circuit in Ujjain, how to reach Triveni Navagraha temple from Mahakal, Shani Sade Sati puja cost in Ujjain, cloth offering ritual at Triveni Shani mandir, Navagraha mandir Ujjain kaise jaye, Triveni Shani mandir darshan kitne baje khulta hai, Shani mandir Ujjain me tel chadhane ke niyam, Navagraha shanti puja kharcha Ujjain, Triveni Navagraha temple distance from Mahakal mandir, auto rickshaw fare to Triveni Shani mandir Ujjain, dharamshala near Mahakal for Navagraha darshan, Rashi Ratna and planetary gem temples Ujjain"
+          },
+          {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                      {
+                            "@type": "ListItem",
+                            "position": 1,
+                            "name": "Home",
+                            "item": "https://www.mahakalbhaktanivasujjain.com/"
+                      },
+                      {
+                            "@type": "ListItem",
+                            "position": 2,
+                            "name": "Blog",
+                            "item": "https://www.mahakalbhaktanivasujjain.com/blog"
+                      },
+                      {
+                            "@type": "ListItem",
+                            "position": 3,
+                            "name": "Navagraha and Shani Temples in Ujjain: Graha Shanti and Puja Guide",
+                            "item": "https://www.mahakalbhaktanivasujjain.com/blog/navagraha-shani-temple-ujjain-graha-shanti-guide"
+                      }
+                ]
+          }
+    ]
+  },
+  {
+    path: "/blog/mahakal-live-darshan-online-bhasma-aarti-virtual-pooja",
+    title: "Mahakal Live Online Darshan & Virtual Pooja Guide",
+    description: "Watch Mahakal live online darshan from Ujjain: official live stream timings, virtual pooja booking, Bhasma Aarti feed, and stay 200m near Mahakal.",
+    canonicalPath: "/blog/mahakal-live-darshan-online-bhasma-aarti-virtual-pooja",
+    ogType: 'article',
+    ogImage: "/og-mahakal-live-darshan-online-guide.webp",
+    schemaData: [
+          {
+                "@context": "https://schema.org",
+                "@type": "BlogPosting",
+                "headline": "Mahakal Temple Live Online Darshan: Virtual Pooja and Streaming Guide",
+                "description": "Watch Mahakal live online darshan from Ujjain: official live stream timings, virtual pooja booking, Bhasma Aarti feed, and stay 200m near Mahakal.",
+                "datePublished": "2026-10-21",
+                "dateModified": "2026-10-21",
+                "author": {
+                      "@type": "Organization",
+                      "name": "Shri Mahakaleshwar Bhakta Niwas",
+                      "url": "https://www.mahakalbhaktanivasujjain.com"
+                },
+                "publisher": {
+                      "@type": "Organization",
+                      "name": "Shri Mahakaleshwar Bhakta Niwas",
+                      "logo": {
+                            "@type": "ImageObject",
+                            "url": "https://www.mahakalbhaktanivasujjain.com/favicon-48x48.png"
+                      }
+                },
+                "mainEntityOfPage": {
+                      "@type": "WebPage",
+                      "@id": "https://www.mahakalbhaktanivasujjain.com/blog/mahakal-live-darshan-online-bhasma-aarti-virtual-pooja"
+                },
+                "image": "https://www.mahakalbhaktanivasujjain.com/og-mahakal-live-darshan-online-guide.webp",
+                "inLanguage": "en-IN",
+                "keywords": "Mahakal live online darshan official website, Mahakaleshwar temple live streaming timings, how to watch live Bhasma Aarti on mobile, virtual pooja booking Mahakaleshwar temple, official YouTube channel for Mahakal live darshan, is live darshan of Mahakaleshwar free, online sankalp puja at Mahakaleshwar temple, watch Sandhya aarti live Mahakaleshwar, Mahakal live darshan kaise dekhe ghar baithe, Mahakaleshwar live aarti kitne baje aati hai, online pooja booking Mahakal trust website, Mahakal virtual darshan ke niyam, difference between physical and live online Mahakal darshan, verified portal link for Mahakal live darshan, live darshan feed timing during Shravan and festivals, stay near Mahakal for physical darshan after online streaming"
+          },
+          {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                      {
+                            "@type": "ListItem",
+                            "position": 1,
+                            "name": "Home",
+                            "item": "https://www.mahakalbhaktanivasujjain.com/"
+                      },
+                      {
+                            "@type": "ListItem",
+                            "position": 2,
+                            "name": "Blog",
+                            "item": "https://www.mahakalbhaktanivasujjain.com/blog"
+                      },
+                      {
+                            "@type": "ListItem",
+                            "position": 3,
+                            "name": "Mahakal Temple Live Online Darshan: Virtual Pooja and Streaming Guide",
+                            "item": "https://www.mahakalbhaktanivasujjain.com/blog/mahakal-live-darshan-online-bhasma-aarti-virtual-pooja"
+                      }
+                ]
+          }
+    ]
+  },
+  {
+    path: "/blog/mahakaleshwar-temple-daan-anna-kshetra-donation-guide",
+    title: "Mahakaleshwar Temple Daan & Anna Kshetra Seva Guide",
+    description: "Complete guide to Mahakaleshwar temple Ujjain daan: Anna Kshetra food donation, gaushala seva, online receipt system, and stay 200m near Mahakal.",
+    canonicalPath: "/blog/mahakaleshwar-temple-daan-anna-kshetra-donation-guide",
+    ogType: 'article',
+    ogImage: "/og-mahakaleshwar-temple-daan-donation-guide.webp",
+    schemaData: [
+          {
+                "@context": "https://schema.org",
+                "@type": "BlogPosting",
+                "headline": "Mahakaleshwar Temple Daan and Anna Kshetra: Seva and Donation Guide",
+                "description": "Complete guide to Mahakaleshwar temple Ujjain daan: Anna Kshetra food donation, gaushala seva, online receipt system, and stay 200m near Mahakal.",
+                "datePublished": "2026-10-21",
+                "dateModified": "2026-10-21",
+                "author": {
+                      "@type": "Organization",
+                      "name": "Shri Mahakaleshwar Bhakta Niwas",
+                      "url": "https://www.mahakalbhaktanivasujjain.com"
+                },
+                "publisher": {
+                      "@type": "Organization",
+                      "name": "Shri Mahakaleshwar Bhakta Niwas",
+                      "logo": {
+                            "@type": "ImageObject",
+                            "url": "https://www.mahakalbhaktanivasujjain.com/favicon-48x48.png"
+                      }
+                },
+                "mainEntityOfPage": {
+                      "@type": "WebPage",
+                      "@id": "https://www.mahakalbhaktanivasujjain.com/blog/mahakaleshwar-temple-daan-anna-kshetra-donation-guide"
+                },
+                "image": "https://www.mahakalbhaktanivasujjain.com/og-mahakaleshwar-temple-daan-donation-guide.webp",
+                "inLanguage": "en-IN",
+                "keywords": "Mahakaleshwar temple daan online donation guide, Mahakal Anna Kshetra free meal timing and donation, how to donate for Anna Daan at Mahakal temple, tax exemption 80G Mahakaleshwar temple donation, Gaushala donation at Mahakal temple Ujjain, can we sponsor one day meal at Mahakal Anna Kshetra, official donation counter location Mahakal mandir, in-person gold silver daan at Mahakal temple, Mahakal mandir me daan kaise kare, Mahakal Anna Kshetra me khana khane ka samay, Mahakaleshwar mandir donation receipt kaise milti hai, Anna daan seva ka kharcha Mahakal mandir, Anna Kshetra distance from Mahakaleshwar main gate, stay near Mahakal Anna Kshetra dining hall, donate food grains and grocery Mahakal bhandara, authorized trust receipt for Mahakal daan"
+          },
+          {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                      {
+                            "@type": "ListItem",
+                            "position": 1,
+                            "name": "Home",
+                            "item": "https://www.mahakalbhaktanivasujjain.com/"
+                      },
+                      {
+                            "@type": "ListItem",
+                            "position": 2,
+                            "name": "Blog",
+                            "item": "https://www.mahakalbhaktanivasujjain.com/blog"
+                      },
+                      {
+                            "@type": "ListItem",
+                            "position": 3,
+                            "name": "Mahakaleshwar Temple Daan and Anna Kshetra: Seva and Donation Guide",
+                            "item": "https://www.mahakalbhaktanivasujjain.com/blog/mahakaleshwar-temple-daan-anna-kshetra-donation-guide"
+                      }
+                ]
+          }
+    ]
+  },
+  {
+    path: "/blog/12-jyotirlinga-yatra-planning-from-ujjain-mahakal-guide",
+    title: "12 Jyotirlinga Yatra Planning from Mahakal Ujjain",
+    description: "Plan your 12 Jyotirlinga yatra starting from Mahakaleshwar Ujjain: circuit route, train connections, Omkareshwar link, and stay 200m near Mahakal.",
+    canonicalPath: "/blog/12-jyotirlinga-yatra-planning-from-ujjain-mahakal-guide",
+    ogType: 'article',
+    ogImage: "/og-12-jyotirlinga-yatra-from-ujjain-guide.webp",
+    schemaData: [
+          {
+                "@context": "https://schema.org",
+                "@type": "BlogPosting",
+                "headline": "12 Jyotirlinga Yatra Planning: Starting from Mahakaleshwar Ujjain",
+                "description": "Plan your 12 Jyotirlinga yatra starting from Mahakaleshwar Ujjain: circuit route, train connections, Omkareshwar link, and stay 200m near Mahakal.",
+                "datePublished": "2026-10-21",
+                "dateModified": "2026-10-21",
+                "author": {
+                      "@type": "Organization",
+                      "name": "Shri Mahakaleshwar Bhakta Niwas",
+                      "url": "https://www.mahakalbhaktanivasujjain.com"
+                },
+                "publisher": {
+                      "@type": "Organization",
+                      "name": "Shri Mahakaleshwar Bhakta Niwas",
+                      "logo": {
+                            "@type": "ImageObject",
+                            "url": "https://www.mahakalbhaktanivasujjain.com/favicon-48x48.png"
+                      }
+                },
+                "mainEntityOfPage": {
+                      "@type": "WebPage",
+                      "@id": "https://www.mahakalbhaktanivasujjain.com/blog/12-jyotirlinga-yatra-planning-from-ujjain-mahakal-guide"
+                },
+                "image": "https://www.mahakalbhaktanivasujjain.com/og-12-jyotirlinga-yatra-from-ujjain-guide.webp",
+                "inLanguage": "en-IN",
+                "keywords": "12 Jyotirlinga yatra route starting from Ujjain, best order to visit 12 Jyotirlingas in India, how many days required for 12 Jyotirlinga tour, connecting Mahakaleshwar and Omkareshwar Jyotirlinga, train route from Ujjain to Somnath and Nageshwar, budget required for full 12 Jyotirlinga yatra, combining MP and Maharashtra Jyotirlingas circuit, senior citizen tips for 12 Jyotirlinga journey, 12 Jyotirlinga yatra kahan se shuru kare, Ujjain se 12 Jyotirlinga yatra plan kaise banaye, 12 Jyotirlinga darshan me kitna kharcha aata hai, 12 Jyotirlinga yatra ke niyam aur sankalp, Ujjain junction train connectivity for Jyotirlinga circuit, stay in Ujjain as 12 Jyotirlinga base camp, Ujjain dharamshala booking before starting Jyotirlinga tour, customized itinerary for 12 Jyotirlinga from central India"
+          },
+          {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                      {
+                            "@type": "ListItem",
+                            "position": 1,
+                            "name": "Home",
+                            "item": "https://www.mahakalbhaktanivasujjain.com/"
+                      },
+                      {
+                            "@type": "ListItem",
+                            "position": 2,
+                            "name": "Blog",
+                            "item": "https://www.mahakalbhaktanivasujjain.com/blog"
+                      },
+                      {
+                            "@type": "ListItem",
+                            "position": 3,
+                            "name": "12 Jyotirlinga Yatra Planning: Starting from Mahakaleshwar Ujjain",
+                            "item": "https://www.mahakalbhaktanivasujjain.com/blog/12-jyotirlinga-yatra-planning-from-ujjain-mahakal-guide"
+                      }
+                ]
+          }
+    ]
+  },
+  {
+    path: "/blog/ujjain-auto-rickshaw-tour-package-cost-full-day-guide",
+    title: "Ujjain Full Day Auto Rickshaw Darshan Fare Guide",
+    description: "Complete Ujjain full day auto rickshaw tour guide: package fares, 8-temple darshan itinerary, bargaining tips, and clean stay 200m from Mahakal mandir.",
+    canonicalPath: "/blog/ujjain-auto-rickshaw-tour-package-cost-full-day-guide",
+    ogType: 'article',
+    ogImage: "/og-ujjain-auto-rickshaw-tour-fare-guide.webp",
+    schemaData: [
+          {
+                "@context": "https://schema.org",
+                "@type": "BlogPosting",
+                "headline": "Ujjain Full Day Auto Rickshaw Tour: Darshan Package and Fare Guide",
+                "description": "Complete Ujjain full day auto rickshaw tour guide: package fares, 8-temple darshan itinerary, bargaining tips, and clean stay 200m from Mahakal mandir.",
+                "datePublished": "2026-10-21",
+                "dateModified": "2026-10-21",
+                "author": {
+                      "@type": "Organization",
+                      "name": "Shri Mahakaleshwar Bhakta Niwas",
+                      "url": "https://www.mahakalbhaktanivasujjain.com"
+                },
+                "publisher": {
+                      "@type": "Organization",
+                      "name": "Shri Mahakaleshwar Bhakta Niwas",
+                      "logo": {
+                            "@type": "ImageObject",
+                            "url": "https://www.mahakalbhaktanivasujjain.com/favicon-48x48.png"
+                      }
+                },
+                "mainEntityOfPage": {
+                      "@type": "WebPage",
+                      "@id": "https://www.mahakalbhaktanivasujjain.com/blog/ujjain-auto-rickshaw-tour-package-cost-full-day-guide"
+                },
+                "image": "https://www.mahakalbhaktanivasujjain.com/og-ujjain-auto-rickshaw-tour-fare-guide.webp",
+                "inLanguage": "en-IN",
+                "keywords": "Ujjain full day auto rickshaw tour cost, auto darshan package rate list in Ujjain, how much does auto charge for 8 temples Ujjain, bargaining tips for auto rickshaw hire in Ujjain, e rickshaw vs auto rickshaw full day hire Ujjain, itinerary covered in Ujjain auto darshan package, is advance auto booking needed at Ujjain station, waiting charges of auto rickshaw during temple darshan, Ujjain me auto kitne me milta hai pura din, Ujjain darshan auto package ka rate kya hai, auto se Ujjain ghumne ka kharcha, Ujjain auto driver contact number verified, auto stand near Mahakal mandir gate location, fixed prepaid auto booth at Ujjain railway station, auto fare from Mahakal temple to Kal Bhairav and Mangalnath, save auto fare by staying near Mahakal temple"
+          },
+          {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                      {
+                            "@type": "ListItem",
+                            "position": 1,
+                            "name": "Home",
+                            "item": "https://www.mahakalbhaktanivasujjain.com/"
+                      },
+                      {
+                            "@type": "ListItem",
+                            "position": 2,
+                            "name": "Blog",
+                            "item": "https://www.mahakalbhaktanivasujjain.com/blog"
+                      },
+                      {
+                            "@type": "ListItem",
+                            "position": 3,
+                            "name": "Ujjain Full Day Auto Rickshaw Tour: Darshan Package and Fare Guide",
+                            "item": "https://www.mahakalbhaktanivasujjain.com/blog/ujjain-auto-rickshaw-tour-package-cost-full-day-guide"
+                      }
+                ]
+          }
+    ]
+  },
+  {
+    path: "/blog/bade-ganesh-ji-temple-ujjain-history-timing-guide",
+    title: "Bade Ganesh Ji Temple Ujjain: Timing & History Guide",
+    description: "Visit Bade Ganesh Ji temple Ujjain: colossal Panchmukhi idol history, Sanskrit learning centre, darshan timings, and peaceful stay 200m near Mahakal.",
+    canonicalPath: "/blog/bade-ganesh-ji-temple-ujjain-history-timing-guide",
+    ogType: 'article',
+    ogImage: "/og-bade-ganesh-ji-temple-ujjain-guide.webp",
+    schemaData: [
+          {
+                "@context": "https://schema.org",
+                "@type": "BlogPosting",
+                "headline": "Bade Ganesh Ji Temple Ujjain: History, Timing and Darshan Guide",
+                "description": "Visit Bade Ganesh Ji temple Ujjain: colossal Panchmukhi idol history, Sanskrit learning centre, darshan timings, and peaceful stay 200m near Mahakal.",
+                "datePublished": "2026-10-21",
+                "dateModified": "2026-10-21",
+                "author": {
+                      "@type": "Organization",
+                      "name": "Shri Mahakaleshwar Bhakta Niwas",
+                      "url": "https://www.mahakalbhaktanivasujjain.com"
+                },
+                "publisher": {
+                      "@type": "Organization",
+                      "name": "Shri Mahakaleshwar Bhakta Niwas",
+                      "logo": {
+                            "@type": "ImageObject",
+                            "url": "https://www.mahakalbhaktanivasujjain.com/favicon-48x48.png"
+                      }
+                },
+                "mainEntityOfPage": {
+                      "@type": "WebPage",
+                      "@id": "https://www.mahakalbhaktanivasujjain.com/blog/bade-ganesh-ji-temple-ujjain-history-timing-guide"
+                },
+                "image": "https://www.mahakalbhaktanivasujjain.com/og-bade-ganesh-ji-temple-ujjain-guide.webp",
+                "inLanguage": "en-IN",
+                "keywords": "Bade Ganesh Ji temple Ujjain history and significance, Bade Ganesh Ji Ujjain opening and closing timing, Panchmukhi Ganesh idol Bade Ganesh Ujjain, astrology and Sanskrit learning at Bade Ganesh temple, Bade Ganesh temple distance from Mahakaleshwar gate, who built Bade Ganesh Ji temple in Ujjain, morning and evening aarti time Bade Ganesh Ujjain, prasad and puja at Bade Ganesh Ji mandir, Bade Ganesh mandir Ujjain kaise jaye, Bade Ganesh ji darshan kitne baje khulta hai, Bade Ganesh mandir ki murti ki visheshta, Bade Ganesh ji ka mandir Mahakal se kitni dur hai, walking route from Mahakal mandir to Bade Ganesh, stay near Bade Ganesh Ji temple Ujjain, Jyotish vidya learning centre Bade Ganesh Ujjain, Wednesday modak offering ritual Bade Ganesh Ujjain"
+          },
+          {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                      {
+                            "@type": "ListItem",
+                            "position": 1,
+                            "name": "Home",
+                            "item": "https://www.mahakalbhaktanivasujjain.com/"
+                      },
+                      {
+                            "@type": "ListItem",
+                            "position": 2,
+                            "name": "Blog",
+                            "item": "https://www.mahakalbhaktanivasujjain.com/blog"
+                      },
+                      {
+                            "@type": "ListItem",
+                            "position": 3,
+                            "name": "Bade Ganesh Ji Temple Ujjain: History, Timing and Darshan Guide",
+                            "item": "https://www.mahakalbhaktanivasujjain.com/blog/bade-ganesh-ji-temple-ujjain-history-timing-guide"
+                      }
+                ]
+          }
+    ]
+  },
+  {
+    path: "/blog/hidden-offbeat-places-in-ujjain-pilgrim-guide",
+    title: "Hidden & Offbeat Places in Ujjain: Quiet Temples",
+    description: "Discover hidden and offbeat places in Ujjain: Matsyendranath samadhi, Kaliadeh palace ruins, ancient stepwells, and stay 200m from Mahakal mandir.",
+    canonicalPath: "/blog/hidden-offbeat-places-in-ujjain-pilgrim-guide",
+    ogType: 'article',
+    ogImage: "/og-hidden-offbeat-places-ujjain-guide.webp",
+    schemaData: [
+          {
+                "@context": "https://schema.org",
+                "@type": "BlogPosting",
+                "headline": "Hidden and Offbeat Places in Ujjain: Quiet Temples and Ruins Guide",
+                "description": "Discover hidden and offbeat places in Ujjain: Matsyendranath samadhi, Kaliadeh palace ruins, ancient stepwells, and stay 200m from Mahakal mandir.",
+                "datePublished": "2026-10-21",
+                "dateModified": "2026-10-21",
+                "author": {
+                      "@type": "Organization",
+                      "name": "Shri Mahakaleshwar Bhakta Niwas",
+                      "url": "https://www.mahakalbhaktanivasujjain.com"
+                },
+                "publisher": {
+                      "@type": "Organization",
+                      "name": "Shri Mahakaleshwar Bhakta Niwas",
+                      "logo": {
+                            "@type": "ImageObject",
+                            "url": "https://www.mahakalbhaktanivasujjain.com/favicon-48x48.png"
+                      }
+                },
+                "mainEntityOfPage": {
+                      "@type": "WebPage",
+                      "@id": "https://www.mahakalbhaktanivasujjain.com/blog/hidden-offbeat-places-in-ujjain-pilgrim-guide"
+                },
+                "image": "https://www.mahakalbhaktanivasujjain.com/og-hidden-offbeat-places-ujjain-guide.webp",
+                "inLanguage": "en-IN",
+                "keywords": "hidden and offbeat places to visit in Ujjain, quiet temples in Ujjain away from crowds, Matsyendranath samadhi Ujjain history and timing, ancient stepwells and baolis in Ujjain guide, Kaliadeh palace water channels and architecture, unexplored historical sites in Ujjain for heritage lovers, Vikramaditya throne Sinhasan Battisi site Ujjain, peaceful riverside spots near Shipra Ujjain, Ujjain me anokhi jagah kaun si hai, Ujjain me shanti wali jagah ghumne ke liye, Ujjain offbeat tourist places kaise jaye, Ujjain ke prachin baoli aur khandahar, distance of Kaliadeh palace from Mahakal mandir, auto charges for offbeat sightseeing circuit Ujjain, stay near Mahakal to explore hidden Ujjain sites, Ganga Ghat and sun temple Bhartrihari outskirts"
+          },
+          {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                      {
+                            "@type": "ListItem",
+                            "position": 1,
+                            "name": "Home",
+                            "item": "https://www.mahakalbhaktanivasujjain.com/"
+                      },
+                      {
+                            "@type": "ListItem",
+                            "position": 2,
+                            "name": "Blog",
+                            "item": "https://www.mahakalbhaktanivasujjain.com/blog"
+                      },
+                      {
+                            "@type": "ListItem",
+                            "position": 3,
+                            "name": "Hidden and Offbeat Places in Ujjain: Quiet Temples and Ruins Guide",
+                            "item": "https://www.mahakalbhaktanivasujjain.com/blog/hidden-offbeat-places-in-ujjain-pilgrim-guide"
+                      }
+                ]
+          }
+    ]
+  },
+  {
+    path: "/blog/mahakal-prasad-online-order-home-delivery-guide",
+    title: "Mahakal Prasad Online Order & Home Delivery Guide",
+    description: "Guide to Mahakal prasad online order from Ujjain: speed post delivery, authentic laddoo prasad packets, booking steps, and stay 200m near Mahakal.",
+    canonicalPath: "/blog/mahakal-prasad-online-order-home-delivery-guide",
+    ogType: 'article',
+    ogImage: "/og-mahakal-prasad-online-order-guide.webp",
+    schemaData: [
+          {
+                "@context": "https://schema.org",
+                "@type": "BlogPosting",
+                "headline": "Mahakal Prasad Online Order: Home Delivery and Postal Booking Guide",
+                "description": "Guide to Mahakal prasad online order from Ujjain: speed post delivery, authentic laddoo prasad packets, booking steps, and stay 200m near Mahakal.",
+                "datePublished": "2026-10-21",
+                "dateModified": "2026-10-21",
+                "author": {
+                      "@type": "Organization",
+                      "name": "Shri Mahakaleshwar Bhakta Niwas",
+                      "url": "https://www.mahakalbhaktanivasujjain.com"
+                },
+                "publisher": {
+                      "@type": "Organization",
+                      "name": "Shri Mahakaleshwar Bhakta Niwas",
+                      "logo": {
+                            "@type": "ImageObject",
+                            "url": "https://www.mahakalbhaktanivasujjain.com/favicon-48x48.png"
+                      }
+                },
+                "mainEntityOfPage": {
+                      "@type": "WebPage",
+                      "@id": "https://www.mahakalbhaktanivasujjain.com/blog/mahakal-prasad-online-order-home-delivery-guide"
+                },
+                "image": "https://www.mahakalbhaktanivasujjain.com/og-mahakal-prasad-online-order-guide.webp",
+                "inLanguage": "en-IN",
+                "keywords": "Mahakal prasad online order official website, how to order Mahakaleshwar temple prasad home delivery, Mahakal laddu prasad packet price and postal charge, India Post speed post Mahakal prasad service, delivery time for Mahakal prasad in India, is Mahakal online prasad authentic from temple trust, shelf life of Mahakal temple besan laddu prasad, how to track Mahakal prasad speed post parcel, Mahakal ka prasad online kaise mangwaye, Mahakal prasad home delivery kitne din me aati hai, Mahakal mandir laddu prasad ka rate online, speed post se Mahakal prasad order karne ke niyam, official trust counter vs online postal delivery Mahakal, postal booking counter inside Mahakal temple premises, buying prasad in person while staying near Mahakal, Shivaratri special dry fruit prasad order Ujjain"
+          },
+          {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                      {
+                            "@type": "ListItem",
+                            "position": 1,
+                            "name": "Home",
+                            "item": "https://www.mahakalbhaktanivasujjain.com/"
+                      },
+                      {
+                            "@type": "ListItem",
+                            "position": 2,
+                            "name": "Blog",
+                            "item": "https://www.mahakalbhaktanivasujjain.com/blog"
+                      },
+                      {
+                            "@type": "ListItem",
+                            "position": 3,
+                            "name": "Mahakal Prasad Online Order: Home Delivery and Postal Booking Guide",
+                            "item": "https://www.mahakalbhaktanivasujjain.com/blog/mahakal-prasad-online-order-home-delivery-guide"
+                      }
+                ]
+          }
+    ]
+  },
+  {
+    path: "/blog/ujjain-jyotish-kundli-astrology-consultation-guide",
+    title: "Ujjain Jyotish & Kundli: Vedic Astrology Guide",
+    description: "Guide to Ujjain Jyotish and Kundli consultation: Greenwich of India history, verified astrologer charges, horoscope reading, and stay 200m near Mahakal.",
+    canonicalPath: "/blog/ujjain-jyotish-kundli-astrology-consultation-guide",
+    ogType: 'article',
+    ogImage: "/og-ujjain-jyotish-kundli-astrology-guide.webp",
+    schemaData: [
+          {
+                "@context": "https://schema.org",
+                "@type": "BlogPosting",
+                "headline": "Ujjain Jyotish and Kundli Guide: Authentic Vedic Astrology Services",
+                "description": "Guide to Ujjain Jyotish and Kundli consultation: Greenwich of India history, verified astrologer charges, horoscope reading, and stay 200m near Mahakal.",
+                "datePublished": "2026-10-21",
+                "dateModified": "2026-10-21",
+                "author": {
+                      "@type": "Organization",
+                      "name": "Shri Mahakaleshwar Bhakta Niwas",
+                      "url": "https://www.mahakalbhaktanivasujjain.com"
+                },
+                "publisher": {
+                      "@type": "Organization",
+                      "name": "Shri Mahakaleshwar Bhakta Niwas",
+                      "logo": {
+                            "@type": "ImageObject",
+                            "url": "https://www.mahakalbhaktanivasujjain.com/favicon-48x48.png"
+                      }
+                },
+                "mainEntityOfPage": {
+                      "@type": "WebPage",
+                      "@id": "https://www.mahakalbhaktanivasujjain.com/blog/ujjain-jyotish-kundli-astrology-consultation-guide"
+                },
+                "image": "https://www.mahakalbhaktanivasujjain.com/og-ujjain-jyotish-kundli-astrology-guide.webp",
+                "inLanguage": "en-IN",
+                "keywords": "Ujjain Jyotish consultation and horoscope reading, authentic Vedic astrologers in Ujjain near temple, kundli dosha analysis in Ujjain fees and timing, why Ujjain is called the Greenwich of India in astrology, horoscope matching for marriage in Ujjain pandit, Kaal Sarp and Pitra dosha horoscope check Ujjain, consultation charges of verified astrologers in Ujjain, online video consultation with Ujjain Jyotish acharya, Ujjain me kundli dikhane ke liye best jyotishi, Ujjain me jyotish fees kitni lagti hai, Ujjain ko jyotish ki nagari kyu kehte hai, kundli dosh nivaran Ujjain me kaise karwaye, astrologer offices distance from Mahakal mandir, stay near Mahakal for multiple day Jyotish consultations, Panchang calculation and meridian history Ujjain, Varahamihira astronomical tradition in Ujjain"
+          },
+          {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                      {
+                            "@type": "ListItem",
+                            "position": 1,
+                            "name": "Home",
+                            "item": "https://www.mahakalbhaktanivasujjain.com/"
+                      },
+                      {
+                            "@type": "ListItem",
+                            "position": 2,
+                            "name": "Blog",
+                            "item": "https://www.mahakalbhaktanivasujjain.com/blog"
+                      },
+                      {
+                            "@type": "ListItem",
+                            "position": 3,
+                            "name": "Ujjain Jyotish and Kundli Guide: Authentic Vedic Astrology Services",
+                            "item": "https://www.mahakalbhaktanivasujjain.com/blog/ujjain-jyotish-kundli-astrology-consultation-guide"
+                      }
+                ]
+          }
+    ]
+  },
+  {
+    path: "/blog/rudra-sagar-lake-ujjain-boating-history-guide",
+    title: "Rudra Sagar Lake Ujjain: Boating & Promenade Guide",
+    description: "Complete guide to Rudra Sagar lake Ujjain: boating timings, musical fountain, sacred pond history, walking promenade, and stay 200m from Mahakal mandir.",
+    canonicalPath: "/blog/rudra-sagar-lake-ujjain-boating-history-guide",
+    ogType: 'article',
+    ogImage: "/og-rudra-sagar-lake-ujjain-guide.webp",
+    schemaData: [
+          {
+                "@context": "https://schema.org",
+                "@type": "BlogPosting",
+                "headline": "Rudra Sagar Lake Ujjain: Boating, History and Promenade Guide",
+                "description": "Complete guide to Rudra Sagar lake Ujjain: boating timings, musical fountain, sacred pond history, walking promenade, and stay 200m from Mahakal mandir.",
+                "datePublished": "2026-10-21",
+                "dateModified": "2026-10-21",
+                "author": {
+                      "@type": "Organization",
+                      "name": "Shri Mahakaleshwar Bhakta Niwas",
+                      "url": "https://www.mahakalbhaktanivasujjain.com"
+                },
+                "publisher": {
+                      "@type": "Organization",
+                      "name": "Shri Mahakaleshwar Bhakta Niwas",
+                      "logo": {
+                            "@type": "ImageObject",
+                            "url": "https://www.mahakalbhaktanivasujjain.com/favicon-48x48.png"
+                      }
+                },
+                "mainEntityOfPage": {
+                      "@type": "WebPage",
+                      "@id": "https://www.mahakalbhaktanivasujjain.com/blog/rudra-sagar-lake-ujjain-boating-history-guide"
+                },
+                "image": "https://www.mahakalbhaktanivasujjain.com/og-rudra-sagar-lake-ujjain-guide.webp",
+                "inLanguage": "en-IN",
+                "keywords": "Rudra Sagar lake Ujjain history and myth, boating at Rudra Sagar lake Mahakal Lok, Rudra Sagar musical fountain show timing and tickets, promenade walking around Rudra Sagar Ujjain, Rudra Sagar lake connection with Mahakaleshwar temple, evening view of illuminated corridor from Rudra Sagar, is boating open in Rudra Sagar lake Ujjain, photography points around Rudra Sagar water body, Rudra Sagar jheel me boating ka ticket kitna hai, Rudra Sagar lake kitne baje khulta hai, Rudra Sagar musical fountain show kab hota hai, Rudra Sagar lake Mahakal mandir se kitni dur hai, walking distance from temple gate to Rudra Sagar boating, stay overlooking or near Rudra Sagar lake promenade, ancient sacred water bodies Sapta Sagar of Ujjain, cleanliness and revival of Rudra Sagar waterfront"
+          },
+          {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                      {
+                            "@type": "ListItem",
+                            "position": 1,
+                            "name": "Home",
+                            "item": "https://www.mahakalbhaktanivasujjain.com/"
+                      },
+                      {
+                            "@type": "ListItem",
+                            "position": 2,
+                            "name": "Blog",
+                            "item": "https://www.mahakalbhaktanivasujjain.com/blog"
+                      },
+                      {
+                            "@type": "ListItem",
+                            "position": 3,
+                            "name": "Rudra Sagar Lake Ujjain: Boating, History and Promenade Guide",
+                            "item": "https://www.mahakalbhaktanivasujjain.com/blog/rudra-sagar-lake-ujjain-boating-history-guide"
+                      }
+                ]
+          }
+    ]
+  },
+  {
+    path: "/blog/mahakal-temple-photography-mobile-phone-rules-guide",
+    title: "Mahakal Temple Photography & Mobile Phone Rules",
+    description: "Complete Mahakal temple photography and mobile phone rules in Ujjain: sanctum phone ban, cloakroom tokens, Mahakal Lok spots, and stay 200m near Mahakal.",
+    canonicalPath: "/blog/mahakal-temple-photography-mobile-phone-rules-guide",
+    ogType: 'article',
+    ogImage: "/og-mahakal-temple-photography-mobile-rules.webp",
+    schemaData: [
+          {
+                "@context": "https://schema.org",
+                "@type": "BlogPosting",
+                "headline": "Mahakal Temple Photography and Mobile Rules: Allowed Zones Guide",
+                "description": "Complete Mahakal temple photography and mobile phone rules in Ujjain: sanctum phone ban, cloakroom tokens, Mahakal Lok spots, and stay 200m near Mahakal.",
+                "datePublished": "2026-10-21",
+                "dateModified": "2026-10-21",
+                "author": {
+                      "@type": "Organization",
+                      "name": "Shri Mahakaleshwar Bhakta Niwas",
+                      "url": "https://www.mahakalbhaktanivasujjain.com"
+                },
+                "publisher": {
+                      "@type": "Organization",
+                      "name": "Shri Mahakaleshwar Bhakta Niwas",
+                      "logo": {
+                            "@type": "ImageObject",
+                            "url": "https://www.mahakalbhaktanivasujjain.com/favicon-48x48.png"
+                      }
+                },
+                "mainEntityOfPage": {
+                      "@type": "WebPage",
+                      "@id": "https://www.mahakalbhaktanivasujjain.com/blog/mahakal-temple-photography-mobile-phone-rules-guide"
+                },
+                "image": "https://www.mahakalbhaktanivasujjain.com/og-mahakal-temple-photography-mobile-rules.webp",
+                "inLanguage": "en-IN",
+                "keywords": "Mahakal temple photography and mobile phone rules, is mobile phone allowed inside Mahakaleshwar temple, where to deposit camera at Mahakal temple Ujjain, fine and penalty for taking phone inside sanctum Mahakal, photography spots allowed in Shri Mahakal Lok, reels and video shooting guidelines Mahakal campus, cloakroom safe deposit token for smartphone Mahakal, can we carry mobile phone in Mahakal VIP queue, Mahakal mandir me phone le jana mana hai kya, Mahakal mandir me photo khich sakte hai kya, mobile deposit counter location near Mahakal entry, Mahakal Lok me reel banane ke niyam, locker counter distance from Mahakal general entry, leave phone safely in hotel room 200m from Mahakal, DSLR and tripod restrictions at Mahakal temple campus, security frisking and scanner check Mahakal gates"
+          },
+          {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                      {
+                            "@type": "ListItem",
+                            "position": 1,
+                            "name": "Home",
+                            "item": "https://www.mahakalbhaktanivasujjain.com/"
+                      },
+                      {
+                            "@type": "ListItem",
+                            "position": 2,
+                            "name": "Blog",
+                            "item": "https://www.mahakalbhaktanivasujjain.com/blog"
+                      },
+                      {
+                            "@type": "ListItem",
+                            "position": 3,
+                            "name": "Mahakal Temple Photography and Mobile Rules: Allowed Zones Guide",
+                            "item": "https://www.mahakalbhaktanivasujjain.com/blog/mahakal-temple-photography-mobile-phone-rules-guide"
+                      }
+                ]
+          }
+    ]
+  },
+  {
     path: '/contact',
     title: 'Bhakta Niwas Ujjain Contact Number | Booking Enquiry',
     description: `Shri Mahakaleshwar Bhakta Niwas Ujjain contact number (${PHONE_NUMBER_DISPLAY}). Call or WhatsApp for room booking near Shri Mahakaleshwar Temple, Ujjain. 24hr reception desk.`,

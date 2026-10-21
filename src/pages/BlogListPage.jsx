@@ -60,13 +60,15 @@ const BlogListPage = () => {
         <div className="container mx-auto px-4 md:px-8 max-w-5xl">
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
             {blogPosts.map((post, idx) => (
-              <ScrollReveal key={post.slug} delay={idx * 150}>
+              <ScrollReveal key={post.slug} delay={(idx % 2) * 50}>
                 <article className="bg-white rounded-3xl overflow-hidden border border-brand-gold-500/15 shadow-sm hover:shadow-md transition-all duration-300 flex flex-col h-full group">
                   {/* Card Image */}
                   <div className="relative h-56 overflow-hidden bg-brand-burgundy-900">
                     <img
                       src={post.image}
                       alt={post.imageAlt}
+                      loading="lazy"
+                      decoding="async"
                       className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
                     />
                     <div className="absolute inset-0 bg-gradient-to-t from-brand-burgundy-900/60 to-transparent" />

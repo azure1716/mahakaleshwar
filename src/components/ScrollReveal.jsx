@@ -5,6 +5,11 @@ const ScrollReveal = ({ children, className = "", delay = 0 }) => {
   const [isVisible, setIsVisible] = useState(false);
 
   useEffect(() => {
+    if (typeof window === "undefined" || !("IntersectionObserver" in window)) {
+      setIsVisible(true);
+      return;
+    }
+
     const observer = new IntersectionObserver(
       ([entry]) => {
         if (entry.isIntersecting) {
@@ -13,8 +18,8 @@ const ScrollReveal = ({ children, className = "", delay = 0 }) => {
         }
       },
       {
-        threshold: 0.1,
-        rootMargin: "0px 0px -50px 0px", // Trigger slightly before the element fully enters
+        threshold: 0.02,
+        rootMargin: "150px 0px 50px 0px", // Trigger 150px ahead of viewport for instant responsiveness
       }
     );
 
@@ -34,7 +39,7 @@ const ScrollReveal = ({ children, className = "", delay = 0 }) => {
     <div
       ref={ref}
       className={`reveal-hidden ${isVisible ? "reveal-visible" : ""} ${className}`}
-      style={{ transitionDelay: `${delay}ms` }}
+      style={delay > 0 ? { transitionDelay: `${delay}ms` } : undefined}
     >
       {children}
     </div>
