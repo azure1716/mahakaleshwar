@@ -342,3 +342,28 @@ To ensure the new batch does not form an isolated island, 11 contextual links co
    - Updated comprehensive repository test suite validating all 50 posts, 60 sitemap URLs, 60 prerender routes, and all inbound retrofits (951/951 assertions passed).
 9. `SEO_BLOG_POSTS_REPORT_36-50.md`
    - Comprehensive documentation and verification report.
+
+---
+
+## 6. Blog Post Schema Specification (Taxonomy Update)
+
+Every blog post object in `src/data/blogPosts.js` must adhere to the following schema:
+- `id`: Unique integer (1 to N)
+- `slug`: URL slug string in kebab-case (e.g. `mahakal-darshan-timing...`)
+- `title`: Post headline string
+- `category`: Top-level taxonomy category (string, exactly one of: `"Stay & Booking Guides"`, `"Darshan & Aarti"`, `"Ujjain Travel"`, `"Nearby Places"`, `"Festivals & Events"`)
+- `tags`: Array of 2 to 5 specific topic strings drawn from the popular topics taxonomy
+- `subtitle`: Subtitle string
+- `seoTitle`: Concise SEO title (<= 60 chars)
+- `seoDescription`: Meta description (140-155 chars)
+- `datePublished`: Date string (`YYYY-MM-DD`)
+- `dateFormatted`: Formatted date string
+- `author`: Author string
+- `readTime`: Estimated reading time
+- `image`: Image asset import
+- `imageAlt`: Descriptive alt text
+- `excerpt`: Summary snippet
+- `highlights`: Array of stay and proximity highlights (including telephone)
+- `schema`: JSON-LD structured data (BlogPosting)
+- `sections`: Content sections array
+

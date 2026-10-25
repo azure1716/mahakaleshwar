@@ -1,9 +1,10 @@
 import { useEffect } from "react";
 import { useParams, Link, Navigate } from "react-router-dom";
 import SEO from "../components/SEO";
-import { blogPosts } from "../data/blogPosts";
-import { Calendar, Clock, ArrowLeft, MessageSquare, Phone, MapPin, CheckCircle2, ShieldCheck } from "lucide-react";
-import { PHONE_NUMBER_DISPLAY, PHONE_NUMBER_WHATSAPP, PHONE_NUMBER_TEL } from "../config";
+import { blogPosts } from "../data/blogPosts.js";
+import { Calendar, Clock, ArrowLeft, MessageSquare, Phone, MapPin, CheckCircle2, ShieldCheck, FolderOpen, Tag } from "lucide-react";
+import { PHONE_NUMBER_DISPLAY, PHONE_NUMBER_WHATSAPP, PHONE_NUMBER_TEL } from "../config.js";
+import { slugify } from "../data/blogTaxonomy.js";
 
 const renderFormattedText = (text) => {
   if (!text) return null;
@@ -80,12 +81,24 @@ const BlogPostPage = () => {
         <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-80 h-80 bg-brand-gold-500/5 rounded-full blur-[80px]" />
 
         <div className="container mx-auto px-4 md:px-8 relative z-10 max-w-4xl space-y-6">
-          <Link
-            to="/blog"
-            className="inline-flex items-center gap-2 text-xs font-bold uppercase tracking-widest text-brand-gold-400 hover:text-brand-gold-300 transition-colors"
-          >
-            <ArrowLeft size={14} /> Back to Blog & Guides
-          </Link>
+          <div className="flex flex-wrap items-center justify-between gap-3">
+            <Link
+              to="/blog"
+              className="inline-flex items-center gap-2 text-xs font-bold uppercase tracking-widest text-brand-gold-400 hover:text-brand-gold-300 transition-colors"
+            >
+              <ArrowLeft size={14} /> Back to Blog & Guides
+            </Link>
+
+            {post.category && (
+              <Link
+                to={`/blog/category/${slugify(post.category)}`}
+                className="inline-flex items-center gap-1.5 bg-brand-gold-500/15 hover:bg-brand-gold-500 hover:text-brand-burgundy-900 text-brand-gold-400 text-xs font-semibold px-3.5 py-1 rounded-full border border-brand-gold-500/30 transition-colors"
+              >
+                <FolderOpen size={13} />
+                <span>{post.category}</span>
+              </Link>
+            )}
+          </div>
 
           <h1 className="text-2xl sm:text-3xl md:text-5xl font-serif font-bold text-white leading-tight">
             {post.title}
@@ -109,6 +122,22 @@ const BlogPostPage = () => {
               Published by {post.author}
             </span>
           </div>
+
+          {Array.isArray(post.tags) && post.tags.length > 0 && (
+            <div className="flex flex-wrap items-center gap-2 pt-3 border-t border-brand-gold-500/15">
+              <span className="text-xs text-brand-gold-400/80 font-medium">Topics:</span>
+              {post.tags.map((tag) => (
+                <Link
+                  key={tag}
+                  to={`/blog/tag/${slugify(tag)}`}
+                  className="inline-flex items-center gap-1 bg-white/10 hover:bg-brand-gold-500 hover:text-brand-burgundy-900 text-brand-cream-100 text-[11px] font-medium px-2.5 py-0.5 rounded-full border border-white/15 transition-all"
+                >
+                  <Tag size={10} className="opacity-80" />
+                  <span>{tag}</span>
+                </Link>
+              ))}
+            </div>
+          )}
         </div>
       </section>
 
@@ -248,6 +277,42 @@ const BlogPostPage = () => {
                   Contact Reception Desk
                 </Link>
               </div>
+            </div>
+
+            {/* Category and Topics Footer Cross-links */}
+            <div className="pt-6 border-t border-brand-gold-500/15 flex flex-col sm:flex-row sm:items-center justify-between gap-4 bg-brand-cream-50/60 p-5 rounded-2xl border border-brand-gold-500/15">
+              {post.category && (
+                <div className="flex items-center gap-2">
+                  <span className="text-xs font-bold uppercase tracking-wider text-brand-burgundy-900">
+                    Category:
+                  </span>
+                  <Link
+                    to={`/blog/category/${slugify(post.category)}`}
+                    className="inline-flex items-center gap-1.5 bg-brand-burgundy-900 text-brand-gold-400 hover:bg-brand-gold-500 hover:text-brand-burgundy-900 text-xs font-semibold px-3 py-1 rounded-full border border-brand-gold-500/30 transition-colors"
+                  >
+                    <FolderOpen size={12} />
+                    <span>{post.category}</span>
+                  </Link>
+                </div>
+              )}
+
+              {Array.isArray(post.tags) && post.tags.length > 0 && (
+                <div className="flex flex-wrap items-center gap-1.5">
+                  <span className="text-xs font-bold uppercase tracking-wider text-brand-burgundy-900">
+                    Explore Topics:
+                  </span>
+                  {post.tags.map((tag) => (
+                    <Link
+                      key={tag}
+                      to={`/blog/tag/${slugify(tag)}`}
+                      className="text-[11px] bg-white hover:bg-brand-gold-500 hover:text-brand-burgundy-900 text-brand-burgundy-800 font-medium px-2.5 py-0.5 rounded-full border border-brand-gold-500/20 transition-all inline-flex items-center gap-1"
+                    >
+                      <Tag size={10} className="text-brand-gold-500" />
+                      <span>{tag}</span>
+                    </Link>
+                  ))}
+                </div>
+              )}
             </div>
 
           </article>

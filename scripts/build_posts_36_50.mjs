@@ -1,5 +1,6 @@
 // scripts/build_posts_36_50.mjs
 // Generates the 15 new SEO blog posts (IDs 36-50) for Shri Mahakaleshwar Bhakta Niwas
+// Schema Requirement: Every post must specify `category` (string from top-level taxonomy) and `tags` (array of 2-5 strings).
 
 export const newPosts = [
   {

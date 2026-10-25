@@ -167,9 +167,9 @@ inboundChecks.forEach(ic => {
 // 2. Check public/sitemap.xml
 const sitemapRaw = fs.readFileSync('public/sitemap.xml', 'utf8');
 const sitemapLocs = [...sitemapRaw.matchAll(/<loc>([^<]+)<\/loc>/g)].map(m => m[1]);
-check(sitemapLocs.length === 60, `Expected 60 URLs in sitemap.xml, found ${sitemapLocs.length}`);
+check(sitemapLocs.length === 95, `Expected 95 URLs in sitemap.xml (60 pages/posts + 5 categories + 30 tags), found ${sitemapLocs.length}`);
 const uniqueSitemapLocs = new Set(sitemapLocs);
-check(uniqueSitemapLocs.size === 60, `Expected 60 unique URLs in sitemap.xml, found ${uniqueSitemapLocs.size}`);
+check(uniqueSitemapLocs.size === 95, `Expected 95 unique URLs in sitemap.xml, found ${uniqueSitemapLocs.size}`);
 check(sitemapRaw.includes('<loc>https://www.mahakalbhaktanivasujjain.com/blog</loc>\n    <lastmod>2026-10-21</lastmod>'),
   `Expected /blog lastmod to be 2026-10-21 in sitemap.xml`);
 

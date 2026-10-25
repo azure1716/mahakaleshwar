@@ -1,7 +1,13 @@
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
+import { register } from 'node:module';
 import { PHONE_NUMBER_DISPLAY, PHONE_NUMBER_SCHEMA } from '../src/config.js';
+
+// Register ESM asset loader to safely import modules containing asset imports (.webp, etc.)
+register(new URL('./asset_loader.mjs', import.meta.url));
+
+const { getCategories, getTags } = await import('../src/data/blogTaxonomy.js');
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -3160,6 +3166,76 @@ const routes = [
     }
   }
 ];
+
+// Programmatically generate prerender routes for all categories and tags from taxonomy utility
+const taxonomyCategories = getCategories();
+const taxonomyTags = getTags();
+
+for (const cat of taxonomyCategories) {
+  routes.push({
+    path: `/blog/category/${cat.slug}`,
+    title: `${cat.name} | Pilgrim Blog | Shri Mahakaleshwar Bhakta Niwas`,
+    description: `Browse essential ${cat.name} guides for visiting Shri Mahakaleshwar Temple in Ujjain. Room tariffs, timings, and pilgrim advice.`,
+    canonicalPath: `/blog/category/${cat.slug}`,
+    schemaData: {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.mahakalbhaktanivasujjain.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://www.mahakalbhaktanivasujjain.com/blog"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": cat.name,
+          "item": `https://www.mahakalbhaktanivasujjain.com/blog/category/${cat.slug}`
+        }
+      ]
+    }
+  });
+}
+
+for (const tag of taxonomyTags) {
+  routes.push({
+    path: `/blog/tag/${tag.slug}`,
+    title: `${tag.name} | Pilgrim Blog | Shri Mahakaleshwar Bhakta Niwas`,
+    description: `Pilgrim articles and guides covering ${tag.name} for Shri Mahakaleshwar Temple, Ujjain. Helpful advice on darshan, rituals, and stay.`,
+    canonicalPath: `/blog/tag/${tag.slug}`,
+    schemaData: {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.mahakalbhaktanivasujjain.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://www.mahakalbhaktanivasujjain.com/blog"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": tag.name,
+          "item": `https://www.mahakalbhaktanivasujjain.com/blog/tag/${tag.slug}`
+        }
+      ]
+    }
+  });
+}
 
 function prerenderRoute(baseHtml, meta) {
   let html = baseHtml;

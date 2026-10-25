@@ -25,6 +25,8 @@ function App() {
         <Route path="about" element={<AboutPage />} />
         <Route path="mahakaleshwar-temple-guide" element={<TempleGuidePage />} />
         <Route path="blog" element={<BlogListPage />} />
+        <Route path="blog/category/:categorySlug" element={<BlogListPage />} />
+        <Route path="blog/tag/:tagSlug" element={<BlogListPage />} />
         <Route path="blog/:slug" element={<BlogPostPage />} />
         <Route path="contact" element={<ContactPage />} />
       </Route>
